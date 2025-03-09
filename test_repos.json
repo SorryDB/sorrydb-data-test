@@ -1,0 +1,8 @@
+{
+    "documentation": "List of repositories to serve as a test suite. Branch names are optional (default to default branch).",
+    "repos": [
+        {
+            "remote": "https://github.com/austinletson/sorryClientTestRepo"
+        }
+    ]
+}
