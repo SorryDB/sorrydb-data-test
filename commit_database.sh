@@ -1,7 +1,9 @@
 #!/bin/bash
 
+cd /home/austin/development/lean/sorry-index/sorry-db-data-test
+
 # Update sorry_database.json
-update_db --database sorry_database.json                                                                                                                                [I]
+update_db --database sorry_database.json
 
 # Get current timestamp
 CURRENT_TIME=$(date "+%Y-%m-%d %H:%M:%S")
