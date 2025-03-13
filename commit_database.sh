@@ -14,10 +14,11 @@ if ! cd /home/austin/development/lean/sorry-index/sorry-db-data-test; then
 fi
 
 echo "Updating database..."
-# Update sorry_database.json
-if ! /home/austin/.local/bin/update_db --database sorry_database.json; then
-  handle_error "Failed to update the database"
-fi
+# Run the Docker container with the mounted volume to update databse
+docker run \
+  --mount type=bind,source=/home/austin/development/lean/sorry-index/sorry-db-data-test,target=/data \
+  sorrydb:latest \
+  poetry run update_db --database-file /data/sorry_database.json
 
 # Get current timestamp
 CURRENT_TIME=$(date "+%Y-%m-%d %H:%M:%S")
