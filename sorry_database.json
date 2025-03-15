@@ -2,8 +2,8 @@
   "repos": [
     {
       "remote_url": "https://github.com/austinletson/sorryClientTestRepo",
-      "last_time_visited": "2025-03-14T05:00:12.476611+00:00",
-      "remote_heads_hash": "eb70c17d3c84",
+      "last_time_visited": "2025-03-15T05:00:57.484998+00:00",
+      "remote_heads_hash": "24f2d32ed5ed",
       "commits": [
         {
           "sha": "78202012bfe87f99660ba2fe5973eb1a8110ab64",
@@ -216,6 +216,123 @@
               "uuid": "2fa9ff3a-49ec-4460-bc2d-1764380f540a"
             }
           ]
+        },
+        {
+          "sha": "f8632a130a6539d9f546a4ef7b412bc3d86c0f63",
+          "branch": "master",
+          "time_visited": "2025-03-15T05:00:57.484998+00:00",
+          "lean_version": "v4.16.0",
+          "sorries": [
+            {
+              "goal": {
+                "type": "\u22a2 1 + 1 = 2",
+                "hash": "c118ed11456b",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 4,
+                "startColumn": 2,
+                "endLine": 4,
+                "endColumn": 7,
+                "file": "SorryClientTestRepo/BasicWithElabTactic.lean"
+              },
+              "blame": {
+                "commit": "4a5aa5852385523841b4802064777062c636c771",
+                "author": "LennyTaelman",
+                "author_email": "lenny.taelman@gmail.com",
+                "date": "2025-02-27T16:30:37+01:00",
+                "summary": "add version importing LeanElabTactic for parent type inference"
+              },
+              "uuid": "65a3b008-fa74-42bb-9ebe-bbc1ba7ee369"
+            },
+            {
+              "goal": {
+                "type": "\u22a2 1 + 1 = 2",
+                "hash": "c118ed11456b",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 7,
+                "startColumn": 2,
+                "endLine": 7,
+                "endColumn": 7,
+                "file": "SorryClientTestRepo/BasicWithElabTactic.lean"
+              },
+              "blame": {
+                "commit": "cda85414242d242cbe00f6bca07df206ba4c375b",
+                "author": "austinletson",
+                "author_email": "waustinletson@gmail.com",
+                "date": "2025-03-07T07:00:23-05:00",
+                "summary": "add a second sorry"
+              },
+              "uuid": "d95dd2ac-3686-4f15-8ccd-3b80814f4205"
+            },
+            {
+              "goal": {
+                "type": "\u22a2 1 + 4 = 5",
+                "hash": "aade751ec21b",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 10,
+                "startColumn": 2,
+                "endLine": 10,
+                "endColumn": 7,
+                "file": "SorryClientTestRepo/BasicWithElabTactic.lean"
+              },
+              "blame": {
+                "commit": "faa95e535f67412d3c00dfb023a8f9fbb4c39e4c",
+                "author": "Austin Letson",
+                "author_email": "waustinletson@gmail.com",
+                "date": "2025-03-13T06:55:53-04:00",
+                "summary": "Update BasicWithElabTactic.lean"
+              },
+              "uuid": "c4e3f267-c6d8-457b-b111-362270481f94"
+            },
+            {
+              "goal": {
+                "type": "\u22a2 1 + 4 = 5",
+                "hash": "aade751ec21b",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 14,
+                "startColumn": 2,
+                "endLine": 14,
+                "endColumn": 7,
+                "file": "SorryClientTestRepo/BasicWithElabTactic.lean"
+              },
+              "blame": {
+                "commit": "82ef06735b33ed21187f6dad56032e933e15e653",
+                "author": "Austin Letson",
+                "author_email": "waustinletson@gmail.com",
+                "date": "2025-03-13T06:58:58-04:00",
+                "summary": "Update BasicWithElabTactic.lean"
+              },
+              "uuid": "ffbbc3a3-6d92-4075-8d3e-a4b200e82ee0"
+            },
+            {
+              "goal": {
+                "type": "\u22a2 1 + 1 = 2",
+                "hash": "c118ed11456b"
+              },
+              "location": {
+                "startLine": 4,
+                "startColumn": 37,
+                "endLine": 4,
+                "endColumn": 42,
+                "file": "SorryClientTestRepo/Basic.lean"
+              },
+              "blame": {
+                "commit": "69ade1690eb58f50ac18e2983039244fe473b770",
+                "author": "austinletson",
+                "author_email": "waustinletson@gmail.com",
+                "date": "2025-02-23T07:54:03-05:00",
+                "summary": "create test sorry"
+              },
+              "uuid": "d9d79465-7f7e-4add-aef6-2b60bda4fedd"
+            }
+          ]
         }
       ]
     },
@@ -352,8 +469,8 @@
     },
     {
       "remote_url": "https://github.com/fpvandoorn/carleson",
-      "last_time_visited": "2025-03-14T05:04:39.190662+00:00",
-      "remote_heads_hash": "bc3693ab0d29",
+      "last_time_visited": "2025-03-15T05:01:25.622945+00:00",
+      "remote_heads_hash": "a27caad5b6f7",
       "commits": [
         {
           "sha": "4948e4de58968b2dad5de3b3aaf7f7014a4e8375",
@@ -4372,6 +4489,1972 @@
                 "summary": "split chapter 10 file (#223)"
               },
               "uuid": "5b0eb7c8-b09e-4887-bb41-b8f9ce89febd"
+            }
+          ]
+        },
+        {
+          "sha": "b03345efeb0fcdcd25bc72b95c019649533e370b",
+          "branch": "master",
+          "time_visited": "2025-03-15T05:01:25.622945+00:00",
+          "lean_version": "v4.18.0-rc1",
+          "sorries": [
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d\u00b9 : IsCancellative X (default\u03c4 a)\ninst\u271d : IsOneSidedKernel a K\nha : 4 \u2264 a\nhq : q \u2208 Ioc 1 2\nhqq' : q.IsConjExponent q'\nQ : SimpleFunc X (\u0398 X)\n\u03b8 : \u0398 X\nhF : MeasurableSet F\nhG : MeasurableSet G\nhT :\n  HasBoundedStrongType (fun x1 x2 => (linearizedNontangentialOperator (\u21d1Q) \u03b8 K x1 x2).toReal) 2 2 volume volume\n    (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\n\u22a2 \u222b\u207b (x : X) in G, linearizedCarlesonOperator (\u21d1Q) K f x \u2264 \u2191(C1_0_3 a q) * volume G ^ (\u2191q')\u207b\u00b9 * volume F ^ (\u2191q)\u207b\u00b9",
+                "hash": "a17ef5219856",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 30,
+                "startColumn": 2,
+                "endLine": 30,
+                "endColumn": 7,
+                "file": "Carleson/LinearizedMetricCarleson.lean"
+              },
+              "blame": {
+                "commit": "4cc963c3b86a416d8d24bfc70edb3af7444eb901",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-07-30T10:31:30+02:00",
+                "summary": "Cleanup Defs"
+              },
+              "uuid": "7f148400-ff25-47d6-be80-a626e3682400"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\ninst\u271d\u00b2 : PseudoMetricSpace X\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Set (\ud835\udd13 X)\n\u22a2 IsAntichain (fun x1 x2 => x1 \u2264 x2) (toTileLike '' \ud835\udd04) \u2194\n    \u2200 (p p' : \ud835\udd13 X), p \u2208 \ud835\udd04 \u2192 p' \u2208 \ud835\udd04 \u2192 p \u2260 p' \u2192 Disjoint (toTileLike p).toTile (toTileLike p').toTile",
+                "hash": "543db9443dc4",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 520,
+                "startColumn": 70,
+                "endLine": 520,
+                "endColumn": 75,
+                "file": "Carleson/TileStructure.lean"
+              },
+              "blame": {
+                "commit": "b788b2495b5cc06cb8507186eee8b90405f8730a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-07-03T17:09:05+02:00",
+                "summary": "Some reorganization and cleanup"
+              },
+              "uuid": "4866fb5b-d19c-4963-bd3c-b6ec7b661402"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b9 : MetricSpace X\ninst\u271d : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\nz : X\nR t : \u211d\nhR : 0 < R\nC : \u211d\u22650\n\u03d5 : X \u2192 \u2102\nh\u03d5 : support \u03d5 \u2286 ball z R\nh2\u03d5 : HolderWith C nn\u03c4 \u03d5\nht : t \u2208 Ioc 0 1\n\u22a2 LipschitzWith (C8_0_1 \u2191a \u27e8t, \u22ef\u27e9) (holderApprox R t \u03d5)",
+                "hash": "502e91039e6d",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 218,
+                "startColumn": 2,
+                "endLine": 218,
+                "endColumn": 7,
+                "file": "Carleson/HolderVanDerCorput.lean"
+              },
+              "blame": {
+                "commit": "ebacc93b62bbbeee16595937d93eaa85818cc23c",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-07-19T16:30:05+02:00",
+                "summary": "Prepare chapter 8"
+              },
+              "uuid": "dcf14bdc-a1bc-40b2-9dde-15879a46e449"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b9 : MetricSpace X\ninst\u271d : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\nz : X\nR : \u211d\u22650\nhR : 0 < R\n\u03d5 : X \u2192 \u2102\nh\u03d5 : support \u03d5 \u2286 ball z \u2191R\nh2\u03d5 : hnorm \u03d5 z R < \u22a4\nf g : \u0398 X\n\u22a2 \u2191\u2016\u222b (x : X), cexp (I * (\u2191(f x) - \u2191(g x))) * \u03d5 x\u2016\u208a \u2264\n    \u2191(C2_0_5 \u2191a) * volume (ball z \u2191R) * hnorm \u03d5 z R * (1 + \u2191(nndist_{z ,\u2191R} f g)) ^ (2 * \u2191a ^ 2 + \u2191a ^ 3)\u207b\u00b9",
+                "hash": "190971b9c267",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 229,
+                "startColumn": 55,
+                "endLine": 229,
+                "endColumn": 60,
+                "file": "Carleson/HolderVanDerCorput.lean"
+              },
+              "blame": {
+                "commit": "99645a0284ebc24a3118dbb7e5b7a8455507e47b",
+                "author": "Jeremy Tan Jie Rui",
+                "author_email": "reddeloostw@gmail.com",
+                "date": "2024-07-01T23:56:16+08:00",
+                "summary": "Enforce `a`-related parameters as natural numbers (#48)"
+              },
+              "uuid": "70e6ffcd-b063-4698-a06e-e03b7d4743e2"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d\u00b9 : IsCancellative X (default\u03c4 a)\ninst\u271d : IsOneSidedKernel a K\nha : 4 \u2264 a\nhq : q \u2208 Ioc 1 2\nhqq' : q.IsConjExponent q'\nhF : MeasurableSet F\nhG : MeasurableSet G\nhT : HasBoundedStrongType (fun x1 x2 => nontangentialOperator K x1 x2) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\n\u22a2 \u222b\u207b (x : X) in G, carlesonOperator K f x \u2264 \u2191(C1_0_2 a q) * volume G ^ (\u2191q')\u207b\u00b9 * volume F ^ (\u2191q)\u207b\u00b9",
+                "hash": "d86f4896c743",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 33,
+                "startColumn": 2,
+                "endLine": 33,
+                "endColumn": 7,
+                "file": "Carleson/MetricCarleson.lean"
+              },
+              "blame": {
+                "commit": "743fbe4ea5741cd92c855e66055ba156f232beff",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-06-16T22:39:23+02:00",
+                "summary": "update Lean to new blueprint"
+              },
+              "uuid": "06d56104-3e23-44c8-b581-8088fdef0624"
+            },
+            {
+              "goal": {
+                "type": "f : \u211d \u2192 \u2102\nn : \u2115\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nperiodic_f : Function.Periodic f (2 * \u03c0)\nx : \u211d\n\u22a2 partialFourierSum n (partialFourierSum n f) x = partialFourierSum n f x",
+                "hash": "62c043d1b8e2",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 58,
+                "startColumn": 2,
+                "endLine": 58,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "32c424cc-5a5d-4b10-988f-9aa667b9761a"
+            },
+            {
+              "goal": {
+                "type": "f g : \u211d \u2192 \u2102\nn : \u2115\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nperiodic_f : Function.Periodic f (2 * \u03c0)\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nperiodic_g : Function.Periodic g (2 * \u03c0)\n\u22a2 \u222b (x : \u211d) in 0 ..2 * \u03c0, (starRingEnd \u2102) (partialFourierSum n f x) * g x =\n    \u222b (x : \u211d) in 0 ..2 * \u03c0, (starRingEnd \u2102) (f x) * partialFourierSum n g x",
+                "hash": "823c09211c4b",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 68,
+                "startColumn": 2,
+                "endLine": 68,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "d8e3cb6f-fd71-4677-925b-9b51a6124443"
+            },
+            {
+              "goal": {
+                "type": "g : \u211d \u2192 \u2102\nn : \u2115\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nperiodic_g : Function.Periodic g (2 * \u03c0)\n\u22a2 (fun p => eLpNorm ((Ioc 0 (2 * \u03c0)).indicator (approxHilbertTransform n g)) p volume) \u2264 fun p =>\n    eLpNorm ((Ioc 0 (2 * \u03c0)).indicator g) p volume",
+                "hash": "5d8288a56894",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 128,
+                "startColumn": 2,
+                "endLine": 128,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "e7bd9cf6-13c1-46e9-b975-4afa9ce614c7"
+            },
+            {
+              "goal": {
+                "type": "f g : \u211d \u2192 \u2102\nn : \u2115\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nperiodic_f : Function.Periodic f (2 * \u03c0)\nhmg : Measurable g\nhg\u271d : eLpNorm g \u22a4 volume < \u22a4\nperiodic_g : Function.Periodic g (2 * \u03c0)\nr : \u211d\nhr : r \u2208 Ioo 0 \u03c0\nhg : \u2200 (x : \u211d), \u2016g x\u2016 \u2264 niceKernel r x\n\u22a2 eLpNorm ((Ioc 0 (2 * \u03c0)).indicator fun x => \u222b (y : \u211d) in 0 ..2 * \u03c0, f y * g (x - y)) 2 volume \u2264\n    2 ^ 5 * eLpNorm ((Ioc 0 (2 * \u03c0)).indicator f) 2 volume",
+                "hash": "84bb613b43fa",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 154,
+                "startColumn": 2,
+                "endLine": 154,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "35b8bc82-3e53-4fb8-bb3d-031d2d77a0b4"
+            },
+            {
+              "goal": {
+                "type": "n : \u2115\n\u22a2 Continuous (dirichletApprox n)",
+                "hash": "d5512e70c2fc",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 162,
+                "startColumn": 2,
+                "endLine": 162,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "33478a6d-5d6e-4a97-bef1-cf6d764033ad"
+            },
+            {
+              "goal": {
+                "type": "n : \u2115\n\u22a2 Function.Periodic (dirichletApprox n) (2 * \u03c0)",
+                "hash": "0bddecc2174c",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 166,
+                "startColumn": 2,
+                "endLine": 166,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "6713b1b1-5a6f-4b63-bcf7-bcf25c7b7c94"
+            },
+            {
+              "goal": {
+                "type": "f : \u211d \u2192 \u2102\nn\u271d : \u2115\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nperiodic_f : Function.Periodic f (2 * \u03c0)\nn : \u2115\nx : \u211d\n\u22a2 approxHilbertTransform n f x = \u2191(2 * \u03c0)\u207b\u00b9 * \u222b (y : \u211d) in 0 ..2 * \u03c0, f y * dirichletApprox n (x - y)",
+                "hash": "37340d12a206",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 176,
+                "startColumn": 2,
+                "endLine": 176,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "2966deb0-9508-4b7c-b17a-c8cad09676d9"
+            },
+            {
+              "goal": {
+                "type": "f : \u211d \u2192 \u2102\nn\u271d : \u2115\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nperiodic_f : Function.Periodic f (2 * \u03c0)\nr : \u211d\nhr : r \u2208 Ioo 0 1\nn : \u2115\nhn : n = \u2308r\u207b\u00b9\u2309\u208a\nx : \u211d\n\u22a2 dist (dirichletApprox n x) ({y | \u2016y\u2016 \u2208 Ioo r 1}.indicator 1 \u2191x) \u2264 2 ^ 5 * niceKernel r x",
+                "hash": "c5d8073d6e3d",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 186,
+                "startColumn": 2,
+                "endLine": 186,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "41b90d3c-ca07-43d8-a898-7e9832e21fd9"
+            },
+            {
+              "goal": {
+                "type": "r : \u211d\nhr : 0 < r\n\u22a2 HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts 4)",
+                "hash": "c9546f557ae5",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 199,
+                "startColumn": 2,
+                "endLine": 199,
+                "endColumn": 7,
+                "file": "Carleson/Classical/HilbertStrongType.lean"
+              },
+              "blame": {
+                "commit": "068d8329dd78e1232054702f7bfdf1f8123a656a",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-23T00:03:48+01:00",
+                "summary": "State remaining results in chapter 11 (#217)"
+              },
+              "uuid": "1a724553-c147-449f-9f42-ee31f4b768c3"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d : NormedAddCommGroup E\nf : X \u2192 E\nhf : LocallyIntegrable f \u03bc\n\u22a2 ContinuousOn (fun x => \u2a0d\u207b (y : X) in ball x.1 x.2, \u2016f y\u2016\u2091 \u2202\u03bc) (univ \u00d7\u02e2 Ioi 0)",
+                "hash": "2b42ed3106eb",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 78,
+                "startColumn": 2,
+                "endLine": 78,
+                "endColumn": 7,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "86c0dbf0-2ecb-4a70-834c-1083a810f15e"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u00b9\u00b9 : MetricSpace X\ninst\u271d\u00b9\u2070 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2079 : \u03bc.IsDoubling A\ninst\u271d\u2078 : NormedAddCommGroup E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\ninst\u271d\u2077 : BorelSpace X\ninst\u271d\u2076 : NormedSpace \u211d E\ninst\u271d\u2075 : MeasurableSpace E\ninst\u271d\u2074 : BorelSpace E\ninst\u271d\u00b3 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b2 : ProperSpace X\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\nh\ud835\udcd1 : \ud835\udcd1.Countable\nR : \u211d\nhR : \u2200 i \u2208 \ud835\udcd1, r i \u2264 R\np : \u211d\u22650\nhp : 1 < p\n\u22a2 \u2200 (f : X \u2192 E), MemLp f (\u2191p) \u03bc \u2192 \u2200\u1d50 (x : X) \u2202\u03bc, MB \u03bc \ud835\udcd1 c r f x \u2260 \u22a4",
+                "hash": "26c2a4cc9641",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 392,
+                "startColumn": 33,
+                "endLine": 392,
+                "endColumn": 38,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "451f4568375c1be265a0beb82adb601f9a3ee74d",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-20T18:21:24+01:00",
+                "summary": "transition between having weak/strong type with toReal (#210)"
+              },
+              "uuid": "5443ab47-6882-4725-a06a-47fe17cf884c"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\ninst\u271d\u2074 : BorelSpace X\ninst\u271d\u00b3 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b2 : ProperSpace X\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nh\ud835\udcd1 : \ud835\udcd1.Countable\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 < p\u2082\nv : X \u2192 E\nmlpv : MemLp v (\u2191p\u2082) \u03bc\n\u22a2 AEStronglyMeasurable ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) \u03bc \u2227\n    eLpNorm ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) (\u2191p\u2082) \u03bc \u2264 \u2191(C2_0_6 A p\u2081 p\u2082) * eLpNorm v (\u2191p\u2082) \u03bc",
+                "hash": "64460ae693f2",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 450,
+                "startColumn": 2,
+                "endLine": 450,
+                "endColumn": 7,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "c9d26422-42a8-4657-98e0-e54d824642a3"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d : NormedAddCommGroup E\nf : X \u2192 E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\nhf : LocallyIntegrable f \u03bc\n\u22a2 LowerSemicontinuous (MB \u03bc \ud835\udcd1 c r f)",
+                "hash": "4633d845cce4",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 455,
+                "startColumn": 2,
+                "endLine": 455,
+                "endColumn": 7,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "e1b296e9-8441-472d-8b21-52217b4fa122"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\ninst\u271d\u2074 : BorelSpace X\ninst\u271d\u00b3 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b2 : ProperSpace X\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nh\ud835\udcd1 : \ud835\udcd1.Countable\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 \u2264 p\u2082\nv : X \u2192 E\nmlpv : MemLp v (\u2191p\u2082) \u03bc\n\u22a2 AEStronglyMeasurable ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) \u03bc \u2227\n    wnorm ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) (\u2191p\u2082) \u03bc \u2264 \u2191(A ^ 2) * eLpNorm v (\u2191p\u2082) \u03bc",
+                "hash": "f970f41dfa00",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 468,
+                "startColumn": 2,
+                "endLine": 468,
+                "endColumn": 7,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "bfc8a412-0625-422e-bb65-dfbd6ebced9d"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\ninst\u271d\u2074 : ProperSpace X\ninst\u271d\u00b3 : BorelSpace X\ninst\u271d\u00b2 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 < p\u2082\n\u22a2 \u2200 (f : X \u2192 E),\n    MemLp f (\u2191p\u2082) \u03bc \u2192\n      \u2200\u1d50 (x : X) \u2202\u03bc, maximalFunction \u03bc (\u22ef.choose \u00d7\u02e2 univ) (fun x => x.1) (fun x => 2 ^ x.2) (\u2191p\u2081) f x \u2260 \u22a4",
+                "hash": "eae1851b2aaf",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 534,
+                "startColumn": 31,
+                "endLine": 534,
+                "endColumn": 36,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "d9b8b90d-9ea2-4942-9669-a6f598b93259"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\ninst\u271d\u2074 : ProperSpace X\ninst\u271d\u00b3 : BorelSpace X\ninst\u271d\u00b2 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 \u2264 p\u2082\n\u22a2 \u2200 (f : X \u2192 E),\n    MemLp f (\u2191p\u2082) \u03bc \u2192\n      \u2200\u1d50 (x : X) \u2202\u03bc, maximalFunction \u03bc (\u22ef.choose \u00d7\u02e2 univ) (fun x => x.1) (fun x => 2 ^ x.2) (\u2191p\u2081) f x \u2260 \u22a4",
+                "hash": "a576adf57b06",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 545,
+                "startColumn": 29,
+                "endLine": 545,
+                "endColumn": 34,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "7095ed92-f1d1-4e5e-86a4-2f021d97938b"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u00b2 : \u03bc.IsDoubling A\ninst\u271d\u00b9 : NormedAddCommGroup E\nf : X \u2192 E\ninst\u271d : ProperSpace X\nhf : LocallyIntegrable f \u03bc\n\u22a2 LowerSemicontinuous (globalMaximalFunction \u03bc 1 f)",
+                "hash": "60ba45b50d0e",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 551,
+                "startColumn": 2,
+                "endLine": 551,
+                "endColumn": 7,
+                "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+              },
+              "blame": {
+                "commit": "69d457e4386e847fb6205db9823a70c5eb7ca479",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-06-20T19:02:09+02:00",
+                "summary": "forgot to add file"
+              },
+              "uuid": "8f4fa7b0-4e34-4c95-95bb-ed4e323694ef"
+            },
+            {
+              "goal": {
+                "type": "\u03b5 : Type u_3\ninst\u271d\u2075 : TopologicalSpace \u03b5\ninst\u271d\u2074 : ContinuousENorm \u03b5\n\ud835\udd5c : Type u_12\nE' : Type u_13\n\u03b1 : Type u_14\n\u03b1' : Type u_15\ninst\u271d\u00b3 : NormedAddCommGroup E'\n_x : MeasurableSpace \u03b1\n_x' : MeasurableSpace \u03b1'\nT : (\u03b1 \u2192 \u03b5) \u2192 \u03b1' \u2192 E'\np p' : \u211d\u22650\u221e\n\u03bc : Measure \u03b1\n\u03bd : Measure \u03b1'\nc : \u211d\u22650\nh : HasWeakType T p p' \u03bc \u03bd c\ninst\u271d\u00b2 : NormedRing \ud835\udd5c\ninst\u271d\u00b9 : MulActionWithZero \ud835\udd5c E'\ninst\u271d : IsBoundedSMul \ud835\udd5c E'\nk : \ud835\udd5c\nf : \u03b1 \u2192 \u03b5\nhf : MemLp f p \u03bc\n\u22a2 wnorm ((k \u2022 T) f) p' \u03bd \u2264 \u2191(\u2016k\u2016\u208a * c) * eLpNorm f p \u03bc",
+                "hash": "4ed1baa9e6d5",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 602,
+                "startColumn": 2,
+                "endLine": 602,
+                "endColumn": 7,
+                "file": "Carleson/ToMathlib/WeakType.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "e55912f4-1437-49ba-8213-ba4616286ab0"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_4 a n) *\n        eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+                "hash": "06f3318e0d8a",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 37,
+                "startColumn": 2,
+                "endLine": 37,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/Forests.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "b8bbac88-0927-42eb-a79c-18b3618267ec"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_4 a n) *\n        eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+                "hash": "5761df6b29af",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 49,
+                "startColumn": 2,
+                "endLine": 49,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/Forests.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "35b6f576-331e-4018-aeef-55ca6b4cd961"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn j : \u2115\nt : Forest X n\nf : X \u2192 \u2102\nhj : j < 2 ^ n\nhg : BoundedCompactSupport f\nh2f : \u2200 (x : X), \u2016f x\u2016 \u2264 G.indicator 1 x\n\u22a2 eLpNorm (\u2211 u \u2208 Finset.filter (fun p => p \u2208 t.rowDecomp j) Finset.univ, adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f) 2\n      volume \u2264\n    \u2191(C7_7_2_1 a n) * eLpNorm f 2 volume",
+                "hash": "b06aaea9e887",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 255,
+                "startColumn": 2,
+                "endLine": 255,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/Forests.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "6e9e5d69-bacb-471c-8983-b884197a681a"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn j : \u2115\nt : Forest X n\nu : \ud835\udd13 X\nf : X \u2192 \u2102\nhj : j < 2 ^ n\nhf : BoundedCompactSupport f\nh2f : \u2200 (x : X), \u2016f x\u2016 \u2264 G.indicator 1 x\n\u22a2 eLpNorm\n      ((\u2211 u \u2208 Finset.filter (fun p => p \u2208 t.rowDecomp j) Finset.univ, F.indicator)\n        (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f))\n      2 volume \u2264\n    \u2191(C7_7_2_2 a n) * dens\u2082 (\u22c3 u \u2208 t, (fun x => t.\ud835\udd17 x) u) ^ 2\u207b\u00b9 * eLpNorm f 2 volume",
+                "hash": "4016b2d81bde",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 262,
+                "startColumn": 2,
+                "endLine": 262,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/Forests.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "b5908fff-7ccf-4ac3-961f-94f2df46cfd1"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn j j' : \u2115\nt : Forest X n\nf\u2081 f\u2082 : X \u2192 \u2102\nhjj' : j < j'\nhj' : j' < 2 ^ n\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nh3f\u2081 : \u2200 (x : X), \u2016f\u2081 x\u2016 \u2264 G.indicator 1 x\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\nh3f\u2082 : \u2200 (x : X), \u2016f\u2082 x\u2016 \u2264 G.indicator 1 x\n\u22a2 \u2191\u2016\u222b (x : X),\n          (\u2211 u \u2208 Finset.filter (fun p => p \u2208 t.rowDecomp j) Finset.univ, adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f\u2081 x) *\n            \u2211 u \u2208 Finset.filter (fun p => p \u2208 t.rowDecomp j') Finset.univ,\n              adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f\u2082 x\u2016\u208a \u2264\n    \u2191(C7_7_3 a n) * eLpNorm f\u2081 2 volume * eLpNorm f\u2082 2 volume",
+                "hash": "cec0c85f0edf",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 276,
+                "startColumn": 2,
+                "endLine": 276,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/Forests.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "693c9d63-721d-4c69-89a2-0f8a64405996"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\n\ud835\udd09 : Forest X n\nf g : X \u2192 \u2102\nhf : Measurable f\nh2f : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhg : Measurable g\nh2g : Bornology.IsBounded (support g)\n\u22a2 \u2191\u2016\u222b (x : X),\n          (starRingEnd \u2102) (g x) *\n            \u2211 u \u2208 Finset.filter (fun p => p \u2208 \ud835\udd09) Finset.univ, carlesonSum ((fun x => \ud835\udd09.\ud835\udd17 x) u) f x\u2016\u208a \u2264\n    \u2191(C2_0_4 (\u2191a) q n) * dens\u2082 (\u22c3 u \u2208 \ud835\udd09, (fun x => \ud835\udd09.\ud835\udd17 x) u) ^ (q\u207b\u00b9 - 2\u207b\u00b9) * eLpNorm f 2 volume * eLpNorm g 2 volume",
+                "hash": "38ed2a6d1f80",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 346,
+                "startColumn": 2,
+                "endLine": 346,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/Forests.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "0694f936-9b18-4cbc-bfea-2c5f10f8cb8d"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf : Bornology.IsBounded (range f)\nh2f : HasCompactSupport f\nh3f : AEStronglyMeasurable f volume\n\u22a2 eLpNorm (approxOnCube (t.\ud835\udcd9\u2086 u\u2081) fun x => \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \\ t.\ud835\udd16\u2080 u\u2081 u\u2082) f x\u2016) 2 volume \u2264\n    \u2191(C7_6_2 a n) * eLpNorm ((\u2191(\ud835\udcd8 u\u2081)).indicator fun x => (MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f x\u2016) x).toReal) 2 volume",
+                "hash": "e7c6a05858e5",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 370,
+                "startColumn": 2,
+                "endLine": 370,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/RemainingTiles.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "785e3727-7738-4eca-a8ca-a4cd3f80b44a"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \\ t.\ud835\udd16\u2080 u\u2081 u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_6 a n) * eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+                "hash": "ae447bc6f44a",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 385,
+                "startColumn": 2,
+                "endLine": 385,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/RemainingTiles.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "23e84734-52ad-49d3-9238-4f145c31f604"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf : X \u2192 \u2102\nJ : Grid X\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhJ : J \u2208 t.\ud835\udcd9\u2085 u\u2081 u\u2082\nhf : BoundedCompactSupport f\n\u22a2 \u2191(\u2a06 x \u2208 ball (c J) (8 * \u2191D ^ s J), \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \u2229 t.\ud835\udd16\u2080 u\u2081 u\u2082) f x\u2016\u208a) \u2264\n    \u2a05 x \u2208 ball (c J) (8\u207b\u00b9 * \u2191D ^ s J),\n      \u2191\u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) f x\u2016\u208a + \u2191(C7_5_10 a) * \u2a05 x \u2208 J, MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f x\u2016) x",
+                "hash": "f8100efafa54",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 1467,
+                "startColumn": 2,
+                "endLine": 1467,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/LargeSeparation.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "56dd09c8-8538-44b3-8cbd-59319785c1cf"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 : X \u2192 \u2102\nJ : Grid X\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhJ : J \u2208 t.\ud835\udcd9\u2085 u\u2081 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 HolderOnWith\n    (C7_5_4 a *\n        ((\u2a05 x \u2208 ball (c J) (8\u207b\u00b9 * \u2191D ^ s J), \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) f\u2081 x\u2016\u208a) +\n          (\u2a05 x \u2208 J, MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f\u2081 x\u2016) x).toNNReal) *\n      ((\u2a05 x \u2208 ball (c J) (8\u207b\u00b9 * \u2191D ^ s J), \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) f\u2082 x\u2016\u208a) +\n        (\u2a05 x \u2208 J, MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f\u2082 x\u2016) x).toNNReal))\n    nn\u03c4 (t.holderFunction u\u2081 u\u2082 f\u2081 f\u2082 J) (ball (c J) (8 * \u2191D ^ s J))",
+                "hash": "ff10032d6961",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 1485,
+                "startColumn": 2,
+                "endLine": 1485,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/LargeSeparation.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "c1f47361-5e7d-43b4-b1a5-40c507a52a1e"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \u2229 t.\ud835\udd16\u2080 u\u2081 u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_5 a n) * eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+                "hash": "80806be01b31",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 1590,
+                "startColumn": 2,
+                "endLine": 1590,
+                "endColumn": 7,
+                "file": "Carleson/ForestOperator/LargeSeparation.lean"
+              },
+              "blame": {
+                "commit": "5e49c3692f6d7344434caa7eea5f412f0ee35863",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-09-27T15:17:13+02:00",
+                "summary": "split the ForestOperator file (#138)"
+              },
+              "uuid": "97531577-9db3-4101-8197-baa31e2a9312"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\n\u03d1 : \u0398 X\nN : \u2115\n\u22a2 \u2211 p \u2208 \ud835\udd04_aux \ud835\udd04 \u03d1 N, volume (E p \u2229 G) \u2264 \u2191(C_6_3_4 a N) * dens\u2081 \u2191\ud835\udd04 * volume (\u22c3 p \u2208 \ud835\udd04, \u2191(\ud835\udcd8 p))",
+                "hash": "0c76348d2646",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 343,
+                "startColumn": 83,
+                "endLine": 343,
+                "endColumn": 88,
+                "file": "Carleson/Antichain/AntichainTileCount.lean"
+              },
+              "blame": {
+                "commit": "b9fffc6120dd5d58365682300b0a610189b88a37",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2024-11-16T17:32:56+01:00",
+                "summary": "fix remaining porting issues (#178)"
+              },
+              "uuid": "12979a4e-cb75-49d1-a8b9-7c15a30a6bf4"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 \ud835\udd04' : Finset (\ud835\udd13 X)\nh_le : \ud835\udd04' \u2286 \ud835\udd04\n\u03d1 : \u0398 X\n\u22a2 eLpNorm\n      (\u2211 \ud835\udd2d \u2208 \ud835\udd04',\n        (1 + dist_{\ud835\udd20 \ud835\udd2d ,\u2191D ^ \ud835\udd30 \ud835\udd2d / 4} (\ud835\udcac \ud835\udd2d) \u03d1) ^ (-1 / (2 * \u2191a ^ 2 + \u2191a ^ 3)) \u2022 (E \ud835\udd2d).indicator 1 * G.indicator 1)\n      (\u2191(Antichain.p a)) volume \u2264\n    \u2191(C_6_1_6 a) * dens\u2081 \u2191\ud835\udd04 ^ (1 / \u2191(Antichain.p a)) * volume (\u22c3 p \u2208 \ud835\udd04, \u2191(\ud835\udcd8 p)) ^ (1 / \u2191(Antichain.p a))",
+                "hash": "a9732b849856",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 357,
+                "startColumn": 2,
+                "endLine": 357,
+                "endColumn": 7,
+                "file": "Carleson/Antichain/AntichainTileCount.lean"
+              },
+              "blame": {
+                "commit": "4033286853aff35c1f7631d877fb3ecdbf73ccd2",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-28T18:13:23+01:00",
+                "summary": "Add lemma statements from section 6.3 (#155)"
+              },
+              "uuid": "15527d0d-4d8d-40cc-8522-b2252508c963"
+            },
+            {
+              "goal": {
+                "type": "case h.e'_3.h.e'_5.h.h.e'_1.h.e'_11.e_a\nX : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\np\u2081 : \u211d\u22650 := 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\nhp\u2081 : p\u2081 = 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\naux : 0 < 3 * (2 * nnq / (nnq + 1)) - 2\nhp\u2081_ge : 1 \u2264 p\u2081\nhp\u2081_lt : p\u2081 < 2\nhf1 : AEStronglyMeasurable f volume\nhf_top : eLpNorm f 2 volume < \u22a4\nthis :\n  HasStrongType (fun f x => (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) (\u2191p\u2081) f x).toReal) 2 2 volume volume\n    (C2_0_6 (2 ^ a) p\u2081 2)\nhh :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) f x).toReal)\n      2 volume \u2264\n    \u2191(CMB (2 ^ a) (2 / (2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) ^\n          (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)))\u207b\u00b9) *\n      eLpNorm f 2 volume\nx\u271d : X\n\u22a2 3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2 = \u2191(3 * (2 * nnq / (nnq + 1)) - 2)",
+                "hash": "5abe0c6aba56",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 341,
+                "startColumn": 6,
+                "endLine": 341,
+                "endColumn": 11,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "5b1a43bfeafaf67e006dfc5a0249d6b76a342ba8",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-07T15:59:11+02:00",
+                "summary": "Lemma 6.1.2. (#139)"
+              },
+              "uuid": "a1211d40-1a40-4ec0-ab71-8c79d9e5ff75"
+            },
+            {
+              "goal": {
+                "type": "case h.e'_4.h.e'_5\nX : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\np\u2081 : \u211d\u22650 := 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\nhp\u2081 : p\u2081 = 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\naux : 0 < 3 * (2 * nnq / (nnq + 1)) - 2\nhp\u2081_ge : 1 \u2264 p\u2081\nhp\u2081_lt : p\u2081 < 2\nhf1 : AEStronglyMeasurable f volume\nhf_top : eLpNorm f 2 volume < \u22a4\nthis :\n  HasStrongType (fun f x => (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) (\u2191p\u2081) f x).toReal) 2 2 volume volume\n    (C2_0_6 (2 ^ a) p\u2081 2)\nhh :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) f x).toReal)\n      2 volume \u2264\n    \u2191(CMB (2 ^ a) (2 / (2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) ^\n          (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)))\u207b\u00b9) *\n      eLpNorm f 2 volume\n\u22a2 \u2191(2 ^ (2 * a)) * (3 * (\u2191(2 * nnq) / \u2191(nnq + 1)) - 2) / (2 * (\u2191(2 * nnq) / \u2191(nnq + 1)) - 2) =\n    \u2191(CMB (\u2191(2 ^ a)) (2 / (2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) ^\n        \u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))\u207b\u00b9)",
+                "hash": "019d5487c9fe",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 346,
+                "startColumn": 6,
+                "endLine": 346,
+                "endColumn": 11,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "5b1a43bfeafaf67e006dfc5a0249d6b76a342ba8",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-07T15:59:11+02:00",
+                "summary": "Lemma 6.1.2. (#139)"
+              },
+              "uuid": "dd56a4b7-bed8-4009-8041-3e8c33efa83d"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\np\u2081 : \u211d\u22650 := 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\nhp\u2081 : p\u2081 = 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\naux : 0 < 3 * (2 * nnq / (nnq + 1)) - 2\nhp\u2081_ge : 1 \u2264 p\u2081\nhp\u2081_lt : p\u2081 < 2\nhf1 : AEStronglyMeasurable f volume\nhf_top : eLpNorm f 2 volume < \u22a4\n\u22a2 HasStrongType (fun f x => (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) (\u2191p\u2081) f x).toReal) 2 2 volume volume\n    (C2_0_6 (2 ^ a) p\u2081 2)",
+                "hash": "2e488ded9977",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 324,
+                "startColumn": 6,
+                "endLine": 324,
+                "endColumn": 11,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "5b1a43bfeafaf67e006dfc5a0249d6b76a342ba8",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-07T15:59:11+02:00",
+                "summary": "Lemma 6.1.2. (#139)"
+              },
+              "uuid": "8c30d9aa-2fdf-4377-8616-60ffda966bd5"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\n\u22a2 (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)",
+                "hash": "81addf714ca4",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 391,
+                "startColumn": 86,
+                "endLine": 391,
+                "endColumn": 91,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "5b1a43bfeafaf67e006dfc5a0249d6b76a342ba8",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-07T15:59:11+02:00",
+                "summary": "Lemma 6.1.2. (#139)"
+              },
+              "uuid": "746311fb-8b3e-4a82-94ab-a4fdf7676e0b"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\n\u22a2 eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04",
+                "hash": "3e1789dbe41f",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 397,
+                "startColumn": 4,
+                "endLine": 397,
+                "endColumn": 9,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "5b1a43bfeafaf67e006dfc5a0249d6b76a342ba8",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-07T15:59:11+02:00",
+                "summary": "Lemma 6.1.2. (#139)"
+              },
+              "uuid": "20e4d042-5ac2-40f7-ac39-b299129b818b"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\nhMB_le' :\n  eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04\nh_div_le_div :\n  (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) / (2 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) \u2264 2 ^ 2 / (2 * \u2191nnq / (\u2191nnq + 1) - 1)\nhMBp\u2081_le :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toReal)\n      2 volume \u2264\n    2 ^ (2 * a + 2) / (2 * \u2191nnq / (\u2191nnq + 1) - 1) * eLpNorm f 2 volume\n\u22a2 \u2191\u2016\u222b (x : X), (starRingEnd \u2102) (g x) * \u2211 p \u2208 \ud835\udd04, carlesonOn p f x\u2016\u208a \u2264\n    eLpNorm g 2 volume * eLpNorm (\u2211 p \u2208 \ud835\udd04, carlesonOn p f) 2 volume",
+                "hash": "86fea391edf8",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 432,
+                "startColumn": 6,
+                "endLine": 432,
+                "endColumn": 11,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "4f239f79828dd0ef24db7b0f6e5a5df0330ade87",
+                "author": "mariainesdff",
+                "author_email": "mariaines.dff@gmail.com",
+                "date": "2024-08-09T16:06:25+02:00",
+                "summary": "progress on 6.1.3"
+              },
+              "uuid": "f605b044-4a24-46b5-a613-1fc20347ceba"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\nhMB_le' :\n  eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04\nh_div_le_div :\n  (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) / (2 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) \u2264 2 ^ 2 / (2 * \u2191nnq / (\u2191nnq + 1) - 1)\nhMBp\u2081_le :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toReal)\n      2 volume \u2264\n    2 ^ (2 * a + 2) / (2 * \u2191nnq / (\u2191nnq + 1) - 1) * eLpNorm f 2 volume\nh2 : 2 ^ (107 * a ^ 3) = \u2191\u20162 ^ (107 * a ^ 3)\u2016\u208a\nz : X\n\u22a2 MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f z \u2260 \u22a4",
+                "hash": "260c196530bb",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 446,
+                "startColumn": 8,
+                "endLine": 446,
+                "endColumn": 13,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "4f239f79828dd0ef24db7b0f6e5a5df0330ade87",
+                "author": "mariainesdff",
+                "author_email": "mariaines.dff@gmail.com",
+                "date": "2024-08-09T16:06:25+02:00",
+                "summary": "progress on 6.1.3"
+              },
+              "uuid": "2e0fbfb8-0deb-437c-b98c-5b5aaa0c9333"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\nhMB_le' :\n  eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04\nh_div_le_div :\n  (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) / (2 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) \u2264 2 ^ 2 / (2 * \u2191nnq / (\u2191nnq + 1) - 1)\nhMBp\u2081_le :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toReal)\n      2 volume \u2264\n    2 ^ (2 * a + 2) / (2 * \u2191nnq / (\u2191nnq + 1) - 1) * eLpNorm f 2 volume\n\u22a2 eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    2 ^ (2 * a + 2) *\n      (\u2191(2 * nnq / (nnq + 1) - 1)\u207b\u00b9 * (dens\u2082 \u2191\ud835\udd04 ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9) * eLpNorm f 2 volume))",
+                "hash": "fcd1a683b930",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 461,
+                "startColumn": 6,
+                "endLine": 461,
+                "endColumn": 11,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "4f239f79828dd0ef24db7b0f6e5a5df0330ade87",
+                "author": "mariainesdff",
+                "author_email": "mariaines.dff@gmail.com",
+                "date": "2024-08-09T16:06:25+02:00",
+                "summary": "progress on 6.1.3"
+              },
+              "uuid": "b239feb4-9b1e-4244-876e-cd2d7a473a90"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Set (\ud835\udd13 X)\nf g : X \u2192 \u2102\nhf : Measurable f\nhf1 : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \ud835\udd04\n\u22a2 \u2191\u2016\u222b (x : X), (starRingEnd \u2102) (g x) * carlesonSum \ud835\udd04 f x\u2016\u208a \u2264\n    \u2191(C_2_0_3 \u2191a nnq) * dens\u2081 \ud835\udd04 ^ ((q - 1) / (8 * \u2191a ^ 4)) * dens\u2082 \ud835\udd04 ^ (q\u207b\u00b9 - 2\u207b\u00b9) * eLpNorm f 2 volume *\n      eLpNorm g 2 volume",
+                "hash": "6490d453836e",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 511,
+                "startColumn": 51,
+                "endLine": 511,
+                "endColumn": 56,
+                "file": "Carleson/Antichain/AntichainOperator.lean"
+              },
+              "blame": {
+                "commit": "77d4285c51ebe49f9035715383dfd7aef6aecf25",
+                "author": "sgouezel",
+                "author_email": "sebastien.gouezel@univ-rennes1.fr",
+                "date": "2025-01-09T16:08:11+01:00",
+                "summary": "feat: Lemma 5.1.3 (#200)"
+              },
+              "uuid": "a5ad7ee0-028b-4fff-ad56-53372a466c47"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\np p' : \ud835\udd13 X\nhle : \ud835\udd30 p' \u2264 \ud835\udd30 p\ng : X \u2192 \u2102\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\n\u22a2 \u2191\u2016\u222b (y : X), adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y)\u2016\u208a \u2264\n    \u2191(C_6_1_5 a) * (1 + dist_{\ud835\udd20 p' ,\u2191D ^ \ud835\udd30 p' / 4} (\ud835\udcac p') (\ud835\udcac p)) ^ (-1 / (2 * \u2191a ^ 2 + \u2191a ^ 3)) /\n        \u2191(volume.nnreal \u2191(\ud835\udcd8 p)) *\n      \u222b (y : X) in E p', \u2016g y\u2016 * \u222b (y : X) in E p, \u2016g y\u2016",
+                "hash": "9cffb817140f",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 367,
+                "startColumn": 2,
+                "endLine": 367,
+                "endColumn": 7,
+                "file": "Carleson/Antichain/TileCorrelation.lean"
+              },
+              "blame": {
+                "commit": "44791ba54780bd14486097d8659df9f465a281f5",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-31T20:12:54+01:00",
+                "summary": "Add lemma statements from section 6.2 (#154)"
+              },
+              "uuid": "f4aea744-ef9a-4c86-a66e-8664d5f54126"
+            },
+            {
+              "goal": {
+                "type": "case intro\nX : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\np p' : \ud835\udd13 X\nhle : \ud835\udd30 p' \u2264 \ud835\udd30 p\ng : X \u2192 \u2102\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nhpp' : \u00ac\u2191(\ud835\udcd8 p) \u2286 ball (\ud835\udd20 p) (15 * \u2191D ^ \ud835\udd30 p)\nh0 : \u00ac\u2016\u222b (y : X), adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y)\u2016\u208a = 0\ny : X\nhy : adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y) \u2260 0\n\u22a2 \u2191(\ud835\udcd8 p) \u2286 ball (\ud835\udd20 p) (15 * \u2191D ^ \ud835\udd30 p)",
+                "hash": "2f90a5439400",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 378,
+                "startColumn": 2,
+                "endLine": 378,
+                "endColumn": 7,
+                "file": "Carleson/Antichain/TileCorrelation.lean"
+              },
+              "blame": {
+                "commit": "44791ba54780bd14486097d8659df9f465a281f5",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-31T20:12:54+01:00",
+                "summary": "Add lemma statements from section 6.2 (#154)"
+              },
+              "uuid": "cad67d67-0bb1-4bab-b2a7-615a60fbd04d"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\np p' : \ud835\udd13 X\nhle : \ud835\udd30 p' \u2264 \ud835\udd30 p\ng : X \u2192 \u2102\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nhpp' : \u00ac\u2191(\ud835\udcd8 p) \u2286 ball (\ud835\udd20 p) (15 * \u2191D ^ \ud835\udd30 p)\nh0 : \u00ac\u2016\u222b (y : X), adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y)\u2016\u208a = 0\n\u22a2 \u2203 y, adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y) \u2260 0",
+                "hash": "2ddaff0371b1",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 376,
+                "startColumn": 84,
+                "endLine": 376,
+                "endColumn": 89,
+                "file": "Carleson/Antichain/TileCorrelation.lean"
+              },
+              "blame": {
+                "commit": "44791ba54780bd14486097d8659df9f465a281f5",
+                "author": "Mar\u00eda In\u00e9s de Frutos-Fern\u00e1ndez",
+                "author_email": "88536493+mariainesdff@users.noreply.github.com",
+                "date": "2024-10-31T20:12:54+01:00",
+                "summary": "Add lemma statements from section 6.2 (#154)"
+              },
+              "uuid": "bee8faa7-3368-44d6-9067-ada2c7c28019"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\nx x' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\nhr : 0 < r\nhx : dist x x' \u2264 r\n\u22a2 \u2191(nndist (czOperator K r g x) (czOperator K r g x')) \u2264 \u2191(C10_1_2 a) * globalMaximalFunction volume 1 g x",
+                "hash": "0141e4f59d56",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 122,
+                "startColumn": 2,
+                "endLine": 122,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "eddfe5d2-bbed-4382-a53e-f4c6d0b99097"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx x' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\nhr : r \u2208 Ioc 0 R\nhx : dist x x' \u2264 R / 4\n\u22a2 \u2016czOperator K R g x\u2016\u2091 \u2264\n    \u2016czOperator K r ((ball x (R / 2))\u1d9c.indicator g) x'\u2016\u2091 + \u2191(C10_1_3 a) * globalMaximalFunction volume 1 g x",
+                "hash": "529322b14b63",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 133,
+                "startColumn": 2,
+                "endLine": 133,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "9557b1d8-6570-43ce-b332-3ff1c970f6f0"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\n\u22a2 volume {x' | x' \u2208 ball x (R / 4) \u2227 4 * globalMaximalFunction volume 1 (czOperator K r g) x < \u2016czOperator K r g x'\u2016\u2091} \u2264\n    volume (ball x (R / 4)) / 4",
+                "hash": "8bda781e4d55",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 145,
+                "startColumn": 2,
+                "endLine": 145,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "3d0209a6-f683-40c6-af0d-cfebe93a364b"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\n\u22a2 volume\n      {x' |\n        x' \u2208 ball x (R / 4) \u2227\n          \u2191(C10_1_4 a) * globalMaximalFunction volume 1 g x < \u2016czOperator K r ((ball x (R / 2)).indicator g) x'\u2016\u2091} \u2264\n    volume (ball x (R / 4)) / 4",
+                "hash": "9c02a822d8a4",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 155,
+                "startColumn": 2,
+                "endLine": 155,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "0fdef479-aa5d-46fb-bdec-2b5871d98172"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\nhr : r \u2208 Ioc 0 R\n\u22a2 \u2016czOperator K R g x\u2016\u2091 \u2264\n    4 * globalMaximalFunction volume 1 (czOperator K r g) x + \u2191(C10_1_5 a) * globalMaximalFunction volume 1 g x",
+                "hash": "3c82af229040",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 167,
+                "startColumn": 2,
+                "endLine": 167,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "12e25faf-87e8-41f0-bddd-c91a35336894"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\nhr : 0 < r\n\u22a2 HasStrongType (simpleNontangentialOperator K r) 2 2 volume volume (C10_1_6 a)",
+                "hash": "77b0c5852c50",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 179,
+                "startColumn": 2,
+                "endLine": 179,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "a82d09ae-a3f7-4c2c-817e-4d5c8d28ebbc"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\nhr : 0 \u2264 r\n\u22a2 HasStrongType (simpleNontangentialOperator K r) 2 2 volume volume (C10_1_6 a)",
+                "hash": "35c966379793",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 188,
+                "startColumn": 2,
+                "endLine": 188,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "4cb1391f-2d07-4462-b012-c442f655f99c"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\nx' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nh2f : volume (support f) < \u22a4\nR\u2081 : \u211d\n\u22a2 Continuous fun R\u2082 => \u222b (y : X) in {y | dist x' y \u2208 Ioo R\u2081 R\u2082}, K x' y * f y",
+                "hash": "0ad428526a9a",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 196,
+                "startColumn": 2,
+                "endLine": 196,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "01ad8ee7-d145-4935-bd0c-293f2cf63e66"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\nx' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nh2f : volume (support f) < \u22a4\nR\u2082 : \u211d\n\u22a2 Continuous fun R\u2081 => \u222b (y : X) in {y | dist x' y \u2208 Ioo R\u2081 R\u2082}, K x' y * f y",
+                "hash": "56777da7f5ce",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 204,
+                "startColumn": 2,
+                "endLine": 204,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "6bbdb1d3-fdc1-4754-9c16-198adbff2990"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nh2f : volume (support f) < \u22a4\n\u22a2 nontangentialOperator K f x =\n    \u2a06 R\u2081, \u2a06 R\u2082, \u2a06 (_ : R\u2081 < R\u2082), \u2a06 x', \u2a06 (_ : dist x x' \u2264 R\u2081), \u2016\u222b (y : X) in ball x' R\u2082 \\ ball x' R\u2081, K x' y * f y\u2016\u2091",
+                "hash": "87c894c3cefc",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 212,
+                "startColumn": 2,
+                "endLine": 212,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "4a020286-dad1-4392-90a4-3302e9cfc099"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhmg : Measurable g\nhg : eLpNorm g \u22a4 volume < \u22a4\nh2g : volume (support g) < \u22a4\nthis : HasStrongType (simpleNontangentialOperator K 0) 2 2 volume volume (C10_1_6 a)\n\u22a2 HasStrongType (nontangentialOperator K) 2 2 volume volume (C10_0_2 a)",
+                "hash": "6be625446162",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 223,
+                "startColumn": 2,
+                "endLine": 223,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+              },
+              "blame": {
+                "commit": "ed6eeccf5d8d5691a03313d75b8abadfef296770",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T15:28:23+01:00",
+                "summary": "Formalize statements of Section 10.1 (#219)"
+              },
+              "uuid": "1b6a4ed2-a5d8-4021-89b0-254755009742"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhq : q \u2208 Ioc 1 2\nhqq' : q.IsConjExponent q'\nhF : MeasurableSet F\nhG : MeasurableSet G\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\n\u22a2 \u222b\u207b (x : X) in G, carlesonOperator K f x \u2264 \u2191(C10_0_1 a q) * volume G ^ (\u2191q')\u207b\u00b9 * volume F ^ (\u2191q)\u207b\u00b9",
+                "hash": "0ed2ee912af0",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 34,
+                "startColumn": 2,
+                "endLine": 34,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/MainTheorem.lean"
+              },
+              "blame": {
+                "commit": "8df6c240f4d63d5640cd964c1c884c7a12f600c2",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T19:00:57+01:00",
+                "summary": "split chapter 10 file (#223)"
+              },
+              "uuid": "90536564-ed25-451c-b9dd-659a0503d7cb"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nthis : C10_2_1 a = \u2191(defaultA a) ^ 4\n\u22a2 \u2200 (f : X \u2192 \u2102), MemLp f 1 volume \u2192 \u2200\u1d50 (x : X), globalMaximalFunction volume 1 f x \u2260 \u22a4",
+                "hash": "a508859d0b35",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 35,
+                "startColumn": 31,
+                "endLine": 35,
+                "endColumn": 36,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "6c286732-9a9f-40a0-9ca5-3b79c2cb8fc7"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : eLpNorm f \u22a4 volume < \u22a4\nh2f : volume (support f) < \u22a4\n\u22a2 \u2200\u1d50 (x : X),\n    \u2203 c r,\n      Tendsto (fun i => \u2a0d (y : X) in ball (c i) (r i), f y) atTop (\ud835\udcdd (f x)) \u2227\n        Tendsto r atTop (\ud835\udcdd[>] 0) \u2227 \u2200 (i : \u2115), x \u2208 ball (c i) (r i)",
+                "hash": "9a298aedf1ce",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 49,
+                "startColumn": 2,
+                "endLine": 49,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "06a8176a-091c-476e-b4cc-73a467d04653"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nO : Set X\nhO : IsOpen O \u2227 O \u2260 univ\n\u22a2 \u2203 c r,\n    (univ.PairwiseDisjoint fun i => closedBall (c i) (r i)) \u2227\n      \u22c3 i, ball (c i) (3 * r i) = O \u2227\n        (\u2200 (i : \u2115), \u00acDisjoint (ball (c i) (7 * r i)) O\u1d9c) \u2227\n          \u2200 x \u2208 O, Cardinal.mk \u2191{i | x \u2208 ball (c i) (3 * r i)} \u2264 \u2191(2 ^ (6 * a))",
+                "hash": "b16d5933d27b",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 61,
+                "startColumn": 2,
+                "endLine": 61,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "bc9caf82-83ce-41ab-8c0f-23b8019bdec2"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nh : \u00acGeneralCase f \u03b1\n\u22a2 volume univ < \u22a4",
+                "hash": "27c103fe4d26",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 87,
+                "startColumn": 2,
+                "endLine": 87,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "ded82ec8-fc02-409a-9566-539c70a4b811"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\n\u22a2 IsOpen (globalMaximalFunction volume 1 f \u207b\u00b9' Ioi \u03b1) \u2227 globalMaximalFunction volume 1 f \u207b\u00b9' Ioi \u03b1 \u2260 univ",
+                "hash": "4bf4997aea4c",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 93,
+                "startColumn": 2,
+                "endLine": 93,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "9b623c4e-e382-456e-bc55-baa199001149"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\ny : X\nhy : \u03b1 < globalMaximalFunction volume 1 f y\n\u22a2 {i | y \u2208 czBall3 hf hX i}.Finite",
+                "hash": "5d66158a3190",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 140,
+                "startColumn": 2,
+                "endLine": 140,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "2b13a070-4edd-4e0a-81ac-04fa76c3596e"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\ni : \u2115\n\u22a2 czBall hf hX i \u2286 czPartition hf hX i",
+                "hash": "7bad65b4b136",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 148,
+                "startColumn": 2,
+                "endLine": 148,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "d01b5f76-9be9-40fa-8fe0-6ff86dfe84c3"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\n\u22a2 univ.PairwiseDisjoint fun i => czPartition hf hX i",
+                "hash": "3c5d99043a36",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 156,
+                "startColumn": 2,
+                "endLine": 156,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "8df6c240f4d63d5640cd964c1c884c7a12f600c2",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T19:00:57+01:00",
+                "summary": "split chapter 10 file (#223)"
+              },
+              "uuid": "e7e9d9fe-4206-4369-9f8d-25336f8fce2c"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nx : X\ni j : \u2115\nhi : x \u2208 czPartition hf hX i\nhj : x \u2208 czPartition hf hX j\n\u22a2 i = j",
+                "hash": "111c3142516a",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 161,
+                "startColumn": 2,
+                "endLine": 161,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "a358aaff-be72-49ba-a4a0-4c15d2f353a4"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\n\u22a2 \u22c3 i, czPartition hf hX i = globalMaximalFunction volume 1 f \u207b\u00b9' Ioi \u03b1",
+                "hash": "8173520c87c2",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 165,
+                "startColumn": 2,
+                "endLine": 165,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "69f732f7-b2f7-45cf-8f94-ecb01beaceb9"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\n\u03c4 C r R : \u211d\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\nx\u271d x' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nx : X\n\u22a2 \u2211\u1da0 (i : \u2115), czRemainder' hf hX i x = czRemainder hf \u03b1 x",
+                "hash": "5a7088237250",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 202,
+                "startColumn": 2,
+                "endLine": 202,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "6b8fc9119966c4dc0936caa9cdf786819f380ec1",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T17:21:05+01:00",
+                "summary": "indentation"
+              },
+              "uuid": "69005d35-7659-4896-9086-aa3f9e536ae3"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\n\u22a2 Measurable (czApproximation hf \u03b1)",
+                "hash": "32a1cf41dbc4",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 207,
+                "startColumn": 2,
+                "endLine": 207,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "03c8a866-9e50-4861-a436-7270212fbfcc"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 < \u03b1\n\u22a2 \u2200\u1d50 (x : X), \u2016czApproximation hf \u03b1 x\u2016\u2091 \u2264 2 ^ (3 * a) * \u03b1",
+                "hash": "2c5ddc0ef46c",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 218,
+                "startColumn": 2,
+                "endLine": 218,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "f864bff6-b157-44e0-9251-7fda3e6507f9"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u2200\u1d50 (x : X), \u2016czApproximation hf \u03b1 x\u2016\u2091 \u2264 2 ^ (3 * a) * \u03b1",
+                "hash": "5c1fbd005a98",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 224,
+                "startColumn": 2,
+                "endLine": 224,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "3695ea98-8317-4f9a-bfb6-daada6b56c79"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nh\u03b1 : 0 < \u03b1\n\u22a2 eLpNorm (czApproximation hf \u03b1) 1 volume \u2264 eLpNorm f 1 volume",
+                "hash": "c3ef271357fc",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 229,
+                "startColumn": 2,
+                "endLine": 229,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "988a7aaf-41ef-47c6-933e-fc84a161c356"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\ni : \u2115\n\u22a2 support (czRemainder' hf hX i) \u2286 czBall3 hf hX i",
+                "hash": "7790ec06b8ff",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 235,
+                "startColumn": 2,
+                "endLine": 235,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "55fcd005-8979-4660-99b6-38356483f3df"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\ni : \u2115\n\u22a2 \u222b (x : X), czRemainder' hf hX i x = 0",
+                "hash": "a16cf8044af3",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 241,
+                "startColumn": 2,
+                "endLine": 241,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "f52544a4-87ea-4abc-b2b0-a708b34e1832"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u222b (x : X), czRemainder hf \u03b1 x = 0",
+                "hash": "6d997f4fa203",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 246,
+                "startColumn": 2,
+                "endLine": 246,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "1465b0e1-8b2a-4b0e-8a6c-ddbafc2ccf1d"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\ni : \u2115\n\u22a2 eLpNorm (czRemainder' hf hX i) 1 volume \u2264 2 ^ (2 * a + 1) * \u03b1 * volume (czBall3 hf hX i)",
+                "hash": "824caaa00841",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 252,
+                "startColumn": 2,
+                "endLine": 252,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "87a2dadd-2aac-4278-82ae-2d96d030910a"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 eLpNorm (czRemainder hf \u03b1) 1 volume \u2264 2 ^ (2 * a + 1) * \u03b1 * volume univ",
+                "hash": "becac28399ae",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 257,
+                "startColumn": 2,
+                "endLine": 257,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "1b905bf0-efe0-40fb-8f55-99327f682a1f"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u2211' (i : \u2115), volume (czBall3 hf hX i) \u2264 2 ^ (4 * a) / \u03b1 * eLpNorm f 1 volume",
+                "hash": "5aff88f623ab",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 262,
+                "startColumn": 2,
+                "endLine": 262,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "6d8d193c-869f-4b99-b0ac-b8197e9dea2c"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 volume univ \u2264 2 ^ (4 * a) / \u03b1 * eLpNorm f 1 volume",
+                "hash": "3f26385442fb",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 267,
+                "startColumn": 2,
+                "endLine": 267,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "2bf83c90-7f34-4aff-a9c6-a9316c86b2b7"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u2211' (i : \u2115), eLpNorm (czRemainder' hf hX i) 1 volume \u2264 2 * eLpNorm f 1 volume",
+                "hash": "5295150ee3c2",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 273,
+                "startColumn": 2,
+                "endLine": 273,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "46f91491-c9f9-495b-a6b8-2d55fd78db1b"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 eLpNorm (czRemainder hf \u03b1) 1 volume \u2264 2 * eLpNorm f 1 volume",
+                "hash": "d08b029d1146",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 279,
+                "startColumn": 2,
+                "endLine": 279,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "1510cda1-10a2-4703-9393-e2d10515da13"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\n\u22a2 distribution (czOperator K r (czApproximation hf \u03b1)) (\u03b1 / 2) volume \u2264 \u2191(C10_2_6 a) / \u03b1 * eLpNorm f 1 volume",
+                "hash": "8423f5159448",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 297,
+                "startColumn": 2,
+                "endLine": 297,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "99bad9f4-4663-46da-93c5-72b04ca1e5c4"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\nhx : x \u2208 (\u03a9 hf \u03b1)\u1d9c\nhX : GeneralCase f \u03b1\n\u22a2 \u2016czOperator K r (czRemainder hf \u03b1) x\u2016\u2091 \u2264 3 * czOperatorBound hf hX x + \u03b1 / 8",
+                "hash": "323fedc4e037",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 312,
+                "startColumn": 2,
+                "endLine": 312,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "67fd3fb5-3e9d-4337-a3e9-0a7c9823cd94"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\nhX : GeneralCase f \u03b1\n\u22a2 volume ((\u03a9 hf \u03b1)\u1d9c \u2229 czOperatorBound hf hX \u207b\u00b9' Ioi (\u03b1 / 8)) \u2264 \u2191(C10_2_8 a) / \u03b1 * eLpNorm f 1 volume",
+                "hash": "1b790ca53b36",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 322,
+                "startColumn": 2,
+                "endLine": 322,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "dc1706fc-c64a-4975-aa8e-6244ff30ad32"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\nhX : GeneralCase f \u03b1\n\u22a2 distribution (czOperator K r (czRemainder hf \u03b1)) (\u03b1 / 2) volume \u2264 \u2191(C10_2_9 a) / \u03b1 * eLpNorm f 1 volume",
+                "hash": "e2a243ebfc2c",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 333,
+                "startColumn": 2,
+                "endLine": 333,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "c0cf71be308b5e835061a8ea16b5ad1b751e0dcc",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-02-26T16:50:03+01:00",
+                "summary": "Formalize statements of Section 10.2 (#224)"
+              },
+              "uuid": "aa765ab0-1512-4567-8dc0-3cf9209192ba"
+            },
+            {
+              "goal": {
+                "type": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhr : 0 < r\nhT : HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\n\u22a2 HasBoundedWeakType (czOperator K r) 1 1 volume volume (C10_0_3 a)",
+                "hash": "a74829ae0eef",
+                "parentType": "Prop"
+              },
+              "location": {
+                "startLine": 349,
+                "startColumn": 2,
+                "endLine": 349,
+                "endColumn": 7,
+                "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+              },
+              "blame": {
+                "commit": "8df6c240f4d63d5640cd964c1c884c7a12f600c2",
+                "author": "Floris van Doorn",
+                "author_email": "fpvdoorn@gmail.com",
+                "date": "2025-01-27T19:00:57+01:00",
+                "summary": "split chapter 10 file (#223)"
+              },
+              "uuid": "7fd211a3-c984-4777-8459-e0651bee08d9"
             }
           ]
         }
