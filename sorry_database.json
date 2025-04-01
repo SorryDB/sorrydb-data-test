@@ -12,8 +12,8 @@
     },
     {
       "remote_url": "https://github.com/fpvandoorn/carleson",
-      "last_time_visited": "2025-03-29T05:00:09.537136+00:00",
-      "remote_heads_hash": "3d865ec04a5c"
+      "last_time_visited": "2025-04-01T04:30:08.696052+00:00",
+      "remote_heads_hash": "95fc4308bcec"
     }
   ],
   "sorries": [
@@ -9016,6 +9016,2256 @@
         "inclusion_date": "2025-03-29T05:19:07.731994+00:00"
       },
       "id": "7acae3ddd9745968259940b810b77d6cc4bb28e58d5ed1dcfc4b8f62a06556d9"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 30,
+        "start_column": 2,
+        "end_line": 30,
+        "end_column": 7,
+        "file": "Carleson/LinearizedMetricCarleson.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d\u00b9 : IsCancellative X (default\u03c4 a)\ninst\u271d : IsOneSidedKernel a K\nha : 4 \u2264 a\nhq : q \u2208 Ioc 1 2\nhqq' : q.IsConjExponent q'\nQ : SimpleFunc X (\u0398 X)\n\u03b8 : \u0398 X\nhF : MeasurableSet F\nhG : MeasurableSet G\nhT :\n  HasBoundedStrongType (fun x1 x2 => (linearizedNontangentialOperator (\u21d1Q) \u03b8 K x1 x2).toReal) 2 2 volume volume\n    (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\n\u22a2 \u222b\u207b (x : X) in G, linearizedCarlesonOperator (\u21d1Q) K f x \u2264 \u2191(C1_0_3 a q) * volume G ^ (\u2191q')\u207b\u00b9 * volume F ^ (\u2191q)\u207b\u00b9",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/LinearizedMetricCarleson.lean#L30"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-07-30T10:31:30+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "c310678d6982240739518fff83bb4c7b4b852dffb9d2a6da65f71a00216e5e57"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 520,
+        "start_column": 70,
+        "end_line": 520,
+        "end_column": 75,
+        "file": "Carleson/TileStructure.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\ninst\u271d\u00b2 : PseudoMetricSpace X\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Set (\ud835\udd13 X)\n\u22a2 IsAntichain (fun x1 x2 => x1 \u2264 x2) (toTileLike '' \ud835\udd04) \u2194\n    \u2200 (p p' : \ud835\udd13 X), p \u2208 \ud835\udd04 \u2192 p' \u2208 \ud835\udd04 \u2192 p \u2260 p' \u2192 Disjoint (toTileLike p).toTile (toTileLike p').toTile",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TileStructure.lean#L520"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-07-03T17:09:05+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "b69f741ed00aa0116c748c2d2d35d9430b7aae0609e48be247f9a7d9d7098884"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 218,
+        "start_column": 2,
+        "end_line": 218,
+        "end_column": 7,
+        "file": "Carleson/HolderVanDerCorput.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b9 : MetricSpace X\ninst\u271d : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\nz : X\nR t : \u211d\nhR : 0 < R\nC : \u211d\u22650\n\u03d5 : X \u2192 \u2102\nh\u03d5 : support \u03d5 \u2286 ball z R\nh2\u03d5 : HolderWith C nn\u03c4 \u03d5\nht : t \u2208 Ioc 0 1\n\u22a2 LipschitzWith (C8_0_1 \u2191a \u27e8t, \u22ef\u27e9) (holderApprox R t \u03d5)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/HolderVanDerCorput.lean#L218"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-07-19T16:30:05+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "393599577049b16ddc0284d92bb8541569987867e6056aaf90f085f7000f6d65"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 229,
+        "start_column": 55,
+        "end_line": 229,
+        "end_column": 60,
+        "file": "Carleson/HolderVanDerCorput.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b9 : MetricSpace X\ninst\u271d : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\nz : X\nR : \u211d\u22650\nhR : 0 < R\n\u03d5 : X \u2192 \u2102\nh\u03d5 : support \u03d5 \u2286 ball z \u2191R\nh2\u03d5 : hnorm \u03d5 z R < \u22a4\nf g : \u0398 X\n\u22a2 \u2191\u2016\u222b (x : X), cexp (I * (\u2191(f x) - \u2191(g x))) * \u03d5 x\u2016\u208a \u2264\n    \u2191(C2_0_5 \u2191a) * volume (ball z \u2191R) * hnorm \u03d5 z R * (1 + \u2191(nndist_{z ,\u2191R} f g)) ^ (2 * \u2191a ^ 2 + \u2191a ^ 3)\u207b\u00b9",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/HolderVanDerCorput.lean#L229"
+      },
+      "metadata": {
+        "blame_email_hash": "4f0774fdf1b5",
+        "blame_date": "2024-07-01T23:56:16+08:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "0a7b83de487e4725261acd6846fed27d95d85448b239aef8106cf387db39e490"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 33,
+        "start_column": 2,
+        "end_line": 33,
+        "end_column": 7,
+        "file": "Carleson/MetricCarleson.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d\u00b9 : IsCancellative X (default\u03c4 a)\ninst\u271d : IsOneSidedKernel a K\nha : 4 \u2264 a\nhq : q \u2208 Ioc 1 2\nhqq' : q.IsConjExponent q'\nhF : MeasurableSet F\nhG : MeasurableSet G\nhT : HasBoundedStrongType (fun x1 x2 => nontangentialOperator K x1 x2) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\n\u22a2 \u222b\u207b (x : X) in G, carlesonOperator K f x \u2264 \u2191(C1_0_2 a q) * volume G ^ (\u2191q')\u207b\u00b9 * volume F ^ (\u2191q)\u207b\u00b9",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/MetricCarleson.lean#L33"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-06-16T22:39:23+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "614b0b1fd379e2aab89e519f6043f2cd34f21de790b42d55b8bc704504a1d15e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 58,
+        "start_column": 2,
+        "end_line": 58,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "f : \u211d \u2192 \u2102\nn : \u2115\nhf : MemLp f \u22a4 volume\nperiodic_f : Function.Periodic f (2 * \u03c0)\nx : \u211d\n\u22a2 partialFourierSum n (partialFourierSum n f) x = partialFourierSum n f x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L58"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "3b487e4c5ab3f82f20ad6b1d054b8c6bacc1cdb63563b7d2b5d02466eedca3b7"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 68,
+        "start_column": 2,
+        "end_line": 68,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "f g : \u211d \u2192 \u2102\nn : \u2115\nhf : MemLp f \u22a4 volume\nperiodic_f : Function.Periodic f (2 * \u03c0)\nhg : MemLp g \u22a4 volume\nperiodic_g : Function.Periodic g (2 * \u03c0)\n\u22a2 \u222b (x : \u211d) in 0 ..2 * \u03c0, (starRingEnd \u2102) (partialFourierSum n f x) * g x =\n    \u222b (x : \u211d) in 0 ..2 * \u03c0, (starRingEnd \u2102) (f x) * partialFourierSum n g x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L68"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "0737d5bad87e38a7fa647e5b49c94791a8bd87527103b2c13dcd13c90cdb5683"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 134,
+        "start_column": 2,
+        "end_line": 134,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "g : \u211d \u2192 \u2102\nn : \u2115\nhmg : Measurable g\nhg : MemLp g \u22a4 volume\nperiodic_g : Function.Periodic g (2 * \u03c0)\n\u22a2 (fun p => eLpNorm ((Ioc 0 (2 * \u03c0)).indicator (approxHilbertTransform n g)) p volume) \u2264 fun p =>\n    eLpNorm ((Ioc 0 (2 * \u03c0)).indicator g) p volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L134"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "0111db59931c9a316f98cb976523822e64000343c26e58ea7e64d8c13d3f87e7"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 160,
+        "start_column": 2,
+        "end_line": 160,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "f g : \u211d \u2192 \u2102\nn : \u2115\nhf : MemLp f \u22a4 volume\nperiodic_f : Function.Periodic f (2 * \u03c0)\nhg\u271d : MemLp g \u22a4 volume\nperiodic_g : Function.Periodic g (2 * \u03c0)\nr : \u211d\nhr : r \u2208 Ioo 0 \u03c0\nhg : \u2200 (x : \u211d), \u2016g x\u2016 \u2264 niceKernel r x\n\u22a2 eLpNorm ((Ioc 0 (2 * \u03c0)).indicator fun x => \u222b (y : \u211d) in 0 ..2 * \u03c0, f y * g (x - y)) 2 volume \u2264\n    2 ^ 5 * eLpNorm ((Ioc 0 (2 * \u03c0)).indicator f) 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L160"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "868ef1d053067e1aecea69e3b9ea0ad71cd90402884f5acd7a0debf8dc91cce0"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 168,
+        "start_column": 2,
+        "end_line": 168,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "n : \u2115\n\u22a2 Continuous (dirichletApprox n)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L168"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "bde81d7318007ba6f88a36fec2c416f2e4dcbe3cb6abec22438c88b3898924fe"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 172,
+        "start_column": 2,
+        "end_line": 172,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "n : \u2115\n\u22a2 Function.Periodic (dirichletApprox n) (2 * \u03c0)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L172"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "778f3507ad89052cb60f316a251686293eac6627483abf75cbeb4a6ed4801a10"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 182,
+        "start_column": 2,
+        "end_line": 182,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "f : \u211d \u2192 \u2102\nn\u271d : \u2115\nhf : MemLp f \u22a4 volume\nperiodic_f : Function.Periodic f (2 * \u03c0)\nn : \u2115\nx : \u211d\n\u22a2 approxHilbertTransform n f x = \u2191(2 * \u03c0)\u207b\u00b9 * \u222b (y : \u211d) in 0 ..2 * \u03c0, f y * dirichletApprox n (x - y)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L182"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "30710fd3923cfc63d594e5c6b29bcbe576ecff3ded9e4268f49962515e8d6a78"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 192,
+        "start_column": 2,
+        "end_line": 192,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "f : \u211d \u2192 \u2102\nn\u271d : \u2115\nhf : MemLp f \u22a4 volume\nperiodic_f : Function.Periodic f (2 * \u03c0)\nr : \u211d\nhr : r \u2208 Ioo 0 1\nn : \u2115\nhn : n = \u2308r\u207b\u00b9\u2309\u208a\nx : \u211d\n\u22a2 dist (dirichletApprox n x) ({y | \u2016y\u2016 \u2208 Ioo r 1}.indicator 1 \u2191x) \u2264 2 ^ 5 * niceKernel r x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L192"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "9669a9c48ef76782692c3133a1d2389cb28158b712360cd2b8168b3c232a3d22"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 205,
+        "start_column": 2,
+        "end_line": 205,
+        "end_column": 7,
+        "file": "Carleson/Classical/HilbertStrongType.lean"
+      },
+      "debug_info": {
+        "goal": "r : \u211d\nhr : 0 < r\n\u22a2 HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts 4)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Classical/HilbertStrongType.lean#L205"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-23T00:03:48+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "789159d70ddb3a8c926c73de22a658c0cb9685cfb77ac573784b6014c9bac6fe"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 50,
+        "start_column": 2,
+        "end_line": 50,
+        "end_column": 7,
+        "file": "Carleson/ToMathlib/BoundedFiniteSupport.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\ninst\u271d\u2074 : MeasurableSpace X\nf : X \u2192 E\ninst\u271d\u00b3 : TopologicalSpace E\ninst\u271d\u00b2 : ENorm E\ninst\u271d\u00b9 : Zero E\n\u03bc : Measure X\ninst\u271d : MeasurableSpace E\nbfs : BoundedFiniteSupport f \u03bc\n\u22a2 Measurable f",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/BoundedFiniteSupport.lean#L50"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-03-19T12:39:18+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "5f6c13ad14ba354ddcb561ceb4ea46bea8eb3a8e00817e64f6d05587694fff4c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 78,
+        "start_column": 2,
+        "end_line": 78,
+        "end_column": 7,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d : NormedAddCommGroup E\nf : X \u2192 E\nhf : LocallyIntegrable f \u03bc\n\u22a2 ContinuousOn (fun x => \u2a0d\u207b (y : X) in ball x.1 x.2, \u2016f y\u2016\u2091 \u2202\u03bc) (univ \u00d7\u02e2 Ioi 0)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L78"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "b8fdb316ffdded72653820a01cf27ab6b9e9f58148343c0a65d2fe2296302023"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 392,
+        "start_column": 33,
+        "end_line": 392,
+        "end_column": 38,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u00b9\u00b9 : MetricSpace X\ninst\u271d\u00b9\u2070 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2079 : \u03bc.IsDoubling A\ninst\u271d\u2078 : NormedAddCommGroup E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\ninst\u271d\u2077 : BorelSpace X\ninst\u271d\u2076 : NormedSpace \u211d E\ninst\u271d\u2075 : MeasurableSpace E\ninst\u271d\u2074 : BorelSpace E\ninst\u271d\u00b3 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b2 : ProperSpace X\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\nh\ud835\udcd1 : \ud835\udcd1.Countable\nR : \u211d\nhR : \u2200 i \u2208 \ud835\udcd1, r i \u2264 R\np : \u211d\u22650\nhp : 1 < p\n\u22a2 \u2200 (f : X \u2192 E), MemLp f (\u2191p) \u03bc \u2192 \u2200\u1d50 (x : X) \u2202\u03bc, MB \u03bc \ud835\udcd1 c r f x \u2260 \u22a4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L392"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-20T18:21:24+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "f712edaedb5849f6598118c78cf8b13648ed40f85c5927c9b95add37277fa190"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 450,
+        "start_column": 2,
+        "end_line": 450,
+        "end_column": 7,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\ninst\u271d\u2074 : BorelSpace X\ninst\u271d\u00b3 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b2 : ProperSpace X\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nh\ud835\udcd1 : \ud835\udcd1.Countable\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 < p\u2082\nv : X \u2192 E\nmlpv : MemLp v (\u2191p\u2082) \u03bc\n\u22a2 AEStronglyMeasurable ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) \u03bc \u2227\n    eLpNorm ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) (\u2191p\u2082) \u03bc \u2264 \u2191(C2_0_6 A p\u2081 p\u2082) * eLpNorm v (\u2191p\u2082) \u03bc",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L450"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "173377ef4f8be7aefd140845c72c2e0a0f5a698e87bdb457b5b2c5c3ae4e5906"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 455,
+        "start_column": 2,
+        "end_line": 455,
+        "end_column": 7,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d : NormedAddCommGroup E\nf : X \u2192 E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\nhf : LocallyIntegrable f \u03bc\n\u22a2 LowerSemicontinuous (MB \u03bc \ud835\udcd1 c r f)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L455"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "b9bc90311170478257b73a7cf4a05104e043c3591467f78f2391210fc6031144"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 468,
+        "start_column": 2,
+        "end_line": 468,
+        "end_column": 7,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\n\u03b9 : Type u_3\n\ud835\udcd1 : Set \u03b9\nc : \u03b9 \u2192 X\nr : \u03b9 \u2192 \u211d\ninst\u271d\u2074 : BorelSpace X\ninst\u271d\u00b3 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b2 : ProperSpace X\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nh\ud835\udcd1 : \ud835\udcd1.Countable\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 \u2264 p\u2082\nv : X \u2192 E\nmlpv : MemLp v (\u2191p\u2082) \u03bc\n\u22a2 AEStronglyMeasurable ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) \u03bc \u2227\n    wnorm ((fun u x => maximalFunction \u03bc \ud835\udcd1 c r (\u2191p\u2081) u x) v) (\u2191p\u2082) \u03bc \u2264 \u2191(A ^ 2) * eLpNorm v (\u2191p\u2082) \u03bc",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L468"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "c267ec3bfa14dd612d80aadd9e8977560cf31c41ab6e8f5de48719512ad2d1d0"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 534,
+        "start_column": 31,
+        "end_line": 534,
+        "end_column": 36,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\ninst\u271d\u2074 : ProperSpace X\ninst\u271d\u00b3 : BorelSpace X\ninst\u271d\u00b2 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 < p\u2082\n\u22a2 \u2200 (f : X \u2192 E),\n    MemLp f (\u2191p\u2082) \u03bc \u2192\n      \u2200\u1d50 (x : X) \u2202\u03bc, maximalFunction \u03bc (\u22ef.choose \u00d7\u02e2 univ) (fun x => x.1) (fun x => 2 ^ x.2) (\u2191p\u2081) f x \u2260 \u22a4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L534"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "8571a263c7d03c537a11b3c603db036a4cc9fc99112a5e07680b553fd96e8569"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 545,
+        "start_column": 29,
+        "end_line": 545,
+        "end_column": 34,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2078 : MetricSpace X\ninst\u271d\u2077 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u2076 : \u03bc.IsDoubling A\ninst\u271d\u2075 : NormedAddCommGroup E\ninst\u271d\u2074 : ProperSpace X\ninst\u271d\u00b3 : BorelSpace X\ninst\u271d\u00b2 : IsFiniteMeasureOnCompacts \u03bc\ninst\u271d\u00b9 : Nonempty X\ninst\u271d : \u03bc.IsOpenPosMeasure\np\u2081 p\u2082 : \u211d\u22650\nhp\u2081 : 1 \u2264 p\u2081\nhp\u2081\u2082 : p\u2081 \u2264 p\u2082\n\u22a2 \u2200 (f : X \u2192 E),\n    MemLp f (\u2191p\u2082) \u03bc \u2192\n      \u2200\u1d50 (x : X) \u2202\u03bc, maximalFunction \u03bc (\u22ef.choose \u00d7\u02e2 univ) (fun x => x.1) (fun x => 2 ^ x.2) (\u2191p\u2081) f x \u2260 \u22a4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L545"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "4aaa38e82db552eff48ac60bbd9805e99da09f517210ab3de6cf82fb53bc24f1"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 551,
+        "start_column": 2,
+        "end_line": 551,
+        "end_column": 7,
+        "file": "Carleson/ToMathlib/HardyLittlewood.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\nE : Type u_2\nA : \u211d\u22650\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : MeasurableSpace X\n\u03bc : Measure X\ninst\u271d\u00b2 : \u03bc.IsDoubling A\ninst\u271d\u00b9 : NormedAddCommGroup E\nf : X \u2192 E\ninst\u271d : ProperSpace X\nhf : LocallyIntegrable f \u03bc\n\u22a2 LowerSemicontinuous (globalMaximalFunction \u03bc 1 f)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/HardyLittlewood.lean#L551"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-06-20T19:02:09+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "0a606f8eed97e3dac377760e18ae26e7302ac83f07ba26f53d8f1f62a0c2c9d7"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 618,
+        "start_column": 2,
+        "end_line": 618,
+        "end_column": 7,
+        "file": "Carleson/ToMathlib/WeakType.lean"
+      },
+      "debug_info": {
+        "goal": "\u03b5 : Type u_3\ninst\u271d\u2075 : TopologicalSpace \u03b5\ninst\u271d\u2074 : ContinuousENorm \u03b5\n\ud835\udd5c : Type u_12\nE' : Type u_13\n\u03b1 : Type u_14\n\u03b1' : Type u_15\ninst\u271d\u00b3 : NormedAddCommGroup E'\n_x : MeasurableSpace \u03b1\n_x' : MeasurableSpace \u03b1'\nT : (\u03b1 \u2192 \u03b5) \u2192 \u03b1' \u2192 E'\np p' : \u211d\u22650\u221e\n\u03bc : Measure \u03b1\n\u03bd : Measure \u03b1'\nc : \u211d\u22650\nh : HasWeakType T p p' \u03bc \u03bd c\ninst\u271d\u00b2 : NormedRing \ud835\udd5c\ninst\u271d\u00b9 : MulActionWithZero \ud835\udd5c E'\ninst\u271d : IsBoundedSMul \ud835\udd5c E'\nk : \ud835\udd5c\nf : \u03b1 \u2192 \u03b5\nhf : MemLp f p \u03bc\n\u22a2 wnorm ((k \u2022 T) f) p' \u03bd \u2264 \u2191(\u2016k\u2016\u208a * c) * eLpNorm f p \u03bc",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ToMathlib/WeakType.lean#L618"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "74653266a2f300ab358afa27f0cfe07bba1add3b2d7a7c080b799f37c6e36910"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 37,
+        "start_column": 2,
+        "end_line": 37,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/Forests.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_4 a n) *\n        eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/Forests.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "ea79cc23263067b4cae3d4df3f64eff8ca9b0a65d5ef615a166aa8de36d2fe83"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 49,
+        "start_column": 2,
+        "end_line": 49,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/Forests.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_4 a n) *\n        eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081) \u2229 \u2191(\ud835\udcd8 u\u2082)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/Forests.lean#L49"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "ebcd95126587e0fa8e8250a10a8a6191f21cdbc368381c5d6db5a75c1a7d98f4"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 255,
+        "start_column": 2,
+        "end_line": 255,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/Forests.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn j : \u2115\nt : Forest X n\nf : X \u2192 \u2102\nhj : j < 2 ^ n\nhg : BoundedCompactSupport f\nh2f : \u2200 (x : X), \u2016f x\u2016 \u2264 G.indicator 1 x\n\u22a2 eLpNorm (\u2211 u \u2208 {p | p \u2208 t.rowDecomp j}, adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f) 2 volume \u2264\n    \u2191(C7_7_2_1 a n) * eLpNorm f 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/Forests.lean#L255"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "c6cb695f94a9db6b612d6b158d2c105295429ef474f2d26dae8c0a382ed3edce"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 262,
+        "start_column": 2,
+        "end_line": 262,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/Forests.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn j : \u2115\nt : Forest X n\nu : \ud835\udd13 X\nf : X \u2192 \u2102\nhj : j < 2 ^ n\nhf : BoundedCompactSupport f\nh2f : \u2200 (x : X), \u2016f x\u2016 \u2264 G.indicator 1 x\n\u22a2 eLpNorm ((\u2211 u \u2208 {p | p \u2208 t.rowDecomp j}, F.indicator) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f)) 2 volume \u2264\n    \u2191(C7_7_2_2 a n) * dens\u2082 (\u22c3 u \u2208 t, (fun x => t.\ud835\udd17 x) u) ^ 2\u207b\u00b9 * eLpNorm f 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/Forests.lean#L262"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "dfc176e6c34d79a7d67ba990d7d81f66eeee72f596c1cd9803df312fbc5fb536"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 276,
+        "start_column": 2,
+        "end_line": 276,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/Forests.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn j j' : \u2115\nt : Forest X n\nf\u2081 f\u2082 : X \u2192 \u2102\nhjj' : j < j'\nhj' : j' < 2 ^ n\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nh3f\u2081 : \u2200 (x : X), \u2016f\u2081 x\u2016 \u2264 G.indicator 1 x\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\nh3f\u2082 : \u2200 (x : X), \u2016f\u2082 x\u2016 \u2264 G.indicator 1 x\n\u22a2 \u2191\u2016\u222b (x : X),\n          (\u2211 u \u2208 {p | p \u2208 t.rowDecomp j}, adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f\u2081 x) *\n            \u2211 u \u2208 {p | p \u2208 t.rowDecomp j'}, adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u) f\u2082 x\u2016\u208a \u2264\n    \u2191(C7_7_3 a n) * eLpNorm f\u2081 2 volume * eLpNorm f\u2082 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/Forests.lean#L276"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "2f9117105ac20d949767755ac308ea8efbc9664285e3d2b0d8a7f9a94671ad47"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 346,
+        "start_column": 2,
+        "end_line": 346,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/Forests.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\n\ud835\udd09 : Forest X n\nf g : X \u2192 \u2102\nhf : Measurable f\nh2f : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhg : Measurable g\nh2g : Bornology.IsBounded (support g)\n\u22a2 \u2191\u2016\u222b (x : X), (starRingEnd \u2102) (g x) * \u2211 u \u2208 {p | p \u2208 \ud835\udd09}, carlesonSum ((fun x => \ud835\udd09.\ud835\udd17 x) u) f x\u2016\u208a \u2264\n    \u2191(C2_0_4 (\u2191a) q n) * dens\u2082 (\u22c3 u \u2208 \ud835\udd09, (fun x => \ud835\udd09.\ud835\udd17 x) u) ^ (q\u207b\u00b9 - 2\u207b\u00b9) * eLpNorm f 2 volume * eLpNorm g 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/Forests.lean#L346"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "63081b433f2b0805bcf62fe7a303d78df74679c7118af049dcbad14ef68e2739"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 370,
+        "start_column": 2,
+        "end_line": 370,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/RemainingTiles.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf : Bornology.IsBounded (range f)\nh2f : HasCompactSupport f\nh3f : AEStronglyMeasurable f volume\n\u22a2 eLpNorm (approxOnCube (t.\ud835\udcd9\u2086 u\u2081) fun x => \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \\ t.\ud835\udd16\u2080 u\u2081 u\u2082) f x\u2016) 2 volume \u2264\n    \u2191(C7_6_2 a n) * eLpNorm ((\u2191(\ud835\udcd8 u\u2081)).indicator fun x => (MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f x\u2016) x).toReal) 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/RemainingTiles.lean#L370"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "f73548f7be9cf9c12b1c38e4fc4d2e0739724f9dd34c54152d59730e83528c5f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 385,
+        "start_column": 2,
+        "end_line": 385,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/RemainingTiles.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \\ t.\ud835\udd16\u2080 u\u2081 u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_6 a n) * eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/RemainingTiles.lean#L385"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "205561efca0e19e2f0798957db4c99766bba8972fd04907a9f295d9c0e4c9d6f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 1467,
+        "start_column": 2,
+        "end_line": 1467,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/LargeSeparation.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf : X \u2192 \u2102\nJ : Grid X\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhJ : J \u2208 t.\ud835\udcd9\u2085 u\u2081 u\u2082\nhf : BoundedCompactSupport f\n\u22a2 \u2191(\u2a06 x \u2208 ball (c J) (8 * \u2191D ^ s J), \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \u2229 t.\ud835\udd16\u2080 u\u2081 u\u2082) f x\u2016\u208a) \u2264\n    \u2a05 x \u2208 ball (c J) (8\u207b\u00b9 * \u2191D ^ s J),\n      \u2191\u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) f x\u2016\u208a + \u2191(C7_5_10 a) * \u2a05 x \u2208 J, MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f x\u2016) x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/LargeSeparation.lean#L1467"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "026fdc73a8eaaf3d8f8bf3064e21d22f57b174a13520c6caa76db38ef6350189"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 1485,
+        "start_column": 2,
+        "end_line": 1485,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/LargeSeparation.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 : X \u2192 \u2102\nJ : Grid X\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhJ : J \u2208 t.\ud835\udcd9\u2085 u\u2081 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 HolderOnWith\n    (C7_5_4 a *\n        ((\u2a05 x \u2208 ball (c J) (8\u207b\u00b9 * \u2191D ^ s J), \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) f\u2081 x\u2016\u208a) +\n          (\u2a05 x \u2208 J, MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f\u2081 x\u2016) x).toNNReal) *\n      ((\u2a05 x \u2208 ball (c J) (8\u207b\u00b9 * \u2191D ^ s J), \u2016adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082) f\u2082 x\u2016\u208a) +\n        (\u2a05 x \u2208 J, MB volume \ud835\udcd1 c\ud835\udcd1 r\ud835\udcd1 (fun x => \u2016f\u2082 x\u2016) x).toNNReal))\n    nn\u03c4 (t.holderFunction u\u2081 u\u2082 f\u2081 f\u2082 J) (ball (c J) (8 * \u2191D ^ s J))",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/LargeSeparation.lean#L1485"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "fff7aa2e37d5dbe55f78428eec40a3bab6a1a9721952ee7e44f63505c77fe3e6"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 1590,
+        "start_column": 2,
+        "end_line": 1590,
+        "end_column": 7,
+        "file": "Carleson/ForestOperator/LargeSeparation.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\nn : \u2115\nt : Forest X n\nu\u2081 u\u2082 : \ud835\udd13 X\nf\u2081 f\u2082 g\u2081 g\u2082 : X \u2192 \u2102\nhu\u2081 : u\u2081 \u2208 t\nhu\u2082 : u\u2082 \u2208 t\nhu : u\u2081 \u2260 u\u2082\nh2u : \ud835\udcd8 u\u2081 \u2264 \ud835\udcd8 u\u2082\nhf\u2081 : Bornology.IsBounded (range f\u2081)\nh2f\u2081 : HasCompactSupport f\u2081\nhf\u2082 : Bornology.IsBounded (range f\u2082)\nh2f\u2082 : HasCompactSupport f\u2082\n\u22a2 \u2191\u2016\u222b (x : X),\n          adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2081) g\u2081 x *\n            (starRingEnd \u2102) (adjointCarlesonSum ((fun x => t.\ud835\udd17 x) u\u2082 \u2229 t.\ud835\udd16\u2080 u\u2081 u\u2082) g\u2082 x)\u2016\u208a \u2264\n    \u2191(C7_4_5 a n) * eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2081 g\u2081) x).toReal) 2 volume *\n      eLpNorm (fun x => ((\u2191(\ud835\udcd8 u\u2081)).indicator (t.adjointBoundaryOperator u\u2082 g\u2082) x).toReal) 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/ForestOperator/LargeSeparation.lean#L1590"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-09-27T15:17:13+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "26e629ab562912a8106cd781ac490c4717fde3b0b5d65acc2036af727f39a87c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 342,
+        "start_column": 83,
+        "end_line": 342,
+        "end_column": 88,
+        "file": "Carleson/Antichain/AntichainTileCount.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\n\u03d1 : \u0398 X\nN : \u2115\n\u22a2 \u2211 p \u2208 \ud835\udd04_aux \ud835\udd04 \u03d1 N, volume (E p \u2229 G) \u2264 \u2191(C_6_3_4 a N) * dens\u2081 \u2191\ud835\udd04 * volume (\u22c3 p \u2208 \ud835\udd04, \u2191(\ud835\udcd8 p))",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainTileCount.lean#L342"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2024-11-16T17:32:56+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "176b0fddc1f45ed1447cdd51754aad9a9a5680b7e38ab3ce34b85535ec6ce87e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 356,
+        "start_column": 2,
+        "end_line": 356,
+        "end_column": 7,
+        "file": "Carleson/Antichain/AntichainTileCount.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 \ud835\udd04' : Finset (\ud835\udd13 X)\nh_le : \ud835\udd04' \u2286 \ud835\udd04\n\u03d1 : \u0398 X\n\u22a2 eLpNorm\n      (\u2211 \ud835\udd2d \u2208 \ud835\udd04',\n        (1 + dist_{\ud835\udd20 \ud835\udd2d ,\u2191D ^ \ud835\udd30 \ud835\udd2d / 4} (\ud835\udcac \ud835\udd2d) \u03d1) ^ (-1 / (2 * \u2191a ^ 2 + \u2191a ^ 3)) \u2022 (E \ud835\udd2d).indicator 1 * G.indicator 1)\n      (\u2191(Antichain.p a)) volume \u2264\n    \u2191(C_6_1_6 a) * dens\u2081 \u2191\ud835\udd04 ^ (1 / \u2191(Antichain.p a)) * volume (\u22c3 p \u2208 \ud835\udd04, \u2191(\ud835\udcd8 p)) ^ (1 / \u2191(Antichain.p a))",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainTileCount.lean#L356"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-28T18:13:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "1aa2d5c3bd1fa402bf7e5adc0698c5737b32eaf2ba17dbbc0a05eb27b12f70a8"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 341,
+        "start_column": 6,
+        "end_line": 341,
+        "end_column": 11,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "case h.e'_3.h.e'_5.h.h.e'_1.h.e'_11.e_a\nX : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\np\u2081 : \u211d\u22650 := 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\nhp\u2081 : p\u2081 = 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\naux : 0 < 3 * (2 * nnq / (nnq + 1)) - 2\nhp\u2081_ge : 1 \u2264 p\u2081\nhp\u2081_lt : p\u2081 < 2\nhf1 : AEStronglyMeasurable f volume\nhf_top : eLpNorm f 2 volume < \u22a4\nthis :\n  HasStrongType (fun f x => (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) (\u2191p\u2081) f x).toReal) 2 2 volume volume\n    (C2_0_6 (2 ^ a) p\u2081 2)\nhh :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) f x).toReal)\n      2 volume \u2264\n    \u2191(CMB (2 ^ a) (2 / (2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) ^\n          (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)))\u207b\u00b9) *\n      eLpNorm f 2 volume\nx\u271d : X\n\u22a2 3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2 = \u2191(3 * (2 * nnq / (nnq + 1)) - 2)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L341"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-07T15:59:11+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "3db7bfe500c526abf0a9a317bbd8956161a6fd641f8fa0b276f9b6ef16c06d23"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 346,
+        "start_column": 6,
+        "end_line": 346,
+        "end_column": 11,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "case h.e'_4.h.e'_5\nX : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\np\u2081 : \u211d\u22650 := 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\nhp\u2081 : p\u2081 = 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\naux : 0 < 3 * (2 * nnq / (nnq + 1)) - 2\nhp\u2081_ge : 1 \u2264 p\u2081\nhp\u2081_lt : p\u2081 < 2\nhf1 : AEStronglyMeasurable f volume\nhf_top : eLpNorm f 2 volume < \u22a4\nthis :\n  HasStrongType (fun f x => (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) (\u2191p\u2081) f x).toReal) 2 2 volume volume\n    (C2_0_6 (2 ^ a) p\u2081 2)\nhh :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) f x).toReal)\n      2 volume \u2264\n    \u2191(CMB (2 ^ a) (2 / (2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) ^\n          (\u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)))\u207b\u00b9) *\n      eLpNorm f 2 volume\n\u22a2 \u2191(2 ^ (2 * a)) * (3 * (\u2191(2 * nnq) / \u2191(nnq + 1)) - 2) / (2 * (\u2191(2 * nnq) / \u2191(nnq + 1)) - 2) =\n    \u2191(CMB (\u2191(2 ^ a)) (2 / (2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))) ^\n        \u2191(2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2))\u207b\u00b9)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L346"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-07T15:59:11+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "220704b3aad0dfffca4712610cd25b4edf459ad26b46544a466cd8676d7483f9"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 324,
+        "start_column": 6,
+        "end_line": 324,
+        "end_column": 11,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\np\u2081 : \u211d\u22650 := 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\nhp\u2081 : p\u2081 = 2 * (2 * nnq / (nnq + 1)) / (3 * (2 * nnq / (nnq + 1)) - 2)\naux : 0 < 3 * (2 * nnq / (nnq + 1)) - 2\nhp\u2081_ge : 1 \u2264 p\u2081\nhp\u2081_lt : p\u2081 < 2\nhf1 : AEStronglyMeasurable f volume\nhf_top : eLpNorm f 2 volume < \u22a4\n\u22a2 HasStrongType (fun f x => (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) (\u2191p\u2081) f x).toReal) 2 2 volume volume\n    (C2_0_6 (2 ^ a) p\u2081 2)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L324"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-07T15:59:11+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "d9b3836243e8fa4cac1360e371cdaedf77dd768f9ee9312cbdbdf814989ffddd"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 391,
+        "start_column": 86,
+        "end_line": 391,
+        "end_column": 91,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\n\u22a2 (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L391"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-07T15:59:11+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "a3761628c565b8138761e88f00478c9a310e5d0841fd1479ea7ac33b676f543f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 397,
+        "start_column": 4,
+        "end_line": 397,
+        "end_column": 9,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\n\u22a2 eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L397"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-07T15:59:11+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "421e1fef26e00450182d7b3e6e108c932f0e02312d09fb0c77dc5d53ee859e13"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 432,
+        "start_column": 6,
+        "end_line": 432,
+        "end_column": 11,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\nhMB_le' :\n  eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04\nh_div_le_div :\n  (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) / (2 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) \u2264 2 ^ 2 / (2 * \u2191nnq / (\u2191nnq + 1) - 1)\nhMBp\u2081_le :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toReal)\n      2 volume \u2264\n    2 ^ (2 * a + 2) / (2 * \u2191nnq / (\u2191nnq + 1) - 1) * eLpNorm f 2 volume\n\u22a2 \u2191\u2016\u222b (x : X), (starRingEnd \u2102) (g x) * \u2211 p \u2208 \ud835\udd04, carlesonOn p f x\u2016\u208a \u2264\n    eLpNorm g 2 volume * eLpNorm (\u2211 p \u2208 \ud835\udd04, carlesonOn p f) 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L432"
+      },
+      "metadata": {
+        "blame_email_hash": "b2f50b2f722a",
+        "blame_date": "2024-08-09T16:06:25+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "e1b88a7b4d481be9dfda93ec06f52c031d2609aa822f8646ca99d55c2b69fb7d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 446,
+        "start_column": 8,
+        "end_line": 446,
+        "end_column": 13,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\nhMB_le' :\n  eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04\nh_div_le_div :\n  (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) / (2 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) \u2264 2 ^ 2 / (2 * \u2191nnq / (\u2191nnq + 1) - 1)\nhMBp\u2081_le :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toReal)\n      2 volume \u2264\n    2 ^ (2 * a + 2) / (2 * \u2191nnq / (\u2191nnq + 1) - 1) * eLpNorm f 2 volume\nh2 : 2 ^ (107 * a ^ 3) = \u2191\u20162 ^ (107 * a ^ 3)\u2016\u208a\nz : X\n\u22a2 MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f z \u2260 \u22a4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L446"
+      },
+      "metadata": {
+        "blame_email_hash": "b2f50b2f722a",
+        "blame_date": "2024-08-09T16:06:25+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "3f129b254455a454f353ce8750a1f05a2288f57ff855247e621436ca884a4b2a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 461,
+        "start_column": 6,
+        "end_line": 461,
+        "end_column": 11,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Finset (\ud835\udd13 X)\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \u2191\ud835\udd04\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhfm : Measurable f\ng : X \u2192 \u2102\nhg : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nx : X\nhf1 : f = F.indicator 1 * f\nhq0 : 0 < nnq\nh1q' : 1 \u2264 2 * nnq / (nnq + 1)\nhqq' : 2 * nnq / (nnq + 1) \u2264 nnq\nhq'_inv : (2 * nnq / (nnq + 1) - 1)\u207b\u00b9 \u2264 3 * (nnq - 1)\u207b\u00b9\nhMB_le :\n  (MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) fun x => \u2016f x\u2016) \u2264\n    maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n      (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) fun x =>\n      \u2016f x\u2016 * (dens\u2082 \u2191\ud835\udd04).toReal ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9)\nhMB_le' :\n  eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    eLpNorm\n        (fun x =>\n          \u2191\u2191(maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n                  (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toNNReal)\n        2 volume *\n      dens\u2082 \u2191\ud835\udd04\nh_div_le_div :\n  (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) / (2 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2) \u2264 2 ^ 2 / (2 * \u2191nnq / (\u2191nnq + 1) - 1)\nhMBp\u2081_le :\n  eLpNorm\n      (fun x =>\n        (maximalFunction volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d)\n            (2 * (2 * \u2191nnq / (\u2191nnq + 1)) / (3 * (2 * \u2191nnq / (\u2191nnq + 1)) - 2)) f x).toReal)\n      2 volume \u2264\n    2 ^ (2 * a + 2) / (2 * \u2191nnq / (\u2191nnq + 1) - 1) * eLpNorm f 2 volume\n\u22a2 eLpNorm (fun x => \u2191\u2191(MB volume (\u2191\ud835\udd04) \ud835\udd20 (fun \ud835\udd2d => 8 * \u2191D ^ \ud835\udd30 \ud835\udd2d) f x).toNNReal) 2 volume \u2264\n    2 ^ (2 * a + 2) *\n      (\u2191(2 * nnq / (nnq + 1) - 1)\u207b\u00b9 * (dens\u2082 \u2191\ud835\udd04 ^ ((2 * \u2191nnq / (\u2191nnq + 1))\u207b\u00b9 - 2\u207b\u00b9) * eLpNorm f 2 volume))",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L461"
+      },
+      "metadata": {
+        "blame_email_hash": "b2f50b2f722a",
+        "blame_date": "2024-08-09T16:06:25+02:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "4ba9d58ceb52c3b72d7ccf4249a1617234289f0c2c6739028b562962d53c8ebf"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 511,
+        "start_column": 51,
+        "end_line": 511,
+        "end_column": 56,
+        "file": "Carleson/Antichain/AntichainOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\n\ud835\udd04 : Set (\ud835\udd13 X)\nf g : X \u2192 \u2102\nhf : Measurable f\nhf1 : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nh\ud835\udd04 : IsAntichain (fun x1 x2 => x1 \u2264 x2) \ud835\udd04\n\u22a2 \u2191\u2016\u222b (x : X), (starRingEnd \u2102) (g x) * carlesonSum \ud835\udd04 f x\u2016\u208a \u2264\n    \u2191(C_2_0_3 \u2191a nnq) * dens\u2081 \ud835\udd04 ^ ((q - 1) / (8 * \u2191a ^ 4)) * dens\u2082 \ud835\udd04 ^ (q\u207b\u00b9 - 2\u207b\u00b9) * eLpNorm f 2 volume *\n      eLpNorm g 2 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/AntichainOperator.lean#L511"
+      },
+      "metadata": {
+        "blame_email_hash": "7d87c0724495",
+        "blame_date": "2025-01-09T16:08:11+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "4d02ec0de229e53442cd8d7d10fef21977c2bbb137a6e7a812b11e2cc537ad2d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 367,
+        "start_column": 2,
+        "end_line": 367,
+        "end_column": 7,
+        "file": "Carleson/Antichain/TileCorrelation.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\np p' : \ud835\udd13 X\nhle : \ud835\udd30 p' \u2264 \ud835\udd30 p\ng : X \u2192 \u2102\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\n\u22a2 \u2191\u2016\u222b (y : X), adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y)\u2016\u208a \u2264\n    \u2191(C_6_1_5 a) * (1 + dist_{\ud835\udd20 p' ,\u2191D ^ \ud835\udd30 p' / 4} (\ud835\udcac p') (\ud835\udcac p)) ^ (-1 / (2 * \u2191a ^ 2 + \u2191a ^ 3)) /\n        \u2191(volume.nnreal \u2191(\ud835\udcd8 p)) *\n      \u222b (y : X) in E p', \u2016g y\u2016 * \u222b (y : X) in E p, \u2016g y\u2016",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/TileCorrelation.lean#L367"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-31T20:12:54+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "250789d56fbb2fc6963ec634be148a5a70a54771c2ad751c6e9b2feda586e012"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 378,
+        "start_column": 2,
+        "end_line": 378,
+        "end_column": 7,
+        "file": "Carleson/Antichain/TileCorrelation.lean"
+      },
+      "debug_info": {
+        "goal": "case intro\nX : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\np p' : \ud835\udd13 X\nhle : \ud835\udd30 p' \u2264 \ud835\udd30 p\ng : X \u2192 \u2102\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nhpp' : \u00ac\u2191(\ud835\udcd8 p) \u2286 ball (\ud835\udd20 p) (15 * \u2191D ^ \ud835\udd30 p)\nh0 : \u00ac\u2016\u222b (y : X), adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y)\u2016\u208a = 0\ny : X\nhy : adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y) \u2260 0\n\u22a2 \u2191(\ud835\udcd8 p) \u2286 ball (\ud835\udd20 p) (15 * \u2191D ^ \ud835\udd30 p)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/TileCorrelation.lean#L378"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-31T20:12:54+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "6618194566a48c5c425636c034b9cd4005d81bbc4929ed3b5f6fcc225e699a13"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 376,
+        "start_column": 84,
+        "end_line": 376,
+        "end_column": 89,
+        "file": "Carleson/Antichain/TileCorrelation.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\nq : \u211d\nK : X \u2192 X \u2192 \u2102\n\u03c3\u2081 \u03c3\u2082 : X \u2192 \u2124\nF G : Set X\ninst\u271d\u00b2 : MetricSpace X\ninst\u271d\u00b9 : ProofData a q K \u03c3\u2081 \u03c3\u2082 F G\ninst\u271d : TileStructure Q D \u03ba S o\np p' : \ud835\udd13 X\nhle : \ud835\udd30 p' \u2264 \ud835\udd30 p\ng : X \u2192 \u2102\nhg : Measurable g\nhg1 : \u2200 (x : X), \u2016g x\u2016 \u2264 G.indicator 1 x\nhpp' : \u00ac\u2191(\ud835\udcd8 p) \u2286 ball (\ud835\udd20 p) (15 * \u2191D ^ \ud835\udd30 p)\nh0 : \u00ac\u2016\u222b (y : X), adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y)\u2016\u208a = 0\n\u22a2 \u2203 y, adjointCarleson p' g y * (starRingEnd \u2102) (adjointCarleson p g y) \u2260 0",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/Antichain/TileCorrelation.lean#L376"
+      },
+      "metadata": {
+        "blame_email_hash": "44a80a4a9c95",
+        "blame_date": "2024-10-31T20:12:54+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "792a056b5355222a74a168a155b1f531c8825fc9329a6ddd66bd14b27e8133af"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 121,
+        "start_column": 2,
+        "end_line": 121,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\nx x' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\nhr : 0 < r\nhx : dist x x' \u2264 r\n\u22a2 \u2191(nndist (czOperator K r g x) (czOperator K r g x')) \u2264 \u2191(C10_1_2 a) * globalMaximalFunction volume 1 g x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L121"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "1e196fbbc8073eb19d8e23f7448b259f88631d8086fde52e44476479f03cd0fa"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 131,
+        "start_column": 2,
+        "end_line": 131,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx x' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\nhr : r \u2208 Ioc 0 R\nhx : dist x x' \u2264 R / 4\n\u22a2 \u2016czOperator K R g x\u2016\u2091 \u2264\n    \u2016czOperator K r ((ball x (R / 2))\u1d9c.indicator g) x'\u2016\u2091 + \u2191(C10_1_3 a) * globalMaximalFunction volume 1 g x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L131"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "293caea1a9d1506c77d170edd2a427d62faf9540427cc732c124a36c1e37f25b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 143,
+        "start_column": 2,
+        "end_line": 143,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\n\u22a2 volume {x' | x' \u2208 ball x (R / 4) \u2227 4 * globalMaximalFunction volume 1 (czOperator K r g) x < \u2016czOperator K r g x'\u2016\u2091} \u2264\n    volume (ball x (R / 4)) / 4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L143"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "6a0050526051f7ccc2c5f63172c630f829bfb87c892533d187a3fd045e008266"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 153,
+        "start_column": 2,
+        "end_line": 153,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\n\u22a2 volume\n      {x' |\n        x' \u2208 ball x (R / 4) \u2227\n          \u2191(C10_1_4 a) * globalMaximalFunction volume 1 g x < \u2016czOperator K r ((ball x (R / 2)).indicator g) x'\u2016\u2091} \u2264\n    volume (ball x (R / 4)) / 4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L153"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "ee3a5c713b01f42e80e6b9699b8a6d0ecf6ae80fc4a986f22d4b58e669dbfd99"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 164,
+        "start_column": 2,
+        "end_line": 164,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr R : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\nhr : r \u2208 Ioc 0 R\n\u22a2 \u2016czOperator K R g x\u2016\u2091 \u2264\n    4 * globalMaximalFunction volume 1 (czOperator K r g) x + \u2191(C10_1_5 a) * globalMaximalFunction volume 1 g x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L164"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "2ea3f0ec52c38eb5500320c650fe62fc8620318d6cd1ead6b2c4dcd413c4b077"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 175,
+        "start_column": 2,
+        "end_line": 175,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\nhr : 0 < r\n\u22a2 HasStrongType (simpleNontangentialOperator K r) 2 2 volume volume (C10_1_6 a)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L175"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "d92cdb63362e52618f453a70b7c1936a6e0d2082afc3bdb7ea09b7ab2ee3fe9e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 183,
+        "start_column": 2,
+        "end_line": 183,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\nhr : 0 \u2264 r\n\u22a2 HasStrongType (simpleNontangentialOperator K r) 2 2 volume volume (C10_1_6 a)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L183"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "e1cb2bb4fcf3840c1d722ad2897e694dca9b8a0ba81e07aa58277add9bff966a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 190,
+        "start_column": 2,
+        "end_line": 190,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\nx' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhf : BoundedFiniteSupport f volume\nR\u2081 : \u211d\n\u22a2 Continuous fun R\u2082 => \u222b (y : X) in {y | dist x' y \u2208 Ioo R\u2081 R\u2082}, K x' y * f y",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L190"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "ca3b85486261f616f0aa0b4c69e5107df93193b1aa1ec0c1d8591ab54f9631cc"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 197,
+        "start_column": 2,
+        "end_line": 197,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\nx' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhf : BoundedFiniteSupport f volume\nR\u2082 : \u211d\n\u22a2 Continuous fun R\u2081 => \u222b (y : X) in {y | dist x' y \u2208 Ioo R\u2081 R\u2082}, K x' y * f y",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L197"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "ede1c80a2a2f9ab0cb803f3e1f39c7c3b7ef39d7d9892491330dbe3c523fc954"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 205,
+        "start_column": 2,
+        "end_line": 205,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nf : X \u2192 \u2102\nhf : BoundedFiniteSupport f volume\n\u22a2 nontangentialOperator K f x =\n    \u2a06 R\u2081, \u2a06 R\u2082, \u2a06 (_ : R\u2081 < R\u2082), \u2a06 x', \u2a06 (_ : dist x x' \u2264 R\u2081), \u2016\u222b (y : X) in ball x' R\u2082 \\ ball x' R\u2081, K x' y * f y\u2016\u2091",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L205"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "e4fc7599284cbe88ac26628a3f224e073f8e313356c73be7d956667a362ea492"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 216,
+        "start_column": 2,
+        "end_line": 216,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/NontangentialOperator.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\ng : X \u2192 \u2102\nhg : BoundedFiniteSupport g volume\nthis : HasStrongType (simpleNontangentialOperator K 0) 2 2 volume volume (C10_1_6 a)\n\u22a2 HasStrongType (nontangentialOperator K) 2 2 volume volume (C10_0_2 a)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/NontangentialOperator.lean#L216"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T15:28:23+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "6ec670fb59e7eb11a7648262be50d27d3560dd6043c8aad598d8c507ac3a21c3"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 34,
+        "start_column": 2,
+        "end_line": 34,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/MainTheorem.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhq : q \u2208 Ioc 1 2\nhqq' : q.IsConjExponent q'\nhF : MeasurableSet F\nhG : MeasurableSet G\nhT : \u2200 r > 0, HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\nf : X \u2192 \u2102\nhmf : Measurable f\nhf : \u2200 (x : X), \u2016f x\u2016 \u2264 F.indicator 1 x\n\u22a2 \u222b\u207b (x : X) in G, carlesonOperator K f x \u2264 \u2191(C10_0_1 a q) * volume G ^ (\u2191q')\u207b\u00b9 * volume F ^ (\u2191q)\u207b\u00b9",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/MainTheorem.lean#L34"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T19:00:57+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "55316ee7ff6bda7ee05ebd30d9336efbccd10baa858aaaf4189189bade66565c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 36,
+        "start_column": 31,
+        "end_line": 36,
+        "end_column": 36,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nthis : C10_2_1 a = \u2191(defaultA a) ^ 4\n\u22a2 \u2200 (f : X \u2192 \u2102), MemLp f 1 volume \u2192 \u2200\u1d50 (x : X), globalMaximalFunction volume 1 f x \u2260 \u22a4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L36"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "5439ba8f57dbb35323460fc273ecb5ae31221c971df702a2486096cfcffbff34"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 50,
+        "start_column": 2,
+        "end_line": 50,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\nhf : BoundedFiniteSupport f volume\n\u22a2 \u2200\u1d50 (x : X),\n    \u2203 c r,\n      Tendsto (fun i => \u2a0d (y : X) in ball (c i) (r i), f y) atTop (\ud835\udcdd (f x)) \u2227\n        Tendsto r atTop (\ud835\udcdd[>] 0) \u2227 \u2200 (i : \u2115), x \u2208 ball (c i) (r i)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L50"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "02b8d9e85844f57d18280f4eef37110a4475cf8d4751ec69dc495fb38a7dd426"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 62,
+        "start_column": 2,
+        "end_line": 62,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nO : Set X\nhO : IsOpen O \u2227 O \u2260 univ\n\u22a2 \u2203 c r,\n    (univ.PairwiseDisjoint fun i => closedBall (c i) (r i)) \u2227\n      \u22c3 i, ball (c i) (3 * r i) = O \u2227\n        (\u2200 (i : \u2115), \u00acDisjoint (ball (c i) (7 * r i)) O\u1d9c) \u2227\n          \u2200 x \u2208 O, Cardinal.mk \u2191{i | x \u2208 ball (c i) (3 * r i)} \u2264 \u2191(2 ^ (6 * a))",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L62"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "7a019c392b97bb5ba9ff4c8cf69c621b3afc84f0898928d376d2535af9454586"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 82,
+        "start_column": 2,
+        "end_line": 82,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nh : \u00acGeneralCase f \u03b1\n\u22a2 volume univ < \u22a4",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L82"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "be8311d490e0b7354b8bb624511ad07dcc0c012cb1c993905c1a9a49ed8f5682"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 88,
+        "start_column": 2,
+        "end_line": 88,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\n\u22a2 IsOpen (globalMaximalFunction volume 1 f \u207b\u00b9' Ioi \u03b1) \u2227 globalMaximalFunction volume 1 f \u207b\u00b9' Ioi \u03b1 \u2260 univ",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L88"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "6804e53c77b867430c33f95b3bee27d778338a4efe37e202c6409612332df076"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 135,
+        "start_column": 2,
+        "end_line": 135,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\ny : X\nhy : \u03b1 < globalMaximalFunction volume 1 f y\n\u22a2 {i | y \u2208 czBall3 hf hX i}.Finite",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L135"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "3fb0f4bb294a222d642217ae541e85ce23378cd7c9d555b312982f9dbf577b5f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 143,
+        "start_column": 2,
+        "end_line": 143,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\ni : \u2115\n\u22a2 czBall hf hX i \u2286 czPartition hf hX i",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L143"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "17af636ab5e86168976fe959879584ba3145c8f13d699c53b5f651ac1d196365"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 151,
+        "start_column": 2,
+        "end_line": 151,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\n\u22a2 univ.PairwiseDisjoint fun i => czPartition hf hX i",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L151"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T19:00:57+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "707dbd3156e22541647d9d286669c1d21cbe3e9cfaddc880c7a63b7f290a1bcd"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 156,
+        "start_column": 2,
+        "end_line": 156,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nx : X\ni j : \u2115\nhi : x \u2208 czPartition hf hX i\nhj : x \u2208 czPartition hf hX j\n\u22a2 i = j",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L156"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "6338c8d8179345216a30ee92dbe17a69e8b1b1e15824da39cdd2dc886c20e5eb"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 160,
+        "start_column": 2,
+        "end_line": 160,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\n\u22a2 \u22c3 i, czPartition hf hX i = globalMaximalFunction volume 1 f \u207b\u00b9' Ioi \u03b1",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L160"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "704b9efd182070164f6e19095448c5ae260817846d8106d73cfaa0582107dca8"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 197,
+        "start_column": 2,
+        "end_line": 197,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\n\u03c4 C r R : \u211d\nq q' : \u211d\u22650\nF G : Set X\nK : X \u2192 X \u2192 \u2102\nx\u271d x' : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nx : X\n\u22a2 \u2211\u1da0 (i : \u2115), czRemainder' hf hX i x = czRemainder hf \u03b1 x",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L197"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T17:21:05+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "e4517349b24c90eeeab1c440e92e56de216b61f8956be3f0b7d3238aa18357d8"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 202,
+        "start_column": 2,
+        "end_line": 202,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\n\u22a2 Measurable (czApproximation hf \u03b1)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L202"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "770aac71c43cc7204f51349cbe238457cf646cbc25415c3e7377f1a416db2f40"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 213,
+        "start_column": 2,
+        "end_line": 213,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 < \u03b1\n\u22a2 \u2200\u1d50 (x : X), \u2016czApproximation hf \u03b1 x\u2016\u2091 \u2264 2 ^ (3 * a) * \u03b1",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L213"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "db8c4227099e56839011ba9f1d32db7bcb70d5529dc83162a22db9a0b4aafa06"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 219,
+        "start_column": 2,
+        "end_line": 219,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u2200\u1d50 (x : X), \u2016czApproximation hf \u03b1 x\u2016\u2091 \u2264 2 ^ (3 * a) * \u03b1",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L219"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "95cb5f3f8bf00588726f68d0ce3542ba591293895839561c124e5bad941c1187"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 224,
+        "start_column": 2,
+        "end_line": 224,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nh\u03b1 : 0 < \u03b1\n\u22a2 eLpNorm (czApproximation hf \u03b1) 1 volume \u2264 eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L224"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "456c5b8d25810492c7637d1376fd5389614669052abcacb2973754866072bb86"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 230,
+        "start_column": 2,
+        "end_line": 230,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\ni : \u2115\n\u22a2 support (czRemainder' hf hX i) \u2286 czBall3 hf hX i",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L230"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "e68da44ab9045a6338fcd17ff7af8796367c7e0ea5e9629ff20336947ef8bf11"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 236,
+        "start_column": 2,
+        "end_line": 236,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\ni : \u2115\n\u22a2 \u222b (x : X), czRemainder' hf hX i x = 0",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L236"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "930061d0baff55e435bd44cf059761cdc15374c3a62d2128b1a5583f67c5c2f5"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 241,
+        "start_column": 2,
+        "end_line": 241,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u222b (x : X), czRemainder hf \u03b1 x = 0",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L241"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "a11dc908e3e2ffe9edb8bb6ffc1e72726caf5feda209dc65f8d9ebd24b81f9c1"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 247,
+        "start_column": 2,
+        "end_line": 247,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\ni : \u2115\n\u22a2 eLpNorm (czRemainder' hf hX i) 1 volume \u2264 2 ^ (2 * a + 1) * \u03b1 * volume (czBall3 hf hX i)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L247"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "98204f6be65cabaee57fe5e6c458f949ff3f4e7836492ef869a57b4b0d042646"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 252,
+        "start_column": 2,
+        "end_line": 252,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 eLpNorm (czRemainder hf \u03b1) 1 volume \u2264 2 ^ (2 * a + 1) * \u03b1 * volume univ",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L252"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "bbdd0b19ee271fc12a4a18dd37ce816fa6ed9d4d8658e1b2a4ca1d2f35f73623"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 257,
+        "start_column": 2,
+        "end_line": 257,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u2211' (i : \u2115), volume (czBall3 hf hX i) \u2264 2 ^ (4 * a) / \u03b1 * eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L257"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "4474d1a89643947be384bd9352c04a567a86c062c7697a1783bd186144ceac68"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 262,
+        "start_column": 2,
+        "end_line": 262,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 volume univ \u2264 2 ^ (4 * a) / \u03b1 * eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L262"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "f2165a9148bfbb4af84cb40dd5c7a0f9a72602d315576949fe51d850960a1a3c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 268,
+        "start_column": 2,
+        "end_line": 268,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : GeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 \u2211' (i : \u2115), eLpNorm (czRemainder' hf hX i) 1 volume \u2264 2 * eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L268"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "2e7a48b1633d5aa7002d786fea6b26893f263667cd2fc3d8c600f4239c249967"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 274,
+        "start_column": 2,
+        "end_line": 274,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nhX : \u00acGeneralCase f \u03b1\nh\u03b1 : 0 < \u03b1\n\u22a2 eLpNorm (czRemainder hf \u03b1) 1 volume \u2264 2 * eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L274"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "5c8ee89969c0eecb082160aa1be77e85d9eb3c6805297e283249464455998c59"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 292,
+        "start_column": 2,
+        "end_line": 292,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\n\u22a2 distribution (czOperator K r (czApproximation hf \u03b1)) (\u03b1 / 2) volume \u2264 \u2191(C10_2_6 a) / \u03b1 * eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L292"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "df3f8448ad8040cf009a4c9bd8834a1bc5bccc0a6a4907d9e066ea9693fa907a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 307,
+        "start_column": 2,
+        "end_line": 307,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\nx : X\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\nhx : x \u2208 (\u03a9 hf \u03b1)\u1d9c\nhX : GeneralCase f \u03b1\n\u22a2 \u2016czOperator K r (czRemainder hf \u03b1) x\u2016\u2091 \u2264 3 * czOperatorBound hf hX x + \u03b1 / 8",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L307"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "d7325ad6db69644c5add003556ffb479ee9673d999d0ee622f0efeae004edaef"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 317,
+        "start_column": 2,
+        "end_line": 317,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u00b3 : MetricSpace X\ninst\u271d\u00b2 : DoublingMeasure X \u2191(defaultA a)\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\nhX : GeneralCase f \u03b1\n\u22a2 volume ((\u03a9 hf \u03b1)\u1d9c \u2229 czOperatorBound hf hX \u207b\u00b9' Ioi (\u03b1 / 8)) \u2264 \u2191(C10_2_8 a) / \u03b1 * eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L317"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "23175d28e344c9940809a856dc9971cc9e27ee545d6224f62a88cdad64166c03"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 328,
+        "start_column": 2,
+        "end_line": 328,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nf : X \u2192 \u2102\n\u03b1 : \u211d\u22650\u221e\nhf : BoundedFiniteSupport f volume\nh\u03b1 : \u2a0d\u207b (x : X), \u2016f x\u2016\u2091 / \u2191(c10_0_3 a) < \u03b1\nhX : GeneralCase f \u03b1\n\u22a2 distribution (czOperator K r (czRemainder hf \u03b1)) (\u03b1 / 2) volume \u2264 \u2191(C10_2_9 a) / \u03b1 * eLpNorm f 1 volume",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L328"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-02-26T16:50:03+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "19aac73a70a35c22fec29c7f7387ef1462a1424ac4efcc9767f6855140cb6200"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/fpvandoorn/carleson",
+        "branch": "master",
+        "commit": "568cd953edd45f2bc231af421de6bfdb23a7cca8",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "start_line": 344,
+        "start_column": 2,
+        "end_line": 344,
+        "end_column": 7,
+        "file": "Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean"
+      },
+      "debug_info": {
+        "goal": "X : Type u_1\na : \u2115\ninst\u271d\u2074 : MetricSpace X\ninst\u271d\u00b3 : DoublingMeasure X \u2191(defaultA a)\nr : \u211d\nK : X \u2192 X \u2192 \u2102\ninst\u271d\u00b2 : IsTwoSidedKernel a K\ninst\u271d\u00b9 : CompatibleFunctions \u211d X (defaultA a)\ninst\u271d : IsCancellative X (default\u03c4 a)\nha : 4 \u2264 a\nhr : 0 < r\nhT : HasBoundedStrongType (czOperator K r) 2 2 volume volume (C_Ts \u2191a)\n\u22a2 HasBoundedWeakType (czOperator K r) 1 1 volume volume (C10_0_3 a)",
+        "url": "https://github.com/fpvandoorn/carleson/blob/568cd953edd45f2bc231af421de6bfdb23a7cca8/Carleson/TwoSidedCarleson/WeakCalderonZygmund.lean#L344"
+      },
+      "metadata": {
+        "blame_email_hash": "0a77110e33df",
+        "blame_date": "2025-01-27T19:00:57+01:00",
+        "inclusion_date": "2025-04-01T04:30:09.632728+00:00"
+      },
+      "id": "9d3e7554f15ab3f63bf653973e7216e7866ea89ac51014a2aae158dfee9a5b7a"
     }
   ]
 }
