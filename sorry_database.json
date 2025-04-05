@@ -2,354 +2,1155 @@
   "repos": [
     {
       "remote_url": "https://github.com/alexkeizer/QpfTypes",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T05:00:54.580783+00:00",
+      "remote_heads_hash": "e872072f74fd"
     },
     {
       "remote_url": "https://github.com/leanprover-community/mathlib4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T05:00:55.297174+00:00",
+      "remote_heads_hash": "598c504799e5"
     },
     {
       "remote_url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T08:56:10.191039+00:00",
+      "remote_heads_hash": "c63f04753203"
     },
     {
       "remote_url": "https://github.com/argumentcomputer/yatima",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T08:58:26.424627+00:00",
+      "remote_heads_hash": "27bd4dd3b298"
     },
     {
       "remote_url": "https://github.com/argumentcomputer/LSpec",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T08:58:27.313118+00:00",
+      "remote_heads_hash": "ad0900cdfdc6"
     },
     {
       "remote_url": "https://github.com/axiomed/http",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T08:58:27.796812+00:00",
+      "remote_heads_hash": "b9eedf58de6b"
     },
     {
       "remote_url": "https://github.com/cmu-l3/llmlean",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T08:58:28.281540+00:00",
+      "remote_heads_hash": "3b087fc35101"
     },
     {
       "remote_url": "https://github.com/dwrensha/compfiles",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T08:58:28.858673+00:00",
+      "remote_heads_hash": "87d5dc7340b3"
     },
     {
       "remote_url": "https://github.com/emilyriehl/infinity-cosmos",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:04:46.727512+00:00",
+      "remote_heads_hash": "e4af335c6b6a"
     },
     {
       "remote_url": "https://github.com/eric-wieser/lean-matrix-cookbook",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:04:47.555319+00:00",
+      "remote_heads_hash": "a4f9f9349dac"
     },
     {
       "remote_url": "https://github.com/fgdorais/lean4-parser",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:04:48.084870+00:00",
+      "remote_heads_hash": "a128d0356c0c"
     },
     {
       "remote_url": "https://github.com/forked-from-1kasper/ground_zero",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:04:51.661335+00:00",
+      "remote_heads_hash": "3ac4e085182d"
     },
     {
       "remote_url": "https://github.com/FormalizedFormalLogic/Foundation",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:04:52.200695+00:00",
+      "remote_heads_hash": "610af3edaac6"
     },
     {
       "remote_url": "https://github.com/fpvandoorn/carleson",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:06:56.127350+00:00",
+      "remote_heads_hash": "8754c02ed7cb"
     },
     {
       "remote_url": "https://github.com/frenzymath/jixia",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:09:03.428801+00:00",
+      "remote_heads_hash": "f731832a3641"
     },
     {
       "remote_url": "https://github.com/google-deepmind/debate",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:09:04.056387+00:00",
+      "remote_heads_hash": "5a9708e14c57"
     },
     {
       "remote_url": "https://github.com/HEPLean/PhysLean",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:09:04.508963+00:00",
+      "remote_heads_hash": "c7d0b000b58c"
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/formalising-mathematics-2024",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:09:07.435878+00:00",
+      "remote_heads_hash": "e7cfe4f5ab5b"
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/FLT",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:09:08.007534+00:00",
+      "remote_heads_hash": "56cad72ec4da"
     },
     {
       "remote_url": "https://github.com/JamesGallicchio/LeanColls",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:11:17.025436+00:00",
+      "remote_heads_hash": "6ff891a06df9"
     },
     {
       "remote_url": "https://github.com/kim-em/lean-training-data",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:11:22.949384+00:00",
+      "remote_heads_hash": "7108932d8b3e"
     },
     {
       "remote_url": "https://github.com/kmill/lean4-raytracer",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:11:23.390618+00:00",
+      "remote_heads_hash": "a93cae6611b5"
     },
     {
       "remote_url": "https://github.com/lean-dojo/LeanCopilot",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:11:24.659918+00:00",
+      "remote_heads_hash": "40507bb9fee9"
     },
     {
       "remote_url": "https://github.com/lean-ja/lean-by-example",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:11:25.133378+00:00",
+      "remote_heads_hash": "160471fb05d2"
     },
     {
       "remote_url": "https://github.com/leanprover-community/tutorials4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:34.300906+00:00",
+      "remote_heads_hash": "d2deab6affd4"
     },
     {
       "remote_url": "https://github.com/leanprover-community/sphere-eversion",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:34.809675+00:00",
+      "remote_heads_hash": "b8aa9a466b58"
     },
     {
       "remote_url": "https://github.com/leanprover-community/quote4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:36.243591+00:00",
+      "remote_heads_hash": "f1cec0d144d0"
     },
     {
       "remote_url": "https://github.com/leanprover-community/ProofWidgets4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:36.684933+00:00",
+      "remote_heads_hash": "f34197beab85"
     },
     {
       "remote_url": "https://github.com/leanprover-community/plausible",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:37.385427+00:00",
+      "remote_heads_hash": "5b8e5e3beaa9"
     },
     {
       "remote_url": "https://github.com/leanprover-community/mathport",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:37.784664+00:00",
+      "remote_heads_hash": "f1a810136ef9"
     },
     {
       "remote_url": "https://github.com/leanprover-community/lean4-metaprogramming-book",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:38.842158+00:00",
+      "remote_heads_hash": "d44060733757"
     },
     {
       "remote_url": "https://github.com/leanprover-community/iris-lean",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:39.412212+00:00",
+      "remote_heads_hash": "76b2fa11638d"
     },
     {
       "remote_url": "https://github.com/leanprover-community/NNG4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:40.408117+00:00",
+      "remote_heads_hash": "6c6fa024917e"
     },
     {
       "remote_url": "https://github.com/leanprover-community/flt-regular",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:40.973256+00:00",
+      "remote_heads_hash": "5d15f7dfa5aa"
     },
     {
       "remote_url": "https://github.com/leanprover-community/duper",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:13:41.558142+00:00",
+      "remote_heads_hash": "7939d2266617"
     },
     {
       "remote_url": "https://github.com/leanprover-community/con-nf",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:23:58.046149+00:00",
+      "remote_heads_hash": "44e2ba4ad943"
     },
     {
       "remote_url": "https://github.com/leanprover-community/batteries",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:24:00.218270+00:00",
+      "remote_heads_hash": "e1f8b4f77945"
     },
     {
       "remote_url": "https://github.com/leanprover-community/lean-auto",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:38:30.218315+00:00",
+      "remote_heads_hash": "8d302ab12b22"
     },
     {
       "remote_url": "https://github.com/leanprover-community/aesop",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:38:30.828503+00:00",
+      "remote_heads_hash": "db15741f40b4"
     },
     {
       "remote_url": "https://github.com/leanprover/verso",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:38:31.915441+00:00",
+      "remote_heads_hash": "700e6e2042a2"
     },
     {
       "remote_url": "https://github.com/leanprover/reference-manual",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:40:33.639198+00:00",
+      "remote_heads_hash": "e631eadd6c2c"
     },
     {
       "remote_url": "https://github.com/leanprover/doc-gen4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:42:39.930127+00:00",
+      "remote_heads_hash": "4145fa8a6ea3"
     },
     {
       "remote_url": "https://github.com/leanprover/lean4-cli",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:42:40.431427+00:00",
+      "remote_heads_hash": "81485c108a0e"
     },
     {
       "remote_url": "https://github.com/lecopivo/SciLean",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:42:40.823922+00:00",
+      "remote_heads_hash": "a4d8a4239e17"
     },
     {
       "remote_url": "https://github.com/loganrjmurphy/LeanEuclid",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:08.070686+00:00",
+      "remote_heads_hash": "63d340883186"
     },
     {
       "remote_url": "https://github.com/marcusrossel/lean-egg",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:08.934941+00:00",
+      "remote_heads_hash": "ee1d06e3952e"
     },
     {
       "remote_url": "https://github.com/mo271/FormalBook",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:22.862176+00:00",
+      "remote_heads_hash": "205f79a11375"
     },
     {
       "remote_url": "https://github.com/NethermindEth/EVMYulLean",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:23.483059+00:00",
+      "remote_heads_hash": "fc7bb836f0d7"
     },
     {
       "remote_url": "https://github.com/nomeata/loogle",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:24.056314+00:00",
+      "remote_heads_hash": "66ecf34277ff"
     },
     {
       "remote_url": "https://github.com/optsuite/optlib",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:24.562517+00:00",
+      "remote_heads_hash": "bd52ad3a2cec"
     },
     {
       "remote_url": "https://github.com/Paper-Proof/paperproof",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:25.081684+00:00",
+      "remote_heads_hash": "7d20cad3ac97"
     },
     {
       "remote_url": "https://github.com/PatrickMassot/verbose-lean4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:44:32.348646+00:00",
+      "remote_heads_hash": "809679a33ddc"
     },
     {
       "remote_url": "https://github.com/PatrickMassot/GlimpseOfLean",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:45:00.544756+00:00",
+      "remote_heads_hash": "c3c67dbda20d"
     },
     {
       "remote_url": "https://github.com/pitmonticone/LeanProject",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:45:01.031513+00:00",
+      "remote_heads_hash": "162b0834cb74"
     },
     {
       "remote_url": "https://github.com/rami3l/plfl",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:45:01.555654+00:00",
+      "remote_heads_hash": "5fe7248774f4"
     },
     {
       "remote_url": "https://github.com/reilabs/proven-zk",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:45:02.027924+00:00",
+      "remote_heads_hash": "89dfce5717eb"
     },
     {
       "remote_url": "https://github.com/risc0/risc0-lean4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:45:03.443959+00:00",
+      "remote_heads_hash": "76fff39fd5ca"
     },
     {
       "remote_url": "https://github.com/starkware-libs/formal-proofs",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:45:04.166837+00:00",
+      "remote_heads_hash": "e7128b1e4414"
     },
     {
       "remote_url": "https://github.com/teorth/pfr",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:45:04.838601+00:00",
+      "remote_heads_hash": "ca87531fbde7"
     },
     {
       "remote_url": "https://github.com/teorth/expdb",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:46:30.666938+00:00",
+      "remote_heads_hash": "0d19f1231e4e"
     },
     {
       "remote_url": "https://github.com/teorth/equational_theories",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:46:33.178867+00:00",
+      "remote_heads_hash": "1c1b71fa103d"
     },
     {
       "remote_url": "https://github.com/Timeroot/ComputableReal",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:24.253083+00:00",
+      "remote_heads_hash": "8abf2e84860e"
     },
     {
       "remote_url": "https://github.com/tydeu/lean4-alloy",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:25.159023+00:00",
+      "remote_heads_hash": "607e2d5fe13b"
     },
     {
       "remote_url": "https://github.com/ufmg-smite/lean-smt",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:25.590576+00:00",
+      "remote_heads_hash": "38596c368e5e"
     },
     {
       "remote_url": "https://github.com/verified-optimization/CvxLean",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:26.230958+00:00",
+      "remote_heads_hash": "7a4249e9e921"
     },
     {
       "remote_url": "https://github.com/Verified-zkEVM/ZKLib",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:26.976655+00:00",
+      "remote_heads_hash": "07b9e7db8c14"
     },
     {
       "remote_url": "https://github.com/verse-lab/lean-ssr",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:27.617414+00:00",
+      "remote_heads_hash": "90c340f9e5c7"
     },
     {
       "remote_url": "https://github.com/wellecks/llmstep",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:28.147958+00:00",
+      "remote_heads_hash": "164bd714fab9"
     },
     {
       "remote_url": "https://github.com/YaelDillies/LeanCamCombi",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:47:28.695547+00:00",
+      "remote_heads_hash": "77fdc715033f"
     },
     {
       "remote_url": "https://github.com/yangky11/miniF2F-lean4",
-      "last_time_visited": "2025-04-04T00:00:00+00:00",
-      "remote_heads_hash": null
+      "last_time_visited": "2025-04-05T09:48:53.136978+00:00",
+      "remote_heads_hash": "f520a26cc363"
     }
   ],
-  "sorries": []
+  "sorries": [
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mans0954/Banach-Dieudonne-lemma",
+        "commit": "e3c0af4a1f01c45d6e6235604116e23c59001619",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 337,
+        "start_column": 2,
+        "end_line": 337,
+        "end_column": 7,
+        "file": "Mathlib/Analysis/LocallyConvex/AbsConvex.lean"
+      },
+      "debug_info": {
+        "goal": "E : Type u_2\ninst\u271d\u2074 : AddCommGroup E\ninst\u271d\u00b3 : Module \u211d E\ninst\u271d\u00b2 : UniformSpace E\ninst\u271d\u00b9 : IsUniformAddGroup E\nlcs : LocallyConvexSpace \u211d E\ninst\u271d : ContinuousSMul \u211d E\n\u22a2 {C | IsCompact C} \u2286 {C | IsCompact C \u2227 Convex \u211d C}",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/e3c0af4a1f01c45d6e6235604116e23c59001619/Mathlib/Analysis/LocallyConvex/AbsConvex.lean#L337"
+      },
+      "metadata": {
+        "blame_email_hash": "b075c7797d16",
+        "blame_date": "2024-11-19T08:13:58+00:00",
+        "inclusion_date": "2025-04-05T08:34:52.417453+00:00"
+      },
+      "id": "d1615171e52b8c3f97d2ab1d7ef83ad648c9e5cfaafe049aba262590e2c0a8b0"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 258,
+        "start_column": 80,
+        "end_line": 258,
+        "end_column": 85,
+        "file": "MathlibTest/LintStyle.lean"
+      },
+      "debug_info": {
+        "goal": "this : \u2115 \u2192 True\n\u22a2 Set.univ = \u22c3 i, \u22c3 j, {0, j}",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/LintStyle.lean#L258"
+      },
+      "metadata": {
+        "blame_email_hash": "13ebe891461f",
+        "blame_date": "2024-11-27T12:13:29+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "106cdec8ca432a36d2095080b2850927a5162a04cfb7f24c8c217b4549c5a371"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 259,
+        "start_column": 53,
+        "end_line": 259,
+        "end_column": 58,
+        "file": "MathlibTest/LintStyle.lean"
+      },
+      "debug_info": {
+        "goal": "this\u271d : \u2115 \u2192 True\nthis : Set.univ = \u22c3 i, \u22c3 j, {0, j}\n\u22a2 \u2203 m, \u22c3 i, Set.univ = \u2205",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/LintStyle.lean#L259"
+      },
+      "metadata": {
+        "blame_email_hash": "13ebe891461f",
+        "blame_date": "2024-11-27T12:13:29+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "833b51bc483add8346aa27814b097dc6e9d0df8ea00ba4e1f65654eab430e757"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 37,
+        "start_column": 2,
+        "end_line": 37,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "3dfc7b5bb7101e8ef9d1c388457d4bd596f56c3285e8df0844fa7f5a1aaf45f2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 65,
+        "start_column": 2,
+        "end_line": 65,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "_zero : \u2115\nisLt\u271d : _zero < 1\n\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L65"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "65c07ef894c1f1822080d559c85990d9bb641b7255f81c202f84b135c1e4ada2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 77,
+        "start_column": 2,
+        "end_line": 77,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "_zero : \u2115\nisLt\u271d : _zero < 1\n\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L77"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "6c970ce6b796a69e0dae06ac70555aa3d88b00da7d680b4510ed7e3f443497db"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 97,
+        "start_column": 2,
+        "end_line": 97,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L97"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "84da4a9f18d324d6f823342ed7b07e2e544fd785eeddbc2b84d2a4570037bf62"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 116,
+        "start_column": 2,
+        "end_line": 116,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "this : \u2115\n\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L116"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "667b4a7d6ac0cfc29eb01acf8046ee3715d162a62a23d0003cec291668ae57a4"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 125,
+        "start_column": 2,
+        "end_line": 125,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L125"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "79822e350edd4d1411562c6b35614b1f6fd3581ec40cfdbb1801f89399547be9"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 132,
+        "start_column": 2,
+        "end_line": 132,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "h this : False\n\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L132"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "2918af0d69b1fd985da0a79b5f52fafbdf6026031dae88f49331f70f6b7e94be"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 145,
+        "start_column": 2,
+        "end_line": 145,
+        "end_column": 7,
+        "file": "MathlibTest/HaveLetLinter.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 0 = 0",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/HaveLetLinter.lean#L145"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-08-07T12:49:12+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "d6a3cb912094591b75dae0cdcc2497e138f49dccdfe494184b2d6a9fd0c5802d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 48,
+        "start_column": 22,
+        "end_line": 48,
+        "end_column": 27,
+        "file": "MathlibTest/DeprecatedSyntaxLinter.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 False",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/DeprecatedSyntaxLinter.lean#L48"
+      },
+      "metadata": {
+        "blame_email_hash": "4f0774fdf1b5",
+        "blame_date": "2025-03-24T00:28:04+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "c3c2b0095bac2bfe9c9b92aef35644fa3e0be6c1bc9da0331c7f100e9583e5fb"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 68,
+        "start_column": 6,
+        "end_line": 68,
+        "end_column": 11,
+        "file": "MathlibTest/DeprecatedSyntaxLinter.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 True",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/DeprecatedSyntaxLinter.lean#L68"
+      },
+      "metadata": {
+        "blame_email_hash": "4f0774fdf1b5",
+        "blame_date": "2025-03-24T00:28:04+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "b54cbe6d00a19c60da9290c9a206d9e1f86608d8a50a03613d109d675e419f0d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 71,
+        "start_column": 4,
+        "end_line": 71,
+        "end_column": 9,
+        "file": "MathlibTest/DeprecatedSyntaxLinter.lean"
+      },
+      "debug_info": {
+        "goal": "case refine_1\nthis : True\nfoo : Nat := sorry\n\u22a2 True",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/DeprecatedSyntaxLinter.lean#L71"
+      },
+      "metadata": {
+        "blame_email_hash": "4f0774fdf1b5",
+        "blame_date": "2025-03-24T00:28:04+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "888547b9713bd32f19687c0ce6b74cb3e6040edd15548c640b25bc211dfe9133"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 72,
+        "start_column": 4,
+        "end_line": 72,
+        "end_column": 9,
+        "file": "MathlibTest/DeprecatedSyntaxLinter.lean"
+      },
+      "debug_info": {
+        "goal": "case refine_2\nthis : True\nfoo : Nat := sorry\n\u22a2 True",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/DeprecatedSyntaxLinter.lean#L72"
+      },
+      "metadata": {
+        "blame_email_hash": "4f0774fdf1b5",
+        "blame_date": "2025-03-24T00:28:04+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "c561550a1edcad9a28ee6fea22ce0c1d745f700469e21ecebbfa000d15753c95"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 79,
+        "start_column": 22,
+        "end_line": 79,
+        "end_column": 27,
+        "file": "MathlibTest/DeprecatedSyntaxLinter.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 False",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/DeprecatedSyntaxLinter.lean#L79"
+      },
+      "metadata": {
+        "blame_email_hash": "4f0774fdf1b5",
+        "blame_date": "2025-03-24T00:28:04+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "a1efc545e55fb1eb647e74bd9aca46694febdae6f9f4ba236663b19ab07adbdc"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/mathlib4",
+        "branch": "mathlib-linter-repo",
+        "commit": "74204b4451d77f3bd741753fb06815b9074ddb8e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 65,
+        "start_column": 35,
+        "end_line": 65,
+        "end_column": 40,
+        "file": "MathlibTest/globalAttributeIn.lean"
+      },
+      "debug_info": {
+        "goal": "x y : Nat\n\u22a2 x = y",
+        "url": "https://github.com/leanprover-community/mathlib4/blob/74204b4451d77f3bd741753fb06815b9074ddb8e/MathlibTest/globalAttributeIn.lean#L65"
+      },
+      "metadata": {
+        "blame_email_hash": "f669669ee311",
+        "blame_date": "2024-05-29T15:57:18+00:00",
+        "inclusion_date": "2025-04-05T08:45:27.569480+00:00"
+      },
+      "id": "ef7333d6c84907d0e38596df2d257852d5f4d24cd5cd41f805696ef533623607"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/duper",
+        "branch": "dev",
+        "commit": "4f71a99b24c1b6dc946f258ff94afec41f24ee2d",
+        "lean_version": "v4.16.0"
+      },
+      "location": {
+        "start_line": 35,
+        "start_column": 13,
+        "end_line": 35,
+        "end_column": 18,
+        "file": "Duper/Tests/lastAsylum.lean"
+      },
+      "debug_info": {
+        "goal": "ax1 : \u2200 (x : Inhab), Peculiar x \u2194 (Sane x \u2194 \u00acDoctor x)\nax2 : \u2200 (x : Inhab), Special x \u2194 \u2200 (y : Inhab), \u00acDoctor y \u2194 (Sane y \u2194 Peculiar x)\nax3 : \u2200 (x y : Inhab), (Sane x \u2194 Special y) \u2192 (Sane (bf x) \u2194 \u00acDoctor y)\nax4 : Sane Tarr \u2194 \u2200 (x : Inhab), Doctor x \u2192 Sane x\nax5 : Sane Fether \u2194 \u2200 (x : Inhab), \u00acDoctor x \u2192 \u00acSane x\nax6 : Sane Fether \u2194 Sane Tarr\n\u22a2 False",
+        "url": "https://github.com/leanprover-community/duper/blob/4f71a99b24c1b6dc946f258ff94afec41f24ee2d/Duper/Tests/lastAsylum.lean#L35"
+      },
+      "metadata": {
+        "blame_email_hash": "d9c480704efb",
+        "blame_date": "2022-08-01T22:37:02-04:00",
+        "inclusion_date": "2025-04-05T09:13:42.039378+00:00"
+      },
+      "id": "7290be644a65efb5c5add145e797fbc8813d1fc50271e9405d828cb09e87acb5"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/duper",
+        "branch": "dev",
+        "commit": "4f71a99b24c1b6dc946f258ff94afec41f24ee2d",
+        "lean_version": "v4.16.0"
+      },
+      "location": {
+        "start_line": 18,
+        "start_column": 50,
+        "end_line": 18,
+        "end_column": 55,
+        "file": "Duper/Tests/test_continuity.lean"
+      },
+      "debug_info": {
+        "goal": "a : Real\n\u22a2 dist a a = zero",
+        "url": "https://github.com/leanprover-community/duper/blob/4f71a99b24c1b6dc946f258ff94afec41f24ee2d/Duper/Tests/test_continuity.lean#L18"
+      },
+      "metadata": {
+        "blame_email_hash": "4ac7eab8a488",
+        "blame_date": "2023-06-05T10:39:00+02:00",
+        "inclusion_date": "2025-04-05T09:13:42.039378+00:00"
+      },
+      "id": "2bda768062e96d54f00b2df91ec55ac72b8b3fcea4a13b676b9fc0088a15bb32"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/duper",
+        "branch": "dev",
+        "commit": "4f71a99b24c1b6dc946f258ff94afec41f24ee2d",
+        "lean_version": "v4.16.0"
+      },
+      "location": {
+        "start_line": 20,
+        "start_column": 48,
+        "end_line": 20,
+        "end_column": 53,
+        "file": "Duper/Tests/test_continuity.lean"
+      },
+      "debug_info": {
+        "goal": "a : Real\n\u22a2 lt zero one",
+        "url": "https://github.com/leanprover-community/duper/blob/4f71a99b24c1b6dc946f258ff94afec41f24ee2d/Duper/Tests/test_continuity.lean#L20"
+      },
+      "metadata": {
+        "blame_email_hash": "4ac7eab8a488",
+        "blame_date": "2023-06-05T10:39:00+02:00",
+        "inclusion_date": "2025-04-05T09:13:42.039378+00:00"
+      },
+      "id": "be485c55db2ab33fd9ccd3a1f4bc9ec3a26221f4fe0e7f24bc624149f66c0e2a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "docs",
+        "commit": "e682d1063f559bd8ac977a2124eec2a2b69259bb",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 37,
+        "start_column": 64,
+        "end_line": 37,
+        "end_column": 69,
+        "file": "BatteriesTest/lintsimp.lean"
+      },
+      "debug_info": {
+        "goal": "\u03b1 : Type u_1\ninst\u271d : Mul \u03b1\na x y : \u03b1\u1d50\u1d52\u1d56\n\u22a2 SemiconjBy a.unop y.unop x.unop \u2194 SemiconjBy a x y",
+        "url": "https://github.com/leanprover-community/batteries/blob/e682d1063f559bd8ac977a2124eec2a2b69259bb/BatteriesTest/lintsimp.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "8a7dcd08b95f",
+        "blame_date": "2022-12-18T15:51:52-05:00",
+        "inclusion_date": "2025-04-05T09:24:59.051160+00:00"
+      },
+      "id": "5261583804e0093369f8b0061602fc4d8b25950f84701036d211686aea24abca"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "docs",
+        "commit": "e682d1063f559bd8ac977a2124eec2a2b69259bb",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 7,
+        "start_column": 2,
+        "end_line": 7,
+        "end_column": 7,
+        "file": "BatteriesTest/lintunused.lean"
+      },
+      "debug_info": {
+        "goal": "h : 1 = 1\n\u22a2 True",
+        "url": "https://github.com/leanprover-community/batteries/blob/e682d1063f559bd8ac977a2124eec2a2b69259bb/BatteriesTest/lintunused.lean#L7"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-08T02:17:31+02:00",
+        "inclusion_date": "2025-04-05T09:24:59.051160+00:00"
+      },
+      "id": "9b4041ca5c6939d3037d45b7c51c2fe2a642e4e378861d14a94573e3909fa973"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "docs",
+        "commit": "e682d1063f559bd8ac977a2124eec2a2b69259bb",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 23,
+        "start_column": 2,
+        "end_line": 24,
+        "end_column": 5,
+        "file": "BatteriesTest/lint_unreachableTactic.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 1 = 1",
+        "url": "https://github.com/leanprover-community/batteries/blob/e682d1063f559bd8ac977a2124eec2a2b69259bb/BatteriesTest/lint_unreachableTactic.lean#L23"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-26T11:27:15+01:00",
+        "inclusion_date": "2025-04-05T09:24:59.051160+00:00"
+      },
+      "id": "723eff71f0a38d7936c60dfdcb0e615e691c919001972bd95f7ac46eb598c7b3"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "docs",
+        "commit": "e682d1063f559bd8ac977a2124eec2a2b69259bb",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 31,
+        "start_column": 33,
+        "end_line": 31,
+        "end_column": 38,
+        "file": "BatteriesTest/lint_unreachableTactic.lean"
+      },
+      "debug_info": {
+        "goal": "aa : Nat\n\u22a2 aa = 0 \u2192 t aa = 0",
+        "url": "https://github.com/leanprover-community/batteries/blob/e682d1063f559bd8ac977a2124eec2a2b69259bb/BatteriesTest/lint_unreachableTactic.lean#L31"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-26T11:27:15+01:00",
+        "inclusion_date": "2025-04-05T09:24:59.051160+00:00"
+      },
+      "id": "17c2dad76cce38e9147cf33aaa74cffc3b5289271c58a28dbc8aca69f969143b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "main",
+        "commit": "4f7258c077d7b5640d5bef77b574feae89c58f5e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 37,
+        "start_column": 64,
+        "end_line": 37,
+        "end_column": 69,
+        "file": "BatteriesTest/lintsimp.lean"
+      },
+      "debug_info": {
+        "goal": "\u03b1 : Type u_1\ninst\u271d : Mul \u03b1\na x y : \u03b1\u1d50\u1d52\u1d56\n\u22a2 SemiconjBy a.unop y.unop x.unop \u2194 SemiconjBy a x y",
+        "url": "https://github.com/leanprover-community/batteries/blob/4f7258c077d7b5640d5bef77b574feae89c58f5e/BatteriesTest/lintsimp.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "8a7dcd08b95f",
+        "blame_date": "2022-12-18T15:51:52-05:00",
+        "inclusion_date": "2025-04-05T09:35:30.780430+00:00"
+      },
+      "id": "1d5bce6eabd16b6bb8f008065aacf57f3d945fa2d055558bcad5c114f3eb3e19"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "main",
+        "commit": "4f7258c077d7b5640d5bef77b574feae89c58f5e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 7,
+        "start_column": 2,
+        "end_line": 7,
+        "end_column": 7,
+        "file": "BatteriesTest/lintunused.lean"
+      },
+      "debug_info": {
+        "goal": "h : 1 = 1\n\u22a2 True",
+        "url": "https://github.com/leanprover-community/batteries/blob/4f7258c077d7b5640d5bef77b574feae89c58f5e/BatteriesTest/lintunused.lean#L7"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-08T02:17:31+02:00",
+        "inclusion_date": "2025-04-05T09:35:30.780430+00:00"
+      },
+      "id": "5b549e054071f58fbfd2d4ab9102ba49a6913f18981b2ca447851bf1b420aff5"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "main",
+        "commit": "4f7258c077d7b5640d5bef77b574feae89c58f5e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 23,
+        "start_column": 2,
+        "end_line": 24,
+        "end_column": 5,
+        "file": "BatteriesTest/lint_unreachableTactic.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 1 = 1",
+        "url": "https://github.com/leanprover-community/batteries/blob/4f7258c077d7b5640d5bef77b574feae89c58f5e/BatteriesTest/lint_unreachableTactic.lean#L23"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-26T11:27:15+01:00",
+        "inclusion_date": "2025-04-05T09:35:30.780430+00:00"
+      },
+      "id": "731b0ade69bae840399c8739ca71d181e92d2c7bd92dcb71a5be6a5c51d933e9"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "main",
+        "commit": "4f7258c077d7b5640d5bef77b574feae89c58f5e",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 31,
+        "start_column": 33,
+        "end_line": 31,
+        "end_column": 38,
+        "file": "BatteriesTest/lint_unreachableTactic.lean"
+      },
+      "debug_info": {
+        "goal": "aa : Nat\n\u22a2 aa = 0 \u2192 t aa = 0",
+        "url": "https://github.com/leanprover-community/batteries/blob/4f7258c077d7b5640d5bef77b574feae89c58f5e/BatteriesTest/lint_unreachableTactic.lean#L31"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-26T11:27:15+01:00",
+        "inclusion_date": "2025-04-05T09:35:30.780430+00:00"
+      },
+      "id": "d81a4f094f3a2e5bdd36f4f78fc719484abeb07798f8d643c0ce40fc7de5e111"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "run_linter_loadExts",
+        "commit": "f68cf907ff8b367e49cd8649bd157e74b15dae6f",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 37,
+        "start_column": 64,
+        "end_line": 37,
+        "end_column": 69,
+        "file": "BatteriesTest/lintsimp.lean"
+      },
+      "debug_info": {
+        "goal": "\u03b1 : Type u_1\ninst\u271d : Mul \u03b1\na x y : \u03b1\u1d50\u1d52\u1d56\n\u22a2 SemiconjBy a.unop y.unop x.unop \u2194 SemiconjBy a x y",
+        "url": "https://github.com/leanprover-community/batteries/blob/f68cf907ff8b367e49cd8649bd157e74b15dae6f/BatteriesTest/lintsimp.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "8a7dcd08b95f",
+        "blame_date": "2022-12-18T15:51:52-05:00",
+        "inclusion_date": "2025-04-05T09:37:27.405132+00:00"
+      },
+      "id": "93b1f4d4f9fba212f565278628783a99edb094b5e7ae106fc3a74028cedf5608"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "run_linter_loadExts",
+        "commit": "f68cf907ff8b367e49cd8649bd157e74b15dae6f",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 7,
+        "start_column": 2,
+        "end_line": 7,
+        "end_column": 7,
+        "file": "BatteriesTest/lintunused.lean"
+      },
+      "debug_info": {
+        "goal": "h : 1 = 1\n\u22a2 True",
+        "url": "https://github.com/leanprover-community/batteries/blob/f68cf907ff8b367e49cd8649bd157e74b15dae6f/BatteriesTest/lintunused.lean#L7"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-08T02:17:31+02:00",
+        "inclusion_date": "2025-04-05T09:37:27.405132+00:00"
+      },
+      "id": "40de5a6154b7f704807422e7dea34cf4104c25ae35b74a8a1e99471915144a78"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "run_linter_loadExts",
+        "commit": "f68cf907ff8b367e49cd8649bd157e74b15dae6f",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 23,
+        "start_column": 2,
+        "end_line": 24,
+        "end_column": 5,
+        "file": "BatteriesTest/lint_unreachableTactic.lean"
+      },
+      "debug_info": {
+        "goal": "\u22a2 1 = 1",
+        "url": "https://github.com/leanprover-community/batteries/blob/f68cf907ff8b367e49cd8649bd157e74b15dae6f/BatteriesTest/lint_unreachableTactic.lean#L23"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-26T11:27:15+01:00",
+        "inclusion_date": "2025-04-05T09:37:27.405132+00:00"
+      },
+      "id": "db4be07aa5e2fb25db22dfca5c8e41337e817908afb16558a945fa25ce20e8a2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/leanprover-community/batteries",
+        "branch": "run_linter_loadExts",
+        "commit": "f68cf907ff8b367e49cd8649bd157e74b15dae6f",
+        "lean_version": "v4.19.0-rc2"
+      },
+      "location": {
+        "start_line": 31,
+        "start_column": 33,
+        "end_line": 31,
+        "end_column": 38,
+        "file": "BatteriesTest/lint_unreachableTactic.lean"
+      },
+      "debug_info": {
+        "goal": "aa : Nat\n\u22a2 aa = 0 \u2192 t aa = 0",
+        "url": "https://github.com/leanprover-community/batteries/blob/f68cf907ff8b367e49cd8649bd157e74b15dae6f/BatteriesTest/lint_unreachableTactic.lean#L31"
+      },
+      "metadata": {
+        "blame_email_hash": "45b5ed8e3c8e",
+        "blame_date": "2023-08-26T11:27:15+01:00",
+        "inclusion_date": "2025-04-05T09:37:27.405132+00:00"
+      },
+      "id": "518aeb28486e167d5b4d9185f6306045b3386db1ccc3c878e314d1bd43988b5e"
+    }
+  ]
 }
