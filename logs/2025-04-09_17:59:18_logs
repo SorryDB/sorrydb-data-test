@@ -1,0 +1,106 @@
+2025-04-09 21:59:19,301 - sorrydb.database.sorry_database - INFO - Loading sorry database from /data/sorry_database.json
+2025-04-09 21:59:19,311 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/leanprover-community/mathlib4
+2025-04-09 21:59:19,570 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/leanprover-community/mathlib4, processing...
+2025-04-09 21:59:19,570 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/leanprover-community/mathlib4
+2025-04-09 22:00:00,625 - sorrydb.utils.git_ops - INFO - Found 5548 branches with commit dates in https://github.com/leanprover-community/mathlib4
+2025-04-09 22:00:00,798 - sorrydb.database.build_database - INFO - Including new commit 94047e370e27a8853a637bf0efc2e63567e2a82c on branch ACL/Eisenstein from 2025-04-09T06:12:35+00:00
+2025-04-09 22:00:00,798 - sorrydb.database.build_database - INFO - Including new commit 8b58cc9c401e8b1f2cff3e0ba3915315f34d50e3 on branch AddCircle_golf from 2025-04-09T14:00:17+00:00
+2025-04-09 22:00:00,798 - sorrydb.database.build_database - INFO - Including new commit 0672bb82c3258ce83e1a132b287c3555ba2e4bdb on branch Amice_TransForm from 2025-04-09T09:02:24+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit 1f2ca448f113608833f21a5675897163a389331f on branch AtLeastTwo from 2025-04-09T07:34:04+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit 167c568475f3618b397798d40376feed403e5ba2 on branch AtLeastTwo_cleanup from 2025-04-09T12:15:46+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit 8466b91a8eb12b90eb03f36c7fcb67ec516580b9 on branch Cohen-Macaulay-Ring-Base from 2025-04-09T14:21:21+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit dbb89490f05b4b9bd83f9766c652c91c6a17e23f on branch DL_norm_smul from 2025-04-09T20:56:11+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit 60c51c067ab920606b64870bcb253c98b73c6068 on branch FR_binrec from 2025-04-09T06:42:00+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit b89a0b049b56dd5c21e5bfec458952af307ed7b4 on branch FR_deprecate_quotient_lemmas1 from 2025-04-09T06:12:51+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit 2ea5f8f76b93edb5483f419d6c346bc908fcd9fe on branch FR_ordered_mixin_deprecate from 2025-04-09T18:36:37+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit 25ffff65d07b0c88e418c1ecf26701808e521196 on branch HEAD from 2025-04-09T21:31:07+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit e1b6ab3bf94f888f876795248e8995e014ed4aaa on branch Hannah/kspace from 2025-04-09T12:15:17+00:00
+2025-04-09 22:00:00,799 - sorrydb.database.build_database - INFO - Including new commit 7d96df2ac37c2a9228b16c889e910a1d725dc394 on branch Irreducible.not_unit from 2025-04-09T18:37:55+00:00
+2025-04-09 22:00:00,800 - sorrydb.database.build_database - INFO - Including new commit 33e6254221a0505052e6d47f7ae5ba2438db15a2 on branch Moises-Herradon-Cueto-WithTerminal from 2025-04-09T18:02:09+00:00
+2025-04-09 22:00:00,800 - sorrydb.database.build_database - INFO - Including new commit d2f1f177e8408f47342c6a02c9fcc745d21dcf3d on branch RD_erealStieltjes from 2025-04-09T07:41:48+00:00
+2025-04-09 22:00:00,800 - sorrydb.database.build_database - INFO - Including new commit fdf35f2f199e8e408307d381852f1cb697899917 on branch Raph-DG-SymmetricAlgebra from 2025-04-09T00:33:07+00:00
+2025-04-09 22:00:00,800 - sorrydb.database.build_database - INFO - Including new commit b06480df6f1a81abc8523f162eb38ef19713192f on branch SG_lie from 2025-04-09T20:26:10+00:00
+2025-04-09 22:00:00,800 - sorrydb.database.build_database - INFO - Including new commit d92c694e850f3187ef16af41866b5161453d6766 on branch SM.functorLift from 2025-04-09T18:07:28+00:00
+2025-04-09 22:00:00,801 - sorrydb.database.build_database - INFO - Including new commit ec4579d8589440ab279b2dd27cc2ee23a899b0f2 on branch YK-arch-cleanup from 2025-04-09T20:02:09+00:00
+2025-04-09 22:00:00,801 - sorrydb.database.build_database - INFO - Including new commit bc4e76d92e1295aeb8e5bef2530c0c3f0a71564f on branch YK-arch-vars from 2025-04-09T19:56:05+00:00
+2025-04-09 22:00:00,801 - sorrydb.database.build_database - INFO - Including new commit 2050ff52a8a108a3058d006a5f491e210f4b9a90 on branch YK-gwz-01 from 2025-04-09T21:51:45+00:00
+2025-04-09 22:00:00,801 - sorrydb.database.build_database - INFO - Including new commit bbb1b2da60bee8e047e604ed0addcbf8f2579385 on branch YK-semifield-Ixx from 2025-04-09T04:59:46+00:00
+2025-04-09 22:00:00,801 - sorrydb.database.build_database - INFO - Including new commit d12265e3dd38156e895e1dcc1ca478ef8b6fe5d0 on branch YK-top-semifield from 2025-04-09T07:09:23+00:00
+2025-04-09 22:00:00,801 - sorrydb.database.build_database - INFO - Including new commit ef313729c1e2aeb9f34909ee5bd76913ad290c99 on branch adomani/pplint_some from 2025-04-09T21:48:18+00:00
+2025-04-09 22:00:00,802 - sorrydb.database.build_database - INFO - Including new commit dff417e91a09de99be631ae0eae14a84b1a823cd on branch associated-primes-finite from 2025-04-09T17:42:34+00:00
+2025-04-09 22:00:00,802 - sorrydb.database.build_database - INFO - Including new commit be4db80812b4795b1047f11725aa97dc8aa259e2 on branch b-reinke/Assoc from 2025-04-09T19:02:09+00:00
+2025-04-09 22:00:00,802 - sorrydb.database.build_database - INFO - Including new commit dd4bb1e4aef6858416e19339b4e3e5ae4c1c57f2 on branch batteries-pr-testing-1197 from 2025-04-09T06:45:47+00:00
+2025-04-09 22:00:00,802 - sorrydb.database.build_database - INFO - Including new commit f113f9629cbedebfacad43f023687522e82b1e57 on branch batteries-pr-testing-1199 from 2025-04-09T13:23:49+00:00
+2025-04-09 22:00:00,802 - sorrydb.database.build_database - INFO - Including new commit 75a64f5317580e5880bf62843d956282d8265c5f on branch bjoernkjoshanssen_2nd_derivative_test from 2025-04-09T00:50:48+00:00
+2025-04-09 22:00:00,803 - sorrydb.database.build_database - INFO - Including new commit 545fef3d395cfc216d77ef9bef22b522c37a88b3 on branch bump/v4.20.0 from 2025-04-09T14:58:01+00:00
+2025-04-09 22:00:00,803 - sorrydb.database.build_database - INFO - Including new commit b32d85116cfca3d85621efb7b35f3891e1d1b66f on branch cf-gen from 2025-04-09T11:46:26+00:00
+2025-04-09 22:00:00,803 - sorrydb.database.build_database - INFO - Including new commit 35889993a0c850772864d66839642f87ff6e31dd on branch complete-lattice-multicoequalizer-diagram from 2025-04-09T13:03:00+00:00
+2025-04-09 22:00:00,803 - sorrydb.database.build_database - INFO - Including new commit d24e075c8461bd838a9a2d14d5f9b2ebd74eab3f on branch docker-build-ci from 2025-04-09T16:04:58+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit 48ecdb85ef48c6600841837a316f0c5272362805 on branch edison/wedderburn_wip from 2025-04-09T20:05:45+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit 1a69efede4dd809be6ce2791873bd6fc62248d56 on branch efloor from 2025-04-09T05:56:27+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit cf17ba756862389e29d2c9e3f76cdaaee88aa9cb on branch erd1/idealSheafSupport from 2025-04-09T21:03:04+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit 26244b5210cb53315122f1c0696cf338cce2e166 on branch erd1/padicEquiv from 2025-04-09T14:24:55+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit d68fbed22af5a2d1dc82a2a5e8c22f05b921fcd0 on branch erd1/subscheme from 2025-04-09T20:42:04+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit 4e124e70979b1596e42da213942b8099a5d96277 on branch eric-wieser/IsSimpleRing-cleanup from 2025-04-09T21:54:47+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit 3ebce77d403bc8ee141732be9b7cb7acf5f7b767 on branch eric-wieser/bad-classical from 2025-04-09T10:41:06+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit f7db16423340d70a53dfec72cbbfc59ccf719c34 on branch exp_rat_junkvalue from 2025-04-09T13:31:24+00:00
+2025-04-09 22:00:00,804 - sorrydb.database.build_database - INFO - Including new commit c19d52ef07505ed76be8373e88a9a35d32c7cfec on branch finset-expr from 2025-04-09T21:36:07+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit f4c2564463e0bfe4f08117ccd3c72b94061bb19b on branch hilbert7 from 2025-04-09T15:11:21+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit 5c16c2f269b5711486bd4616d51c0aacbd38a928 on branch hoelder_div_div from 2025-04-09T16:55:14+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit f9b25c160a320e177ce84b533f6ed97941d6dfc7 on branch integral_count from 2025-04-09T11:19:54+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit 597a8e195270590bfa3ff9476546509f10375a27 on branch j-loreaux/Finset.prod_congr_inter from 2025-04-09T17:49:49+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit c89b9206147c1c82478861d98a552b93b0bd8d58 on branch j-loreaux/Finset.prod_toList from 2025-04-09T18:21:53+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit 66bcaf2a6e9952aa39a0adf6e8a30b6c65a84200 on branch j-loreaux/GradedRing.coe_mul_apply_antidiagonal from 2025-04-09T18:23:25+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit 8d0215dd602fd45fecdf03690da74edf51a1faeb on branch j-loreaux/canlift-subobject from 2025-04-09T18:42:12+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit 1a9f04eebf1494a367b2acc42e05f0e957f4d73a on branch janos-wolosz/simple-lie-to-irreducible-2 from 2025-04-09T12:26:28+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit a8eed13597dcef13b3826f6e1cda3703d602b2bd on branch jmc-porting-notes-order-1 from 2025-04-09T04:55:00+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit 9ff71c68f38afc6a62f86248da4cbeb8040c97da on branch jriou-derivability-structure-pointwise from 2025-04-09T09:10:42+00:00
+2025-04-09 22:00:00,805 - sorrydb.database.build_database - INFO - Including new commit de410bf3ed62ff42507ec59a2be395375174892d on branch jriou-kan-extension-pointwise-more-api from 2025-04-09T09:09:12+00:00
+2025-04-09 22:00:00,806 - sorrydb.database.build_database - INFO - Including new commit d3544167ed2fda17b5af85a0a0b8b14f1e2bb3e9 on branch jriou-multicoequalizer-preserves from 2025-04-09T12:48:17+00:00
+2025-04-09 22:00:00,806 - sorrydb.database.build_database - INFO - Including new commit 481fab36d23f1ab69b74b83e9d2860d74222ebb9 on branch jriou-pointwise-right-derived-functor from 2025-04-09T09:09:51+00:00
+2025-04-09 22:00:00,806 - sorrydb.database.build_database - INFO - Including new commit e612a25da3319b03a78f6d452c90176aac0ed4bf on branch jriou-types-colimit-refactor from 2025-04-09T12:34:40+00:00
+2025-04-09 22:00:00,806 - sorrydb.database.build_database - INFO - Including new commit da09b153fc93793489ac4ca7924727298b6f1599 on branch jriou-types-multicoequalizer-set from 2025-04-09T14:25:21+00:00
+2025-04-09 22:00:00,806 - sorrydb.database.build_database - INFO - Including new commit a5795764142a42265d7046750165aa183184fc94 on branch jt496_blowups from 2025-04-09T16:01:03+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 55193811d56d98ae14f3f19bbc6333df7b246b4b on branch lean-pr-testing-7855 from 2025-04-09T15:06:46+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit f93727ffe3c2ad7950e636574a0b48c4b7a14dc1 on branch lean-pr-testing-7870 from 2025-04-09T14:24:41+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 541ae1f2faf3f80e41ac8e10e863cef5b6a03d19 on branch lean-pr-testing-7879 from 2025-04-09T13:49:31+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit c3bdd0e9d397b4f6c4691fa05b8513eb5089514a on branch lintegral from 2025-04-09T11:19:02+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit dae9554f5770cb76b1cc070a9fa9918609c7efd2 on branch lintegral-convergence from 2025-04-09T07:22:31+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit b116bbacc3fdca0f932b6b97d27d5d7341ee309c on branch list-antidiagonal from 2025-04-09T21:57:59+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit eb6e4bdef6198e8de03bf11a2dd726e8d5268331 on branch mans0954/bipolar-theorem from 2025-04-09T07:40:27+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit bf26073b4efe621c036ffd7a99e0709b6fce6259 on branch mans0954/directed-prod-LUB from 2025-04-09T21:51:08+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 9aa02962cceb9c750998c956979b37a8c26a0039 on branch mans0954/scott-products from 2025-04-09T17:37:01+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 25ffff65d07b0c88e418c1ecf26701808e521196 on branch master from 2025-04-09T21:31:07+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 0f10e4eda74bca09bf8d3b8853bdd3915bcd1e4e on branch matrix_row from 2025-04-09T16:09:40+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 14e377e0a794e409c53b1c6cdc019f14df97e543 on branch matroid_loopless from 2025-04-09T17:45:21+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 9f7d219cd016dafdfffde8613cd4ab1b3bcd9436 on branch matroid_minor3 from 2025-04-09T16:16:00+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 3879a3581dd6471894417c460e88c120b870ce81 on branch meithecatte/computability-overview from 2025-04-09T01:46:43+00:00
+2025-04-09 22:00:00,809 - sorrydb.database.build_database - INFO - Including new commit 9f0c4df6241394d26d6ddb4fab32eff3f971f2d8 on branch modEnriched from 2025-04-09T07:07:32+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit b27f87f413a8c85b8081b8f0c55cb9599aeba664 on branch module_end_namespace from 2025-04-09T06:46:08+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit 8ac89b968c44522ed1e43a4a6909fbfc08672da0 on branch move-associated-prime from 2025-04-09T15:33:04+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit 76e9c17ebb8f491e78ea40f13a4e2ae3dc37236e on branch nightly-testing from 2025-04-09T21:31:51+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit 2f2d35fffe08ab90d0be16955febc68a108ab1bd on branch nnlpnorm from 2025-04-09T16:44:38+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit 8cbd8e7adbb87bb09e8356c5746a6abe9ed3d616 on branch obj_mon_class from 2025-04-09T16:14:14+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit ad1d8402da91c60fc96f021c8d3e1adc4fb1c232 on branch pfaffelh_gram from 2025-04-09T15:10:24+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit d12addea0b4c13104ab8f152adfca3ab7fa1b134 on branch pole-topology from 2025-04-09T21:19:42+00:00
+2025-04-09 22:00:00,810 - sorrydb.database.build_database - INFO - Including new commit 44b2009a4613a50b1f703d4c47e08d0709ff070f on branch pullback_cone_binary_fan from 2025-04-09T08:27:42+00:00
+2025-04-09 22:00:00,811 - sorrydb.database.build_database - INFO - Including new commit a40dba502ba182774056393650beeecba017483a on branch span' from 2025-04-09T00:46:59+00:00
+2025-04-09 22:00:00,811 - sorrydb.database.build_database - INFO - Including new commit 25ffff65d07b0c88e418c1ecf26701808e521196 on branch staging from 2025-04-09T21:31:07+00:00
+2025-04-09 22:00:00,811 - sorrydb.database.build_database - INFO - Including new commit 4cf8e754ff0de73c0542ae9f070853703a06a035 on branch strongly_measurable_of_discrete from 2025-04-09T13:39:36+00:00
+2025-04-09 22:00:00,811 - sorrydb.database.build_database - INFO - Including new commit 1436664d28431b5af36a0ce5037666b82075bae3 on branch toStrictSegal2 from 2025-04-09T21:19:21+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit b67229824e04355417a84f85973363a558562cb0 on branch update-dependencies-bot-use-only from 2025-04-09T18:40:18+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 63cbe833375a409a7d89498e7acc2bba5362dd19 on branch various-tidy-3 from 2025-04-09T19:51:55+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 505e7897cdd093f821b89a6709175e54edf47e09 on branch vasnesterov/AnalyticOn.hasFPowerSeriesOnBall from 2025-04-09T10:46:27+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 83de2a08cd5e454de2d04c42082903914407d644 on branch vasnesterov/AnalyticOnNhd.comp_sub from 2025-04-09T07:58:27+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 1c3305b5f18ee5705ae5ea888f4540a0ba44cdc7 on branch vlad.tsyrklevich/generalize-theorems-chunk31 from 2025-04-09T03:18:54+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 0583647b398d8660b6324fdd828c706528047813 on branch with_bot_inductive_le from 2025-04-09T05:47:42+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit d58a17eaef9cd7747893047b8f6b39fe356b24a2 on branch xfr-cmdefs from 2025-04-09T17:25:27+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 1bfda850df90b3b15405b3406e926791bf8ad980 on branch xfr-covolume_div_covolume from 2025-04-09T05:50:48+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 27661db04e4c35a0c803b41d0952c0ed32c69cfc on branch xfr-maxrealsubfield from 2025-04-09T19:07:24+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 6b9199d2a5679fabc233259423e1de624fc52180 on branch xfr-maxrealsubfield2 from 2025-04-09T17:36:44+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Including new commit 7e93a88b9004735ca5de2a3e4475af15696a8a23 on branch xfr_iscommutative2 from 2025-04-09T14:56:52+00:00
+2025-04-09 22:00:00,812 - sorrydb.database.build_database - INFO - Filtered 5548 commits to 96 new commits after 2025-04-09T00:00:00+00:00
+2025-04-09 22:00:00,813 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmpqdpgmeja
+2025-04-09 22:00:00,813 - sorrydb.database.process_sorries - INFO - Processing repository: https://github.com/leanprover-community/mathlib4
+2025-04-09 22:00:00,813 - sorrydb.database.process_sorries - INFO - Using branch: ACL/Eisenstein
+2025-04-09 22:00:07,475 - sorrydb.utils.git_ops - INFO - Cloning https://github.com/leanprover-community/mathlib4 branch ACL/Eisenstein...
