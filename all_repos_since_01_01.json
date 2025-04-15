@@ -500,9 +500,6 @@
       "remote": "https://github.com/objectionary/proof"
     },
     {
-      "remote": "https://github.com/opencompl/lean-mlir"
-    },
-    {
       "remote": "https://github.com/optsuite/optlib"
     },
     {
