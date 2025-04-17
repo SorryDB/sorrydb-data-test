@@ -1,0 +1,87 @@
+2025-04-16 22:29:44,587 - sorrydb.database.sorry_database - INFO - Loading sorry database from /data/sorry_database.json
+2025-04-16 22:29:44,588 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/0art0/lean-slides
+2025-04-16 22:29:44,745 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/0art0/lean-slides, processing...
+2025-04-16 22:29:44,746 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/0art0/lean-slides
+2025-04-16 22:29:45,074 - sorrydb.utils.git_ops - INFO - Found 3 branches with commit dates in https://github.com/0art0/lean-slides
+2025-04-16 22:29:45,080 - sorrydb.database.build_database - INFO - Filtered 3 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:45,080 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmp021z4lf9
+2025-04-16 22:29:45,081 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/abdoo8080/lean-cvc5
+2025-04-16 22:29:45,280 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/abdoo8080/lean-cvc5, processing...
+2025-04-16 22:29:45,281 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/abdoo8080/lean-cvc5
+2025-04-16 22:29:45,628 - sorrydb.utils.git_ops - INFO - Found 1 branches with commit dates in https://github.com/abdoo8080/lean-cvc5
+2025-04-16 22:29:45,631 - sorrydb.database.build_database - INFO - Filtered 1 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:45,631 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmp2_d8_wte
+2025-04-16 22:29:45,632 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/acmepjz/md4lean
+2025-04-16 22:29:45,823 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/acmepjz/md4lean, processing...
+2025-04-16 22:29:45,823 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/acmepjz/md4lean
+2025-04-16 22:29:46,143 - sorrydb.utils.git_ops - INFO - Found 3 branches with commit dates in https://github.com/acmepjz/md4lean
+2025-04-16 22:29:46,147 - sorrydb.database.build_database - INFO - Filtered 3 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:46,147 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmp0wuuhqnj
+2025-04-16 22:29:46,148 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/adamtopaz/NodeGraph
+2025-04-16 22:29:46,322 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/adamtopaz/NodeGraph, processing...
+2025-04-16 22:29:46,322 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/adamtopaz/NodeGraph
+2025-04-16 22:29:46,765 - sorrydb.utils.git_ops - INFO - Found 2 branches with commit dates in https://github.com/adamtopaz/NodeGraph
+2025-04-16 22:29:46,768 - sorrydb.database.build_database - INFO - Filtered 2 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:46,768 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmpud6nvaqs
+2025-04-16 22:29:46,768 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/adamtopaz/lean_extras
+2025-04-16 22:29:46,945 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/adamtopaz/lean_extras, processing...
+2025-04-16 22:29:46,945 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/adamtopaz/lean_extras
+2025-04-16 22:29:47,258 - sorrydb.utils.git_ops - INFO - Found 1 branches with commit dates in https://github.com/adamtopaz/lean_extras
+2025-04-16 22:29:47,265 - sorrydb.database.build_database - INFO - Filtered 1 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:47,265 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmpr32_g9cz
+2025-04-16 22:29:47,266 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/adomani/advents
+2025-04-16 22:29:47,480 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/adomani/advents, processing...
+2025-04-16 22:29:47,480 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/adomani/advents
+2025-04-16 22:29:48,114 - sorrydb.utils.git_ops - INFO - Found 71 branches with commit dates in https://github.com/adomani/advents
+2025-04-16 22:29:48,119 - sorrydb.database.build_database - INFO - Filtered 71 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:48,119 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmp4935fejs
+2025-04-16 22:29:48,119 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/AdrienChampion/safeIdx
+2025-04-16 22:29:48,278 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/AdrienChampion/safeIdx, processing...
+2025-04-16 22:29:48,278 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/AdrienChampion/safeIdx
+2025-04-16 22:29:48,581 - sorrydb.utils.git_ops - INFO - Found 8 branches with commit dates in https://github.com/AdrienChampion/safeIdx
+2025-04-16 22:29:48,582 - sorrydb.database.build_database - INFO - Filtered 8 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:48,583 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmpagezrd6d
+2025-04-16 22:29:48,583 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/ah1112/synthetic_euclid_4
+2025-04-16 22:29:48,746 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/ah1112/synthetic_euclid_4, processing...
+2025-04-16 22:29:48,746 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/ah1112/synthetic_euclid_4
+2025-04-16 22:29:49,045 - sorrydb.utils.git_ops - INFO - Found 1 branches with commit dates in https://github.com/ah1112/synthetic_euclid_4
+2025-04-16 22:29:49,051 - sorrydb.database.build_database - INFO - Filtered 1 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:49,052 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmpe_5372gt
+2025-04-16 22:29:49,052 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/alexf91/lean4-ctypes
+2025-04-16 22:29:49,274 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/alexf91/lean4-ctypes, processing...
+2025-04-16 22:29:49,274 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/alexf91/lean4-ctypes
+2025-04-16 22:29:49,600 - sorrydb.utils.git_ops - INFO - Found 1 branches with commit dates in https://github.com/alexf91/lean4-ctypes
+2025-04-16 22:29:49,603 - sorrydb.database.build_database - INFO - Filtered 1 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:49,603 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmp7ymyo5v5
+2025-04-16 22:29:49,603 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/alexjbest/leaff
+2025-04-16 22:29:49,779 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/alexjbest/leaff, processing...
+2025-04-16 22:29:49,780 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/alexjbest/leaff
+2025-04-16 22:29:50,107 - sorrydb.utils.git_ops - INFO - Found 2 branches with commit dates in https://github.com/alexjbest/leaff
+2025-04-16 22:29:50,116 - sorrydb.database.build_database - INFO - Filtered 2 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:50,116 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmpix9hy_h_
+2025-04-16 22:29:50,117 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/alexkeizer/QpfTypes
+2025-04-16 22:29:50,326 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/alexkeizer/QpfTypes, processing...
+2025-04-16 22:29:50,327 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/alexkeizer/QpfTypes
+2025-04-16 22:29:50,717 - sorrydb.utils.git_ops - INFO - Found 45 branches with commit dates in https://github.com/alexkeizer/QpfTypes
+2025-04-16 22:29:50,722 - sorrydb.database.build_database - INFO - Filtered 45 commits to 0 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:50,722 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmpj85gvfz4
+2025-04-16 22:29:50,722 - sorrydb.database.build_database - INFO - Checking repository for new commits: https://github.com/AlexKontorovich/PrimeNumberTheoremAnd
+2025-04-16 22:29:50,900 - sorrydb.database.build_database - INFO - New commits detected for https://github.com/AlexKontorovich/PrimeNumberTheoremAnd, processing...
+2025-04-16 22:29:50,900 - sorrydb.utils.git_ops - INFO - Getting leaf commits for https://github.com/AlexKontorovich/PrimeNumberTheoremAnd
+2025-04-16 22:29:51,314 - sorrydb.utils.git_ops - INFO - Found 12 branches with commit dates in https://github.com/AlexKontorovich/PrimeNumberTheoremAnd
+2025-04-16 22:29:51,318 - sorrydb.database.build_database - INFO - Including new commit 4250adfc9aab5e09d276549d7a645627cb2dce39 on branch AK_work from 2025-04-15T20:50:05+00:00
+2025-04-16 22:29:51,318 - sorrydb.database.build_database - INFO - Filtered 12 commits to 1 new commits after 2025-04-15T00:00:00+00:00
+2025-04-16 22:29:51,318 - sorrydb.database.build_database - INFO - Using temporary directory for lean data: /tmp/tmp18rcidqg
+2025-04-16 22:29:51,318 - sorrydb.database.process_sorries - INFO - Processing repository: https://github.com/AlexKontorovich/PrimeNumberTheoremAnd
+2025-04-16 22:29:51,318 - sorrydb.database.process_sorries - INFO - Using branch: AK_work
+2025-04-16 22:29:51,640 - sorrydb.utils.git_ops - INFO - Cloning https://github.com/AlexKontorovich/PrimeNumberTheoremAnd branch AK_work...
+2025-04-16 22:29:53,295 - sorrydb.utils.git_ops - INFO - Checking out 4250adfc9aab5e09d276549d7a645627cb2dce39...
+2025-04-16 22:29:53,302 - sorrydb.database.process_sorries - INFO - Extracted lean version v4.18.0 from /tmp/tmp18rcidqg/PrimeNumberTheoremAnd/lean-toolchain
+2025-04-16 22:29:53,308 - sorrydb.database.process_sorries - INFO - Found 9 files containing potential sorries
+2025-04-16 22:29:53,308 - sorrydb.utils.repl_ops - INFO - Cloning REPL repository into /tmp/tmp18rcidqg/repl_v4_18_0...
+2025-04-16 22:29:53,639 - sorrydb.utils.repl_ops - INFO - Checking out REPL at tag: v4.18.0
+2025-04-16 22:29:53,647 - sorrydb.utils.repl_ops - INFO - Building REPL...
+2025-04-16 22:30:05,366 - sorrydb.utils.repl_ops - INFO - REPL binary ready at /tmp/tmp18rcidqg/repl_v4_18_0/.lake/build/bin/repl
+2025-04-16 22:30:05,366 - sorrydb.utils.lean_repo - INFO - Project uses mathlib4, will get build cache
+2025-04-16 22:30:05,366 - sorrydb.utils.lean_repo - INFO - Getting build cache...
+2025-04-16 22:31:51,329 - sorrydb.utils.lean_repo - INFO - Building project...
