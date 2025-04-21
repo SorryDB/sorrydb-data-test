@@ -1,8 +1,11 @@
 {
-  "documentation": "List of active repositories pulled from reservoir. Generated on 2025-04-15T06:19:34.543390. Includes repositories which have been updated since 2025-01-01 and have at least 1 GitHub stars.",
+  "documentation": "List of active repositories pulled from reservoir. Generated on 2025-04-21T06:56:15.185654. Includes repositories which have been updated since 2025-01-01 00:00:00+00:00 and have at least 0 GitHub stars.",
   "repos": [
     {
       "remote": "https://github.com/0art0/lean-slides"
+    },
+    {
+      "remote": "https://github.com/0art0/kimina"
     },
     {
       "remote": "https://github.com/abdoo8080/lean-cvc5"
@@ -41,13 +44,28 @@
       "remote": "https://github.com/alok/lean-inf"
     },
     {
+      "remote": "https://github.com/alok/AsciiPlot"
+    },
+    {
+      "remote": "https://github.com/ammkrn/timelib"
+    },
+    {
+      "remote": "https://github.com/ammkrn/printiest"
+    },
+    {
       "remote": "https://github.com/andrejbauer/partial-combinatory-algebras"
+    },
+    {
+      "remote": "https://github.com/anlucia/ChromaticPolynomial"
     },
     {
       "remote": "https://github.com/anoma/juvix-lean"
     },
     {
       "remote": "https://github.com/apnelson1/Matroid"
+    },
+    {
+      "remote": "https://github.com/arademaker/delphin"
     },
     {
       "remote": "https://github.com/argumentcomputer/yatima"
@@ -71,7 +89,19 @@
       "remote": "https://github.com/arthurpaulino/NumLean"
     },
     {
+      "remote": "https://github.com/ATOMSLab/LeanLJ"
+    },
+    {
+      "remote": "https://github.com/atrieu/lean-cryptolib"
+    },
+    {
+      "remote": "https://github.com/austinletson/use-lean-standard-action-with-bare-project"
+    },
+    {
       "remote": "https://github.com/avigad/LeanSudoku"
+    },
+    {
+      "remote": "https://github.com/awodey/joyal"
     },
     {
       "remote": "https://github.com/axiomed/http"
@@ -179,6 +209,12 @@
       "remote": "https://github.com/fpvandoorn/carleson"
     },
     {
+      "remote": "https://github.com/fpvandoorn/BonnAnalysis"
+    },
+    {
+      "remote": "https://github.com/FR-vdash-bot/Algorithm"
+    },
+    {
       "remote": "https://github.com/frenzymath/jixia"
     },
     {
@@ -218,13 +254,16 @@
       "remote": "https://github.com/HannahSantos/FMCn_Lean"
     },
     {
+      "remote": "https://github.com/haruhisa-enomoto/mathlib4-all-tactics"
+    },
+    {
       "remote": "https://github.com/HEPLean/PhysLean"
     },
     {
       "remote": "https://github.com/hhu-adam/lean-i18n"
     },
     {
-      "remote": "https://github.com/hhu-adam/GameSkeleton"
+      "remote": "https://github.com/hhu-adam/Robo"
     },
     {
       "remote": "https://github.com/igrep/lean-workshop"
@@ -275,6 +314,9 @@
       "remote": "https://github.com/jeswr/RDF.lean"
     },
     {
+      "remote": "https://github.com/joehendrix/lean-crypto"
+    },
+    {
       "remote": "https://github.com/jsm28/AperiodicMonotilesLean"
     },
     {
@@ -303,6 +345,9 @@
     },
     {
       "remote": "https://github.com/kmill/lean4-raytracer"
+    },
+    {
+      "remote": "https://github.com/kmill/LeanTeX-mathlib"
     },
     {
       "remote": "https://github.com/kmill/LeanTeX"
@@ -351,6 +396,9 @@
     },
     {
       "remote": "https://github.com/leanprover-community/mathlib4"
+    },
+    {
+      "remote": "https://github.com/leanprover-community/llm"
     },
     {
       "remote": "https://github.com/leanprover-community/LeanSearchClient"
@@ -407,6 +455,9 @@
       "remote": "https://github.com/leanprover/LNSym"
     },
     {
+      "remote": "https://github.com/leanprover/leansat"
+    },
+    {
       "remote": "https://github.com/leanprover/lean4export"
     },
     {
@@ -434,6 +485,9 @@
       "remote": "https://github.com/lf-lang/reactor-model"
     },
     {
+      "remote": "https://github.com/lindy-labs/corelib_verification"
+    },
+    {
       "remote": "https://github.com/lindy-labs/aegis"
     },
     {
@@ -441,6 +495,9 @@
     },
     {
       "remote": "https://github.com/m4lvin/lean4-pdl"
+    },
+    {
+      "remote": "https://github.com/madvorak/vcsp"
     },
     {
       "remote": "https://github.com/madvorak/read-lean"
@@ -497,10 +554,19 @@
       "remote": "https://github.com/nomeata/lean-calcify"
     },
     {
+      "remote": "https://github.com/NUS-Math-Formalization/CalculusSkeleton"
+    },
+    {
       "remote": "https://github.com/objectionary/proof"
     },
     {
+      "remote": "https://github.com/opencompl/lean-mlir"
+    },
+    {
       "remote": "https://github.com/optsuite/optlib"
+    },
+    {
+      "remote": "https://github.com/or4nge19/NeuralNetworks"
     },
     {
       "remote": "https://github.com/pandaman64/lean-regex"
@@ -542,10 +608,13 @@
       "remote": "https://github.com/quangvdao/ZKLib-deprecated"
     },
     {
+      "remote": "https://github.com/rahul3613/ProofNet-lean4"
+    },
+    {
       "remote": "https://github.com/rahul3613/miniF2F-lean4"
     },
     {
-      "remote": "https://github.com/rami3l/plfl"
+      "remote": "https://github.com/rami3l/PLFaLean"
     },
     {
       "remote": "https://github.com/reilabs/proven-zk"
@@ -561,6 +630,15 @@
     },
     {
       "remote": "https://github.com/riccardobrasca/demontrer2025"
+    },
+    {
+      "remote": "https://github.com/riccardobrasca/LFTCM2024"
+    },
+    {
+      "remote": "https://github.com/riccardobrasca/flt3"
+    },
+    {
+      "remote": "https://github.com/riccardobrasca/kaplanski4"
     },
     {
       "remote": "https://github.com/risc0/risc0-lean4"
@@ -590,6 +668,9 @@
       "remote": "https://github.com/siddhartha-gadgil/Polylean"
     },
     {
+      "remote": "https://github.com/siddhartha-gadgil/proofs-and-programs-2023"
+    },
+    {
       "remote": "https://github.com/siddhartha-gadgil/MetaExamples"
     },
     {
@@ -600,6 +681,9 @@
     },
     {
       "remote": "https://github.com/siddhartha-gadgil/LeanAide"
+    },
+    {
+      "remote": "https://github.com/siddhartha-gadgil/lean-loris"
     },
     {
       "remote": "https://github.com/sinhp/LeanFibredCategories"
