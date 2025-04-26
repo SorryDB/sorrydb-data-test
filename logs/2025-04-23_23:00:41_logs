@@ -1,0 +1,37 @@
+2025-04-24 03:00:42,649 - sorrydb.database.sorry_database - INFO - Loading sorry database from /data/sorry_database.json
+2025-04-24 03:00:42,656 - sorrydb.cli.update_db - ERROR - Error updating database: Location.__init__() got an unexpected keyword argument 'path'
+2025-04-24 03:00:42,656 - sorrydb.cli.update_db - ERROR - Location.__init__() got an unexpected keyword argument 'path'
+Traceback (most recent call last):
+  File "/app/sorrydb/cli/update_db.py", line 62, in main
+    update_database(
+    ~~~~~~~~~~~~~~~^
+        database_path=database_path, lean_data=lean_data, stats_file=args.stats_file
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/app/sorrydb/database/build_database.py", line 280, in update_database
+    database.load_database(database_path)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/app/sorrydb/database/sorry_database.py", line 75, in load_database
+    database_dict = json.load(f, object_hook=sorry_object_hook)
+  File "/usr/local/lib/python3.13/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+        cls=cls, object_hook=object_hook,
+        parse_float=parse_float, parse_int=parse_int,
+        parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/local/lib/python3.13/json/__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+           ~~~~~~~~~~~~~~~~^^^
+  File "/usr/local/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/json/decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+  File "/app/sorrydb/database/sorry.py", line 106, in sorry_object_hook
+    return Sorry.from_dict(d)
+           ~~~~~~~~~~~~~~~^^^
+  File "/app/sorrydb/database/sorry.py", line 65, in from_dict
+    location=Location(**data["location"]),
+             ~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+TypeError: Location.__init__() got an unexpected keyword argument 'path'
