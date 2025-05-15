@@ -7,8 +7,8 @@
     },
     {
       "remote_url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
-      "last_time_visited": "2025-05-12T21:07:04.408001+00:00",
-      "remote_heads_hash": "5d0adea92e96"
+      "last_time_visited": "2025-05-15T21:05:02.586134+00:00",
+      "remote_heads_hash": "2f7e17ba92d7"
     },
     {
       "remote_url": "https://github.com/argumentcomputer/yatima",
@@ -32,13 +32,13 @@
     },
     {
       "remote_url": "https://github.com/dwrensha/compfiles",
-      "last_time_visited": "2025-05-14T21:05:03.262509+00:00",
-      "remote_heads_hash": "3a1b066d145a"
+      "last_time_visited": "2025-05-15T21:17:54.301939+00:00",
+      "remote_heads_hash": "a7c812644485"
     },
     {
       "remote_url": "https://github.com/emilyriehl/infinity-cosmos",
-      "last_time_visited": "2025-05-12T21:07:08.979225+00:00",
-      "remote_heads_hash": "1c3b47568964"
+      "last_time_visited": "2025-05-15T21:17:56.148042+00:00",
+      "remote_heads_hash": "a464495caa17"
     },
     {
       "remote_url": "https://github.com/eric-wieser/lean-matrix-cookbook",
@@ -57,13 +57,13 @@
     },
     {
       "remote_url": "https://github.com/FormalizedFormalLogic/Foundation",
-      "last_time_visited": "2025-05-13T21:05:12.447528+00:00",
-      "remote_heads_hash": "6a98142f303c"
+      "last_time_visited": "2025-05-15T21:17:59.053100+00:00",
+      "remote_heads_hash": "cfd08bfc1208"
     },
     {
       "remote_url": "https://github.com/fpvandoorn/carleson",
-      "last_time_visited": "2025-05-13T21:05:15.186139+00:00",
-      "remote_heads_hash": "88011510dae6"
+      "last_time_visited": "2025-05-15T21:37:19.604375+00:00",
+      "remote_heads_hash": "ce49e3d48f94"
     },
     {
       "remote_url": "https://github.com/frenzymath/jixia",
@@ -77,8 +77,8 @@
     },
     {
       "remote_url": "https://github.com/HEPLean/PhysLean",
-      "last_time_visited": "2025-05-14T21:05:06.995851+00:00",
-      "remote_heads_hash": "6cc8847a362f"
+      "last_time_visited": "2025-05-15T21:37:23.509808+00:00",
+      "remote_heads_hash": "f1e22e209b4a"
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/formalising-mathematics-2024",
@@ -87,8 +87,8 @@
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/FLT",
-      "last_time_visited": "2025-05-14T21:05:09.626935+00:00",
-      "remote_heads_hash": "a7d82936c0ad"
+      "last_time_visited": "2025-05-15T21:37:25.792428+00:00",
+      "remote_heads_hash": "146b6099ac33"
     },
     {
       "remote_url": "https://github.com/JamesGallicchio/LeanColls",
@@ -152,8 +152,8 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/iris-lean",
-      "last_time_visited": "2025-05-12T22:03:42.909087+00:00",
-      "remote_heads_hash": "f0915da837e0"
+      "last_time_visited": "2025-05-15T21:37:32.026163+00:00",
+      "remote_heads_hash": "58b47f8ce146"
     },
     {
       "remote_url": "https://github.com/leanprover-community/NNG4",
@@ -162,13 +162,13 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/flt-regular",
-      "last_time_visited": "2025-05-14T21:05:22.480298+00:00",
-      "remote_heads_hash": "0bd3ac65d044"
+      "last_time_visited": "2025-05-15T21:38:31.394912+00:00",
+      "remote_heads_hash": "04da5dc020c0"
     },
     {
       "remote_url": "https://github.com/leanprover-community/duper",
-      "last_time_visited": "2025-05-14T21:05:23.833265+00:00",
-      "remote_heads_hash": "104ceedf1dea"
+      "last_time_visited": "2025-05-15T21:38:32.770170+00:00",
+      "remote_heads_hash": "0c4a3ddacf4b"
     },
     {
       "remote_url": "https://github.com/leanprover-community/con-nf",
@@ -177,28 +177,28 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/batteries",
-      "last_time_visited": "2025-05-14T21:17:16.796865+00:00",
-      "remote_heads_hash": "0a0c92b215f4"
+      "last_time_visited": "2025-05-15T21:38:34.827657+00:00",
+      "remote_heads_hash": "5be31c1163d5"
     },
     {
       "remote_url": "https://github.com/leanprover-community/lean-auto",
-      "last_time_visited": "2025-05-14T21:17:28.500258+00:00",
-      "remote_heads_hash": "f53122cbc4f1"
+      "last_time_visited": "2025-05-15T21:38:46.475412+00:00",
+      "remote_heads_hash": "f65c3b281893"
     },
     {
       "remote_url": "https://github.com/leanprover-community/aesop",
-      "last_time_visited": "2025-05-13T21:24:13.089253+00:00",
-      "remote_heads_hash": "9d2ffa7da1a6"
+      "last_time_visited": "2025-05-15T21:38:48.450925+00:00",
+      "remote_heads_hash": "499f1f50c838"
     },
     {
       "remote_url": "https://github.com/leanprover/verso",
-      "last_time_visited": "2025-05-14T21:23:30.061453+00:00",
-      "remote_heads_hash": "2ff1e5c9d083"
+      "last_time_visited": "2025-05-15T21:38:51.288715+00:00",
+      "remote_heads_hash": "385cf80aabd5"
     },
     {
       "remote_url": "https://github.com/leanprover/reference-manual",
-      "last_time_visited": "2025-05-14T21:23:31.914214+00:00",
-      "remote_heads_hash": "819a2545a724"
+      "last_time_visited": "2025-05-15T21:38:53.014055+00:00",
+      "remote_heads_hash": "a46bd919adb5"
     },
     {
       "remote_url": "https://github.com/leanprover/doc-gen4",
@@ -242,8 +242,8 @@
     },
     {
       "remote_url": "https://github.com/optsuite/optlib",
-      "last_time_visited": "2025-05-12T22:04:23.958194+00:00",
-      "remote_heads_hash": "bd52ad3a2cec"
+      "last_time_visited": "2025-05-15T21:39:04.701714+00:00",
+      "remote_heads_hash": "8cbe5e6c351d"
     },
     {
       "remote_url": "https://github.com/Paper-Proof/paperproof",
@@ -297,8 +297,8 @@
     },
     {
       "remote_url": "https://github.com/teorth/equational_theories",
-      "last_time_visited": "2025-05-14T21:23:50.088138+00:00",
-      "remote_heads_hash": "ef912cbd3f8e"
+      "last_time_visited": "2025-05-15T21:39:08.761255+00:00",
+      "remote_heads_hash": "85d3bf46687b"
     },
     {
       "remote_url": "https://github.com/Timeroot/ComputableReal",
@@ -312,8 +312,8 @@
     },
     {
       "remote_url": "https://github.com/ufmg-smite/lean-smt",
-      "last_time_visited": "2025-05-14T21:24:03.362689+00:00",
-      "remote_heads_hash": "51d66bb093a8"
+      "last_time_visited": "2025-05-15T21:39:21.865699+00:00",
+      "remote_heads_hash": "cf0101a25df7"
     },
     {
       "remote_url": "https://github.com/verified-optimization/CvxLean",
@@ -322,8 +322,8 @@
     },
     {
       "remote_url": "https://github.com/Verified-zkEVM/ZKLib",
-      "last_time_visited": "2025-05-13T21:24:47.979194+00:00",
-      "remote_heads_hash": "dd8e9017d37e"
+      "last_time_visited": "2025-05-15T21:42:17.070635+00:00",
+      "remote_heads_hash": "ac909402f52d"
     },
     {
       "remote_url": "https://github.com/verse-lab/lean-ssr",
@@ -3521,6 +3521,3406 @@
         "inclusion_date": "2025-05-14T21:24:03.854153+00:00"
       },
       "id": "87d23c6a2b8b43f8679417d036cb2f214ebc5e4e2523bb4dd51d0ce61601d6e8"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/Wiener.lean",
+        "start_line": 2281,
+        "start_column": 61,
+        "end_line": 2281,
+        "end_column": 66
+      },
+      "debug_info": {
+        "goal": "A x : ℝ\nG : ℂ → ℂ\nf : ℕ → ℝ\nhpos : 0 ≤ f\nhG : ContinuousOn G {s | 1 ≤ s.re}\nhG' : EqOn G (fun s => LSeries (fun n => ↑(f n)) s - ↑A / (s - 1)) {s | 1 < s.re}\nhf : ∀ (σ' : ℝ), 1 < σ' → Summable (nterm (fun n => ↑(f n)) σ')\nψ : CS 2 ℂ\nhψpos : ∀ (y : ℝ), 0 ≤ (fourierIntegral ψ.toFun y).re ∧ (fourierIntegral ψ.toFun y).im = 0\nhx : 1 ≤ x\n⊢ ∑' (n : ℕ), ↑(f n) / ↑n * fourierIntegral ψ.toFun (1 / (2 * Real.pi) * Real.log (↑n / x)) -\n      ↑A * ∫ (u : ℝ) in Ici (-Real.log x), fourierIntegral ψ.toFun (u / (2 * Real.pi)) =\n    ∫ (t : ℝ), G (1 + ↑t * I) * ψ.toFun t * ↑x ^ (↑t * I)",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/Wiener.lean#L2281"
+      },
+      "metadata": {
+        "blame_email_hash": "d7f0e4a42bbb",
+        "blame_date": "2024-04-04T12:17:01-07:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "aa9786e41982bd041e5eb95c9985be0060a17bcf17c461255d6d1460a106d8bb"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/Wiener.lean",
+        "start_line": 2303,
+        "start_column": 90,
+        "end_line": 2303,
+        "end_column": 95
+      },
+      "debug_info": {
+        "goal": "A : ℝ\nG : ℂ → ℂ\nf : ℕ → ℝ\nhpos : 0 ≤ f\nhG : ContinuousOn G {s | 1 ≤ s.re}\nhG' : EqOn G (fun s => LSeries (fun n => ↑(f n)) s - ↑A / (s - 1)) {s | 1 < s.re}\nhf : ∀ (σ' : ℝ), 1 < σ' → Summable (nterm (fun n => ↑(f n)) σ')\nψ : CS 2 ℂ\nhψpos : ∀ (y : ℝ), 0 ≤ (fourierIntegral ψ.toFun y).re ∧ (fourierIntegral ψ.toFun y).im = 0\n⊢ ∃ B,\n    ∀ (x : ℝ), 0 < x → ‖∑' (n : ℕ), ↑(f n) / ↑n * fourierIntegral ψ.toFun (1 / (2 * Real.pi) * Real.log (↑n / x))‖ ≤ B",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/Wiener.lean#L2303"
+      },
+      "metadata": {
+        "blame_email_hash": "4d01d7c10d46",
+        "blame_date": "2024-04-16T02:15:35+02:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "1ac82595f744a76fd670a9e7ef438f9a0cac19d425afa60bef87e30d74da4281"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest2.lean",
+        "start_line": 16,
+        "start_column": 2,
+        "end_line": 16,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\n⊢ ArithmeticFunction.vonMangoldt n ≤ Real.log ↑n",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest2.lean#L16"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-02T11:17:08-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "5d1fabd35d078a86be873c000286a6abf768b1ed8e0e1bac53e7a22477652dc8"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest2.lean",
+        "start_line": 42,
+        "start_column": 4,
+        "end_line": 42,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "F : ℝ → ℝ\nc₁ c₂ : ℝ\nc₁pos : 0 < c₁\nc₂pos : 0 < c₂\nc₂_lt_one : c₂ < 1\nFbddAbove : ∀ (x : ℝ), F x ≤ 1\nFnonneg : ∀ (x : ℝ), F x ≥ 0\nFzeroAfter : ∀ X > 1, ∀ (n : ℕ), ↑n ≥ (1 + c₁) * X → F (↑n / X) = 0\nFone : ∀ X > 1, ∀ (n : ℕ), 0 < n → ↑n ≤ (1 - c₂) * X → F (↑n / X) = 1\nX Y : ℝ\n⊢ ∑' (n : ℕ), ArithmeticFunction.vonMangoldt n * F (↑n / X) =\n    ∑ n ∈ (Icc 0 ⌊Y⌋₊).toFinset, ArithmeticFunction.vonMangoldt n * F (↑n / X) +\n      ∑' (n : ℕ),\n        let n' := n + ⌊Y⌋₊ + 1;\n        ArithmeticFunction.vonMangoldt n' * F (↑n' / X)",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest2.lean#L42"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-02T11:17:08-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "2136795c4f124c4f1569a235a3e18d1aed68d136ac9fcd00e2763223be3cd9a9"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest2.lean",
+        "start_line": 44,
+        "start_column": 2,
+        "end_line": 44,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "F : ℝ → ℝ\nc₁ c₂ : ℝ\nc₁pos : 0 < c₁\nc₂pos : 0 < c₂\nc₂_lt_one : c₂ < 1\nFbddAbove : ∀ (x : ℝ), F x ≤ 1\nFnonneg : ∀ (x : ℝ), F x ≥ 0\nFzeroAfter : ∀ X > 1, ∀ (n : ℕ), ↑n ≥ (1 + c₁) * X → F (↑n / X) = 0\nFone : ∀ X > 1, ∀ (n : ℕ), 0 < n → ↑n ≤ (1 - c₂) * X → F (↑n / X) = 1\nthis :\n  ∀ (X Y : ℝ),\n    ∑' (n : ℕ), ArithmeticFunction.vonMangoldt n * F (↑n / X) =\n      ∑ n ∈ (Icc 0 ⌊Y⌋₊).toFinset, ArithmeticFunction.vonMangoldt n * F (↑n / X) +\n        ∑' (n : ℕ),\n          let n' := n + ⌊Y⌋₊ + 1;\n          ArithmeticFunction.vonMangoldt n' * F (↑n' / X)\n⊢ ∀ᶠ (X : ℝ) in Filter.atTop,\n    ‖∑' (n : ℕ), ArithmeticFunction.vonMangoldt n * F (↑n / X) -\n          (Finset.Icc 0 ⌊X⌋₊).sum ⇑ArithmeticFunction.vonMangoldt‖ ≤\n      (c₁ + c₂) * X * Real.log ((1 + c₂) * X)",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest2.lean#L44"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-02T11:17:08-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "171a7291fe89bd3d5b3f707d32b65873c9b28b302b2e5fd22646c6bf4459fec0"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 33,
+        "start_column": 4,
+        "end_line": 33,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC : ℝ := c₁ + c₂ + 3\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nn : ℕ\n⊢ ArithmeticFunction.vonMangoldt n ≤ Real.log ↑n",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L33"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "61468eff8f4b3cece5acfa98ee0d843a7bab84d7c3dd88a1f436f57760c0c80f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 35,
+        "start_column": 4,
+        "end_line": 35,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC : ℝ := c₁ + c₂ + 3\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nvonManBnd : ∀ (n : ℕ), ArithmeticFunction.vonMangoldt n ≤ Real.log ↑n\nn : ℕ\n⊢ Smooth1 SmoothingF ε (↑n / X) ≤ 1",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L35"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "20a88a2290f650ce1e00833b608aab2fa8b178c78217cb2e14b13060e8c02067"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 37,
+        "start_column": 4,
+        "end_line": 37,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC : ℝ := c₁ + c₂ + 3\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nvonManBnd : ∀ (n : ℕ), ArithmeticFunction.vonMangoldt n ≤ Real.log ↑n\nsmooth1BddAbove : ∀ (n : ℕ), Smooth1 SmoothingF ε (↑n / X) ≤ 1\nn : ℕ\n⊢ Smooth1 SmoothingF ε (↑n / X) ≥ 0",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "618d6119e547df62960ccc97b94d017d2b6a73862f0cf56dcc923a7637d734c5"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 44,
+        "start_column": 2,
+        "end_line": 44,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "case intro.intro.intro.intro\nSmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC : ℝ := c₁ + c₂ + 3\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nvonManBnd : ∀ (n : ℕ), ArithmeticFunction.vonMangoldt n ≤ Real.log ↑n\nsmooth1BddAbove : ∀ (n : ℕ), Smooth1 SmoothingF ε (↑n / X) ≤ 1\nsmooth1BddBelow : ∀ (n : ℕ), Smooth1 SmoothingF ε (↑n / X) ≥ 0\nsmoothIs1 : ∀ (n : ℕ), ↑n ≤ X * (1 - c₁ * ε) → Smooth1 SmoothingF ε (↑n / X) = 1\nsmoothIs0 : ∀ (n : ℕ), X * (1 + c₂ * ε) ≤ ↑n → 1 + c₂ * ε ≤ ↑n / X → Smooth1 SmoothingF ε (↑n / X) = 0\n⊢ ‖∑' (n : ℕ), ArithmeticFunction.vonMangoldt n * Smooth1 SmoothingF ε (↑n / X) -\n        (Finset.range ⌊X⌋₊).sum ⇑ArithmeticFunction.vonMangoldt‖ ≤\n    C * ε * X * Real.log X",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L44"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "3fc7a152c5908133484f94b64ce58f4f2fb4c29fd393bc73d415417185f0e660"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 19,
+        "start_column": 79,
+        "end_line": 19,
+        "end_column": 84
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\n⊢ ∃ c, 0 < c ∧ ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c * ε → Smooth1 SmoothingF ε x = 1",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L19"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "b363b987ceccf38ca60878a229e160f787bdb1fa4215d478703850cbc3e22b63"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 23,
+        "start_column": 77,
+        "end_line": 23,
+        "end_column": 82
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\n⊢ ∃ c, 0 < c ∧ ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c * ε ≤ x → Smooth1 SmoothingF ε x = 0",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L23"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "81a5931186b7089ecc923f2bcce571ac124b4c3d375738b37019d4e3ec254ca5"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 27,
+        "start_column": 23,
+        "end_line": 27,
+        "end_column": 28
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC : ℝ := c₁ + c₂ + 3\n⊢ 3 < C",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L27"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "749fcac967a87863022ac7518945a1d6ee983b5589975a8dc2c5f5e5436e8a51"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest.lean",
+        "start_line": 39,
+        "start_column": 41,
+        "end_line": 39,
+        "end_column": 46
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC : ℝ := c₁ + c₂ + 3\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nvonManBnd : ∀ (n : ℕ), ArithmeticFunction.vonMangoldt n ≤ Real.log ↑n\nsmooth1BddAbove : ∀ (n : ℕ), Smooth1 SmoothingF ε (↑n / X) ≤ 1\nsmooth1BddBelow : ∀ (n : ℕ), Smooth1 SmoothingF ε (↑n / X) ≥ 0\nn : ℕ\nn_le : ↑n ≤ X * (1 - c₁ * ε)\n⊢ Smooth1 SmoothingF ε (↑n / X) = 1",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest.lean#L39"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-04-30T17:09:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "0a0be4d96cb334fe6525368247db72f13928050638ba279728a83f5cc3c16bfb"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest3.lean",
+        "start_line": 158,
+        "start_column": 4,
+        "end_line": 158,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "Smooth1 : (ℝ → ℝ) → ℝ → ℝ → ℝ\nSmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nc₁_lt : c₁ < 1\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nc₂_lt : c₂ < 1\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC_gt' : 3 < c₁ + c₂ + 3\nC : ℝ\nC_eq : C = 2 * (c₁ + c₂ + 3)\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nthis_1 : 0 < X\nX_ne_zero : X ≠ 0\nn_on_X_pos : ∀ {n : ℕ}, 0 < n → 0 < ↑n / X\nsmooth1BddAbove : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≤ 1\nsmooth1BddBelow : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≥ 0\nsmoothIs1 : ∀ (n : ℕ), 0 < n → ↑n ≤ X * (1 - c₁ * ε) → Smooth1 SmoothingF ε (↑n / X) = 1\nsmoothIs0 : ∀ (n : ℕ), 1 + c₂ * ε ≤ ↑n / X → Smooth1 SmoothingF ε (↑n / X) = 0\nF : ℝ → ℝ := Smooth1 SmoothingF ε\nn₀ : ℕ := ⌊X * (1 - c₁ * ε)⌋₊\nn₀_le : ↑n₀ ≤ X * (1 - c₁ * ε)\nn₀_gt : X * (1 - c₁ * ε) - 1 ≤ ↑n₀\nsumΛ : Summable fun n => vonMangoldt n * F (↑n / X)\nsumΛn₀ : ∀ (n₀ : ℕ), Summable fun n => vonMangoldt (n + n₀) * F ((↑n + ↑n₀) / X)\nn₁ : ℕ := ⌈X * (1 + c₂ * ε)⌉₊\nn₁_ge : X * (1 + c₂ * ε) ≤ ↑n₁\nn₁_le : ↑n₁ < X * (1 + c₂ * ε) + 1\nn₁_ge_n₀ : n₀ ≤ n₁\nn₁_sub_n₀ : ↑n₁ - ↑n₀ < X * ε * (c₂ + c₁) + 2\n⊢ ∀ n ∈ Finset.range (n₁ - n₀), ‖vonMangoldt (n + n₀)‖ ≤ Real.log (X * (1 + c₂ * ε))",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest3.lean#L158"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-07T10:17:07-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "28b9e9557cf304c216e35cdca7dc393a453657ed176aed54275e198b8231be8c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest3.lean",
+        "start_line": 164,
+        "start_column": 4,
+        "end_line": 164,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "Smooth1 : (ℝ → ℝ) → ℝ → ℝ → ℝ\nSmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nc₁_lt : c₁ < 1\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nc₂_lt : c₂ < 1\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC_gt' : 3 < c₁ + c₂ + 3\nC : ℝ\nC_eq : C = 2 * (c₁ + c₂ + 3)\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nthis_1 : 0 < X\nX_ne_zero : X ≠ 0\nn_on_X_pos : ∀ {n : ℕ}, 0 < n → 0 < ↑n / X\nsmooth1BddAbove : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≤ 1\nsmooth1BddBelow : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≥ 0\nsmoothIs1 : ∀ (n : ℕ), 0 < n → ↑n ≤ X * (1 - c₁ * ε) → Smooth1 SmoothingF ε (↑n / X) = 1\nsmoothIs0 : ∀ (n : ℕ), 1 + c₂ * ε ≤ ↑n / X → Smooth1 SmoothingF ε (↑n / X) = 0\nF : ℝ → ℝ := Smooth1 SmoothingF ε\nn₀ : ℕ := ⌊X * (1 - c₁ * ε)⌋₊\nn₀_le : ↑n₀ ≤ X * (1 - c₁ * ε)\nn₀_gt : X * (1 - c₁ * ε) - 1 ≤ ↑n₀\nsumΛ : Summable fun n => vonMangoldt n * F (↑n / X)\nsumΛn₀ : ∀ (n₀ : ℕ), Summable fun n => vonMangoldt (n + n₀) * F ((↑n + ↑n₀) / X)\nn₁ : ℕ := ⌈X * (1 + c₂ * ε)⌉₊\nn₁_ge : X * (1 + c₂ * ε) ≤ ↑n₁\nn₁_le : ↑n₁ < X * (1 + c₂ * ε) + 1\nn₁_ge_n₀ : n₀ ≤ n₁\nn₁_sub_n₀ : ↑n₁ - ↑n₀ < X * ε * (c₂ + c₁) + 2\nvonBnd1 : ∀ n ∈ Finset.range (n₁ - n₀), ‖vonMangoldt (n + n₀)‖ ≤ Real.log (X * (1 + c₂ * ε))\n⊢ ∑ n ∈ Finset.range (n₁ - n₀), ‖vonMangoldt (n + n₀)‖ * ‖F ((↑n + ↑n₀) / X)‖ ≤\n    (↑n₁ - ↑n₀) * Real.log (X * (1 + c₂ * ε))",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest3.lean#L164"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-02T22:39:39-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "608ef92d6a9da135d829860c0d94356f843b8b5adffc6b3e9518898b01d5494b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest3.lean",
+        "start_line": 170,
+        "start_column": 4,
+        "end_line": 170,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "Smooth1 : (ℝ → ℝ) → ℝ → ℝ → ℝ\nSmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nc₁_lt : c₁ < 1\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nc₂_lt : c₂ < 1\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC_gt' : 3 < c₁ + c₂ + 3\nC : ℝ\nC_eq : C = 2 * (c₁ + c₂ + 3)\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nthis_1 : 0 < X\nX_ne_zero : X ≠ 0\nn_on_X_pos : ∀ {n : ℕ}, 0 < n → 0 < ↑n / X\nsmooth1BddAbove : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≤ 1\nsmooth1BddBelow : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≥ 0\nsmoothIs1 : ∀ (n : ℕ), 0 < n → ↑n ≤ X * (1 - c₁ * ε) → Smooth1 SmoothingF ε (↑n / X) = 1\nsmoothIs0 : ∀ (n : ℕ), 1 + c₂ * ε ≤ ↑n / X → Smooth1 SmoothingF ε (↑n / X) = 0\nF : ℝ → ℝ := Smooth1 SmoothingF ε\nn₀ : ℕ := ⌊X * (1 - c₁ * ε)⌋₊\nn₀_le : ↑n₀ ≤ X * (1 - c₁ * ε)\nn₀_gt : X * (1 - c₁ * ε) - 1 ≤ ↑n₀\nsumΛ : Summable fun n => vonMangoldt n * F (↑n / X)\nsumΛn₀ : ∀ (n₀ : ℕ), Summable fun n => vonMangoldt (n + n₀) * F ((↑n + ↑n₀) / X)\nn₁ : ℕ := ⌈X * (1 + c₂ * ε)⌉₊\nn₁_ge : X * (1 + c₂ * ε) ≤ ↑n₁\nn₁_le : ↑n₁ < X * (1 + c₂ * ε) + 1\nn₁_ge_n₀ : n₀ ≤ n₁\nn₁_sub_n₀ : ↑n₁ - ↑n₀ < X * ε * (c₂ + c₁) + 2\nvonBnd1 : ∀ n ∈ Finset.range (n₁ - n₀), ‖vonMangoldt (n + n₀)‖ ≤ Real.log (X * (1 + c₂ * ε))\nbnd1 :\n  ∑ n ∈ Finset.range (n₁ - n₀), ‖vonMangoldt (n + n₀)‖ * ‖F ((↑n + ↑n₀) / X)‖ ≤\n    (↑n₁ - ↑n₀) * Real.log (X * (1 + c₂ * ε))\n⊢ ∑ x ∈ Finset.range (⌊X + 1⌋₊ - n₀), ‖vonMangoldt (x + n₀)‖ ≤ (↑⌊X + 1⌋₊ - ↑n₀) * Real.log (X + 1)",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest3.lean#L170"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-02T22:39:39-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "64bac1b21aea07d37c1f874e49f16e3bc0984e378cb44fad05e9ca45885136f6"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/AlphaProofTest3.lean",
+        "start_line": 180,
+        "start_column": 2,
+        "end_line": 180,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "Smooth1 : (ℝ → ℝ) → ℝ → ℝ → ℝ\nSmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nc₁_lt : c₁ < 1\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nc₂_lt : c₂ < 1\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC_gt' : 3 < c₁ + c₂ + 3\nC : ℝ\nC_eq : C = 2 * (c₁ + c₂ + 3)\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nthis_1 : 0 < X\nX_ne_zero : X ≠ 0\nn_on_X_pos : ∀ {n : ℕ}, 0 < n → 0 < ↑n / X\nsmooth1BddAbove : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≤ 1\nsmooth1BddBelow : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≥ 0\nsmoothIs1 : ∀ (n : ℕ), 0 < n → ↑n ≤ X * (1 - c₁ * ε) → Smooth1 SmoothingF ε (↑n / X) = 1\nsmoothIs0 : ∀ (n : ℕ), 1 + c₂ * ε ≤ ↑n / X → Smooth1 SmoothingF ε (↑n / X) = 0\nF : ℝ → ℝ := Smooth1 SmoothingF ε\nn₀ : ℕ := ⌊X * (1 - c₁ * ε)⌋₊\nn₀_le : ↑n₀ ≤ X * (1 - c₁ * ε)\nn₀_gt : X * (1 - c₁ * ε) - 1 ≤ ↑n₀\nsumΛ : Summable fun n => vonMangoldt n * F (↑n / X)\nsumΛn₀ : ∀ (n₀ : ℕ), Summable fun n => vonMangoldt (n + n₀) * F ((↑n + ↑n₀) / X)\nn₁ : ℕ := ⌈X * (1 + c₂ * ε)⌉₊\nn₁_ge : X * (1 + c₂ * ε) ≤ ↑n₁\nn₁_le : ↑n₁ < X * (1 + c₂ * ε) + 1\nn₁_ge_n₀ : n₀ ≤ n₁\nn₁_sub_n₀ : ↑n₁ - ↑n₀ < X * ε * (c₂ + c₁) + 2\nvonBnd1 : ∀ n ∈ Finset.range (n₁ - n₀), ‖vonMangoldt (n + n₀)‖ ≤ Real.log (X * (1 + c₂ * ε))\n⊢ (↑n₁ - ↑n₀) * Real.log (X * (1 + c₂ * ε)) + (↑⌊X + 1⌋₊ - ↑n₀) * Real.log (X + 1) ≤ C * ε * X * Real.log X",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/AlphaProofTest3.lean#L180"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-02T22:39:39-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "ce94bc231208aa109bbdc0d515ab47ba1794b51af37e41b87cf30dfb0fab2b48"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/ZetaBounds.lean",
+        "start_line": 2617,
+        "start_column": 2,
+        "end_line": 2617,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "case h\nA : ℝ\nhA : A ∈ Ioc 0 (1 / 2)\nh✝ :\n  ∃ C,\n    ∃ (_ : 0 < C),\n      ∀ (σ t : ℝ),\n        3 < |t| →\n          σ ∈ Ico (1 - A / Real.log |t| ^ 9) 1 →\n            ‖deriv riemannZeta (↑σ + ↑t * I) / riemannZeta (↑σ + ↑t * I)‖ ≤ C * Real.log |t| ^ 9\nT : ℝ\nT_gt : 3 < T\n⊢ HolomorphicOn (fun s => deriv riemannZeta s / riemannZeta s) (Ioc (1 - A / Real.log T ^ 9) 2 ×ℂ Icc (-T) T \\ {1})",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/ZetaBounds.lean#L2617"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-03-07T16:45:37-05:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "2d6fdacb880cb5784783f04ee6a96909077056e09fe07d292dde774b5d15944b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+        "start_line": 369,
+        "start_column": 2,
+        "end_line": 369,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "Smooth1 : (ℝ → ℝ) → ℝ → ℝ → ℝ\nSmoothingF : ℝ → ℝ\nc₁ : ℝ\nc₁_pos : 0 < c₁\nhc₁ : ∀ (ε x : ℝ), 0 < ε → 0 < x → x ≤ 1 - c₁ * ε → Smooth1 SmoothingF ε x = 1\nc₂ : ℝ\nc₂_pos : 0 < c₂\nhc₂ : ∀ (ε x : ℝ), ε ∈ Ioo 0 1 → 1 + c₂ * ε ≤ x → Smooth1 SmoothingF ε x = 0\nC_gt' : 3 < c₁ + c₂ + 3\nC : ℝ\nC_eq : C = c₁ + c₂ + 3\nC_gt : 3 < C\nX : ℝ\nX_ge_C : C < X\nε : ℝ\nεpos : 0 < ε\nε_lt_one : ε < 1\nthis_1 : 0 < X\nthis : X ≠ 0\nn_on_X_pos : ∀ {n : ℕ}, 0 < n → 0 < ↑n / X\nsmooth1BddAbove : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≤ 1\nsmooth1BddBelow : ∀ (n : ℕ), 0 < n → Smooth1 SmoothingF ε (↑n / X) ≥ 0\nsmoothIs1 : ∀ (n : ℕ), 0 < n → ↑n ≤ X * (1 - c₁ * ε) → Smooth1 SmoothingF ε (↑n / X) = 1\nsmoothIs0 : ∀ (n : ℕ), 1 + c₂ * ε ≤ ↑n / X → Smooth1 SmoothingF ε (↑n / X) = 0\n⊢ ‖↑(∑' (n : ℕ), ArithmeticFunction.vonMangoldt n * Smooth1 SmoothingF ε (↑n / X)) -\n        ↑((Finset.range ⌊X + 1⌋₊).sum ⇑ArithmeticFunction.vonMangoldt)‖ ≤\n    C * ε * X * Real.log X",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/MediumPNT.lean#L369"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-05-02T22:39:39-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "2df7090cff040850fa37ab440035e62834096330d82b2330cda1f505316558c9"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+        "start_line": 471,
+        "start_column": 2,
+        "end_line": 471,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nε : ℝ\nε_pos : 0 < ε\nX σ₀ : ℝ\nσ₀_pos : 0 < σ₀\nholoOn : HolomorphicOn (SmoothedChebyshevIntegrand SmoothingF ε X) (Icc σ₀ 2 ×ℂ univ \\ {1})\nsuppSmoothingF : support SmoothingF ⊆ Icc (1 / 2) 2\nSmoothingFnonneg : ∀ x > 0, 0 ≤ SmoothingF x\nmass_one : ∫ (x : ℝ) in Ioi 0, SmoothingF x / x = 1\n⊢ Integrable (fun t => SmoothedChebyshevIntegrand SmoothingF ε X (2 + ↑t * I)) volume",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/MediumPNT.lean#L471"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-02-28T10:57:09-05:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "7dcd5128e4cd1bfa3c0522981f901d7bb5ee85f3f23b7ad3897b299964a4471b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+        "start_line": 503,
+        "start_column": 2,
+        "end_line": 503,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nε : ℝ\nε_pos : 0 < ε\nX T : ℝ\nT_pos : 0 < T\nσ₀ : ℝ\nσ₀_pos : 0 < σ₀\nholoOn : HolomorphicOn (SmoothedChebyshevIntegrand SmoothingF ε X) (Icc σ₀ 2 ×ℂ univ \\ {1})\nsuppSmoothingF : support SmoothingF ⊆ Icc (1 / 2) 2\nSmoothingFnonneg : ∀ x > 0, 0 ≤ SmoothingF x\nmass_one : ∫ (x : ℝ) in Ioi 0, SmoothingF x / x = 1\n⊢ Integrable (fun t => SmoothedChebyshevIntegrand SmoothingF ε X (↑(1 + (Real.log X)⁻¹) + ↑t * I)) volume",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/MediumPNT.lean#L503"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-03-07T17:04:05-05:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "14aa1c60f86cca8ead6c81052865a6efd8540b35f89939a8579dccafa30c463a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+        "start_line": 509,
+        "start_column": 2,
+        "end_line": 509,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "SmoothingF : ℝ → ℝ\nε : ℝ\nε_pos : 0 < ε\nX T : ℝ\nT_pos : 0 < T\nσ₀ : ℝ\nσ₀_pos : 0 < σ₀\nholoOn : HolomorphicOn (SmoothedChebyshevIntegrand SmoothingF ε X) (Icc σ₀ 2 ×ℂ univ \\ {1})\nsuppSmoothingF : support SmoothingF ⊆ Icc (1 / 2) 2\nSmoothingFnonneg : ∀ x > 0, 0 ≤ SmoothingF x\nmass_one : ∫ (x : ℝ) in Ioi 0, SmoothingF x / x = 1\n⊢ (1 / (2 * ↑Real.pi * I)) •\n      ((I • ∫ (t : ℝ) in Iic (-T), SmoothedChebyshevIntegrand SmoothingF ε X (↑(1 + (Real.log X)⁻¹) + ↑t * I)) +\n          VIntegral (SmoothedChebyshevIntegrand SmoothingF ε X) (1 + (Real.log X)⁻¹) (-T) T +\n        I • ∫ (t : ℝ) in Ici T, SmoothedChebyshevIntegrand SmoothingF ε X (↑(1 + (Real.log X)⁻¹) + ↑t * I)) =\n    1 / (2 * ↑Real.pi * I) *\n        (((((I * ∫ (t : ℝ) in Iic (-T), SmoothedChebyshevIntegrand SmoothingF ε X (1 + ↑(Real.log X)⁻¹ + ↑t * I)) -\n                ∫ (s : ℝ) in Icc σ₀ (1 + (Real.log X)⁻¹), SmoothedChebyshevIntegrand SmoothingF ε X (↑s - ↑T * I)) +\n              I * ∫ (t : ℝ) in Icc (-T) T, SmoothedChebyshevIntegrand SmoothingF ε X (↑σ₀ + ↑t * I)) +\n            ∫ (s : ℝ) in Icc σ₀ (1 + (Real.log X)⁻¹), SmoothedChebyshevIntegrand SmoothingF ε X (↑s + ↑T * I)) +\n          I * ∫ (t : ℝ) in Ici T, SmoothedChebyshevIntegrand SmoothingF ε X (1 + ↑(Real.log X)⁻¹ + ↑t * I)) +\n      MellinTransform (fun x => ↑(Smooth1 SmoothingF ε x)) 1 * ↑X",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/MediumPNT.lean#L509"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-02-10T12:59:29-05:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "5d18f0792d8ba46431457ddf3b8689dce481c3706776a8b6789f2cd3d76779bf"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+        "start_line": 579,
+        "start_column": 2,
+        "end_line": 579,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "c : ℝ := sorry\ncpos : 0 < c\nC : ℝ := sorry\nX₀ : ℝ := sorry\nX : ℝ\nX_ge_X₀ : X ≥ X₀\n⊢ ‖(ChebyshevPsi - id) X‖ ≤ C * ‖X * Real.exp (-c * Real.log X ^ (1 / 10))‖",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/MediumPNT.lean#L579"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2024-03-11T23:23:22-04:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "fa45b339aa0e7dcce091b6372bd54c246ca1778dd0551b28dc42d1fff013fa51"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/MediumPNT.lean",
+        "start_line": 569,
+        "start_column": 23,
+        "end_line": 569,
+        "end_column": 28
+      },
+      "debug_info": {
+        "goal": "c : ℝ := sorry\n⊢ 0 < c",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/MediumPNT.lean#L569"
+      },
+      "metadata": {
+        "blame_email_hash": "4bcdc021face",
+        "blame_date": "2025-02-14T15:25:09-05:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "0dd2d532c038754930a6fde16ec84ecd87baa418fe48e6d2a7d0d6b8c58b4435"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/Consequences.lean",
+        "start_line": 1844,
+        "start_column": 2,
+        "end_line": 1844,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "⊢ ∃ c, (c =o[atTop] fun x => 1) ∧ ∀ (n : ℕ), ↑(nth Nat.Prime n) = (1 + c n) * ↑n * log ↑n",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/Consequences.lean#L1844"
+      },
+      "metadata": {
+        "blame_email_hash": "11451cd2f124",
+        "blame_date": "2024-02-19T02:44:41-08:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "503bbb1a8d050d674a1022df9c2b422230f7cbbb09dcaba26ad7bec142948b00"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/Consequences.lean",
+        "start_line": 2575,
+        "start_column": 81,
+        "end_line": 2575,
+        "end_column": 86
+      },
+      "debug_info": {
+        "goal": "⊢ (fun x => ∑ n ∈ range ⌊x⌋₊, moebius n) =o[atTop] fun x => x",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/Consequences.lean#L2575"
+      },
+      "metadata": {
+        "blame_email_hash": "5ecb8fcfe98c",
+        "blame_date": "2025-02-06T17:41:08+01:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "6ba709359dbcf67a047700f6cb5305713bf9fffb112e3b67661f5b55a0a39f93"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/Consequences.lean",
+        "start_line": 2611,
+        "start_column": 2,
+        "end_line": 2611,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "⊢ (fun x => ∑ n ∈ range ⌊x⌋₊, (-1) ^ cardFactors n) =o[atTop] fun x => x",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/Consequences.lean#L2611"
+      },
+      "metadata": {
+        "blame_email_hash": "11451cd2f124",
+        "blame_date": "2024-02-19T02:44:41-08:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "839ece4b6f43eef5cc2b6909605ee8ea3ff227bdfd58f7cbf910cf595734ddaa"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+        "branch": "AK_work",
+        "commit": "deda78cba510ad49b82f668e79ee458be78c6a0e",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "PrimeNumberTheoremAnd/Consequences.lean",
+        "start_line": 2635,
+        "start_column": 98,
+        "end_line": 2635,
+        "end_column": 103
+      },
+      "debug_info": {
+        "goal": "⊢ (fun x => ∑ n ∈ range ⌊x⌋₊, ↑(moebius n) / ↑n) =o[atTop] fun x => 1",
+        "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/blob/deda78cba510ad49b82f668e79ee458be78c6a0e/PrimeNumberTheoremAnd/Consequences.lean#L2635"
+      },
+      "metadata": {
+        "blame_email_hash": "5ecb8fcfe98c",
+        "blame_date": "2025-02-06T17:41:08+01:00",
+        "inclusion_date": "2025-05-15T21:05:02.976307+00:00"
+      },
+      "id": "ad3d303bd5bc1cda1f0185bfbfce6d80f21788b3658c2a2672d949f216140b5f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/MaximalConsistentSet.lean",
+        "start_line": 191,
+        "start_column": 4,
+        "end_line": 191,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case inl\nα : Type u_1\nS : Type u_2\ninst✝³ : Entailment (Formula α) S\n𝓢 : S\ninst✝² : DecidableEq α\nT : FormulaSet α\ninst✝¹ : Entailment.Cl 𝓢\nφ : Formula α\ninst✝ : Necessitation 𝓢\nT_consis : Consistent 𝓢 T\nh : ∼□φ ∈ T\nhΓ : ↑∅ ⊆ {∼φ}\n⊢ ↑∅ *⊬[𝓢] ⊥",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/MaximalConsistentSet.lean#L191"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-05-12T12:29:45+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "16bf128716f7898dc911f671d8ef2b1417c9789e709da5084d5ac4000b39f3c6"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/MaximalConsistentSet.lean",
+        "start_line": 194,
+        "start_column": 4,
+        "end_line": 194,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case inr\nα : Type u_1\nS : Type u_2\ninst✝³ : Entailment (Formula α) S\n𝓢 : S\ninst✝² : DecidableEq α\nT : FormulaSet α\ninst✝¹ : Entailment.Cl 𝓢\nφ : Formula α\ninst✝ : Necessitation 𝓢\nT_consis : Consistent 𝓢 T\nh : ∼□φ ∈ T\nhΓ : ↑{∼φ} ⊆ {∼φ}\n⊢ ↑{∼φ} *⊬[𝓢] ⊥",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/MaximalConsistentSet.lean#L194"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-05-12T12:29:45+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "ec60fa49e5ecd09d8454c8d07337a05aa1b6ff1ceb384dfed9bd0c12e9669f8b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Hilbert/NNFormula.lean",
+        "start_line": 232,
+        "start_column": 8,
+        "end_line": 232,
+        "end_column": 13
+      },
+      "debug_info": {
+        "goal": "φ : NNFormula ℕ\n⊢ ∃ ψ, ψ.isModalCNF ∧ Hilbert.K ⊢! φ.toFormula ⭤ ψ.toFormula",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Hilbert/NNFormula.lean#L232"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "bcf644c470f475c7994ab03bf0e0b46312f04b170fd9bea7dd71558840925546"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Hilbert/NNFormula.lean",
+        "start_line": 236,
+        "start_column": 8,
+        "end_line": 236,
+        "end_column": 13
+      },
+      "debug_info": {
+        "goal": "φ : NNFormula ℕ\n⊢ ∃ ψ, ψ.isModalDNF ∧ Hilbert.K ⊢! φ.toFormula ⭤ ψ.toFormula",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Hilbert/NNFormula.lean#L236"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "2e5fd2d1ca89d742b05bf59bd6ed8a7908bc37efbb142bd4d13970da275f017b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Maximal/Makinson.lean",
+        "start_line": 29,
+        "start_column": 25,
+        "end_line": 29,
+        "end_column": 30
+      },
+      "debug_info": {
+        "goal": "L : Logic\ninst✝¹ : L.Normal\ninst✝ : L.Consistent\nφ : Formula ℕ\nhL : φ ∈ L\nhV : φ ∉ Logic.Ver\nΓ : List { ψ // ψ.isModalCNFPart }\nγ : Formula ℕ\neγ : (⋀Γ.unattach).toFormula = γ\nh : Hilbert.K ⊢! φ.toNNFormula.toFormula ⭤ γ\nthis : φ.toNNFormula.toFormula ⭤ γ ∈ L\n⊢ γ ∈ L",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Maximal/Makinson.lean#L29"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "c7a960f4d195c6fdbc65af7eb8de1b233da630460f066d3ee2d62197174de5bd"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Maximal/Makinson.lean",
+        "start_line": 30,
+        "start_column": 33,
+        "end_line": 30,
+        "end_column": 38
+      },
+      "debug_info": {
+        "goal": "L : Logic\ninst✝¹ : L.Normal\ninst✝ : L.Consistent\nφ : Formula ℕ\nhL : φ ∈ L\nhV : φ ∉ Logic.Ver\nΓ : List { ψ // ψ.isModalCNFPart }\nγ : Formula ℕ\neγ : (⋀Γ.unattach).toFormula = γ\nh : Hilbert.K ⊢! φ.toNNFormula.toFormula ⭤ γ\nthis : φ.toNNFormula.toFormula ⭤ γ ∈ L\nhγL : γ ∈ L\n⊢ γ ∉ Logic.Ver",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Maximal/Makinson.lean#L30"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "1c29e71612ada3ce8fd3d9b9df9ae659d79c9e25d1d80e60c579177b0189255d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Maximal/Makinson.lean",
+        "start_line": 33,
+        "start_column": 4,
+        "end_line": 33,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "L : Logic\ninst✝¹ : L.Normal\ninst✝ : L.Consistent\nφ : Formula ℕ\nhL : φ ∈ L\nhV : φ ∉ Logic.Ver\nΓ : List { ψ // ψ.isModalCNFPart }\nγ : Formula ℕ\neγ : (⋀Γ.unattach).toFormula = γ\nh : Hilbert.K ⊢! φ.toNNFormula.toFormula ⭤ γ\nthis : φ.toNNFormula.toFormula ⭤ γ ∈ L\nhγL : γ ∈ L\nhγV : γ ∉ Logic.Ver\n⊢ ∃ δ ∈ Γ, (↑δ).toFormula ∈ L ∧ (↑δ).toFormula ∉ Logic.Ver",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Maximal/Makinson.lean#L33"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "545a7b40619b1186dafca2abb8710cd85eec8003cac79343198bb094a72e0698"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Maximal/Makinson.lean",
+        "start_line": 38,
+        "start_column": 4,
+        "end_line": 38,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case mk.intro\nL : Logic\ninst✝¹ : L.Normal\ninst✝ : L.Consistent\nφ : Formula ℕ\nhL : φ ∈ L\nhV : φ ∉ Logic.Ver\nΓ : List { ψ // ψ.isModalCNFPart }\nγ : Formula ℕ\neγ : (⋀Γ.unattach).toFormula = γ\nh : Hilbert.K ⊢! φ.toNNFormula.toFormula ⭤ γ\nthis✝ : φ.toNNFormula.toFormula ⭤ γ ∈ L\nhγL : γ ∈ L\nhγV : γ ∉ Logic.Ver\nΔ : List { ψ // ψ.isPrebox ∨ ψ.isPredia ∨ ψ.degree = 0 }\nhδΓ : ⟨⋁Δ.unattach, ⋯⟩ ∈ Γ\nhδL : (↑⟨⋁Δ.unattach, ⋯⟩).toFormula ∈ L\nhδV : (↑⟨⋁Δ.unattach, ⋯⟩).toFormula ∉ Logic.Ver\nξ : NNFormula ℕ\nproperty✝ : (□ξ).isPrebox ∨ (□ξ).isPredia ∨ (□ξ).degree = 0\nhψ₁ : ⟨□ξ, property✝⟩ ∈ Δ\nhψ₂ : (↑⟨□ξ, property✝⟩).isPrebox\nthis : □ξ.toFormula ∈ Logic.Ver\n⊢ False",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Maximal/Makinson.lean#L38"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "a82657060dc6aefdaf942d6c99ddb8e4426dc9e7570f8f7931c186844756b8db"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Maximal/Makinson.lean",
+        "start_line": 40,
+        "start_column": 49,
+        "end_line": 40,
+        "end_column": 54
+      },
+      "debug_info": {
+        "goal": "L : Logic\ninst✝¹ : L.Normal\ninst✝ : L.Consistent\nφ : Formula ℕ\nhL : φ ∈ L\nhV : φ ∉ Logic.Ver\nΓ : List { ψ // ψ.isModalCNFPart }\nγ : Formula ℕ\neγ : (⋀Γ.unattach).toFormula = γ\nh : Hilbert.K ⊢! φ.toNNFormula.toFormula ⭤ γ\nthis : φ.toNNFormula.toFormula ⭤ γ ∈ L\nhγL : γ ∈ L\nhγV : γ ∉ Logic.Ver\nΔ : List { ψ // ψ.isPrebox ∨ ψ.isPredia ∨ ψ.degree = 0 }\nhδΓ : ⟨⋁Δ.unattach, ⋯⟩ ∈ Γ\nhδL : (↑⟨⋁Δ.unattach, ⋯⟩).toFormula ∈ L\nhδV : (↑⟨⋁Δ.unattach, ⋯⟩).toFormula ∉ Logic.Ver\nhΔ₁ : ∀ ψ ∈ Δ, ¬(↑ψ).isPrebox\n⊢ ∃ Γ, φ ⭤ ⋀Γ ∈ L",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Maximal/Makinson.lean#L40"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "64c76c03c06f86a0870049904896116a76cfd7f08b6fd0e5b6bfe94211f83cf1"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Maximal/Makinson.lean",
+        "start_line": 42,
+        "start_column": 2,
+        "end_line": 42,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "case intro.intro.intro.intro.mk.intro.intro.intro\nL : Logic\ninst✝¹ : L.Normal\ninst✝ : L.Consistent\nφ : Formula ℕ\nhL : φ ∈ L\nhV : ¬Hilbert.Ver ⊢! φ\nΓ : List { ψ // ψ.isModalCNFPart }\nγ : Formula ℕ\neγ : (⋀Γ.unattach).toFormula = γ\nh : Hilbert.K ⊢! φ.toNNFormula.toFormula ⭤ γ\nthis✝ : φ.toNNFormula.toFormula ⭤ γ ∈ L\nhγL : γ ∈ L\nhγV : γ ∉ Logic.Ver\nΔ : List { ψ // ψ.isPrebox ∨ ψ.isPredia ∨ ψ.degree = 0 }\nhδΓ : ⟨⋁Δ.unattach, ⋯⟩ ∈ Γ\nhδL : (↑⟨⋁Δ.unattach, ⋯⟩).toFormula ∈ L\nhδV : (↑⟨⋁Δ.unattach, ⋯⟩).toFormula ∉ Logic.Ver\nhΔ₁ : ∀ ψ ∈ Δ, ¬(↑ψ).isPrebox\nthis : ∃ Γ, φ ⭤ ⋀Γ ∈ L\n⊢ ∃ ψ, ◇ψ ∈ L",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Maximal/Makinson.lean#L42"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-10T09:06:15+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "be8bf55fc8172468fa6417a9957de39b6fa518ae160acfc9e942277be97796c3"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Kripke/Balloon.lean",
+        "start_line": 63,
+        "start_column": 2,
+        "end_line": 63,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "φ : Formula ℕ\nM : Model\ninst✝ : IsStrictOrder M.World M.Rel\nx : M.World\nh : ¬x ⊧ □φ\n⊢ ∃ y, x ≺ y ∧ ¬y ⊧ φ ∧ y ⊧ □φ",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Kripke/Balloon.lean#L63"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-04-26T09:19:50+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "0c099c59504e71b41f15ba6f99326db35364c1d59006ff66a919cdfb9c2be314"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Kripke/Hilbert/GrzPoint3.lean",
+        "start_line": 42,
+        "start_column": 4,
+        "end_line": 42,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "⊢ ∀ {φ : Formula ℕ}, Grz.miniCanonicalFrame Hilbert.GrzPoint3 φ ∈ FrameClass.finite_connected_partial_order",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Kripke/Hilbert/GrzPoint3.lean#L42"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-14T14:50:18+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "39bc3ea9cfec46b758df1d7b6d52a9a3728fde89c18cf4ef72a79e2c02790103"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/FormalizedFormalLogic/Foundation",
+        "branch": "master",
+        "commit": "5d0eb4e51de098b32e1623f00fe8c84dff24a004",
+        "lean_version": "v4.18.0-rc1"
+      },
+      "location": {
+        "path": "Foundation/Modal/Kripke/Hilbert/GLPoint3.lean",
+        "start_line": 33,
+        "start_column": 101,
+        "end_line": 33,
+        "end_column": 106
+      },
+      "debug_info": {
+        "goal": "⊢ Complete Hilbert.GLPoint3 FrameClass.finite_strict_linear_order",
+        "url": "https://github.com/FormalizedFormalLogic/Foundation/blob/5d0eb4e51de098b32e1623f00fe8c84dff24a004/Foundation/Modal/Kripke/Hilbert/GLPoint3.lean#L33"
+      },
+      "metadata": {
+        "blame_email_hash": "165d0178d95d",
+        "blame_date": "2025-03-17T22:57:50+09:00",
+        "inclusion_date": "2025-05-15T21:17:59.972985+00:00"
+      },
+      "id": "06b315c7c48ca584b60f9b5dcbeb344414dca3f7cd8f0168ac7e2811a9d1c9d2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Smt/Reconstruct/BitVec/Bitblast.lean",
+        "start_line": 37,
+        "start_column": 2,
+        "end_line": 37,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "w : Nat\nx y : BitVec w\n⊢ (x = y) = (BitVec.beq w x y = true)",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Smt/Reconstruct/BitVec/Bitblast.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "a29bc6f92c6c",
+        "blame_date": "2024-05-08T17:36:04-07:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "fa2b4490630bb7ad0aa4e817e6173da4983ec3f85884208d3fb8697c1f422026"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/Shift.lean",
+        "start_line": 8,
+        "start_column": 2,
+        "end_line": 8,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec 2\n⊢ x ++ y = zeroExtend 4 x <<< 2#2 ||| zeroExtend 4 y",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/BitVec/Shift.lean#L8"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-08-05T17:11:15+02:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "29c6e0bda4fe6f45a23ab4b8878475ca6b68f3a17fc0b46e0bbbeaa7b95ab3a6"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/Shift.lean",
+        "start_line": 13,
+        "start_column": 2,
+        "end_line": 13,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec 3\n⊢ x ++ y = zeroExtend 6 x <<< 3#2 ||| zeroExtend 6 y",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/BitVec/Shift.lean#L13"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-08-05T17:11:15+02:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "676342e6ee3b45abcc8ec25ae2c3328d623fab371ba0ac7578196d0d49cd509f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/XorComm.lean",
+        "start_line": 5,
+        "start_column": 2,
+        "end_line": 5,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec 2\n⊢ x ^^^ y = y ^^^ x",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/BitVec/XorComm.lean#L5"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "e6a0cb16b1435155d5830438e75cb2b5ba9b4a7c18f35d229fd58fd4810f8dc3"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/XorComm.lean",
+        "start_line": 9,
+        "start_column": 2,
+        "end_line": 9,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec (4 + 4)\n⊢ x ^^^ y = y ^^^ x",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/BitVec/XorComm.lean#L9"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "57a530eb27c0fbf83fc4ffb226d41612d824508363cbc6d251f95063ac02a546"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/DefineSort.lean",
+        "start_line": 8,
+        "start_column": 2,
+        "end_line": 8,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : MyInt\n⊢ MyInt.add a b = MyInt.add b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/Int/DefineSort.lean#L8"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "3ade67b4563ea52ca2d45165d8fcc34563da3d06b8573faeaf85cd9139e00f18"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 7,
+        "start_column": 2,
+        "end_line": 7,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\n⊢ curryAdd a b = curryAdd b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/Int/Binders.lean#L7"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "aaf4c7ca18291124a5bbf73f2ce70b06896c42a578d925ac77abb00938ae6164"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 13,
+        "start_column": 2,
+        "end_line": 13,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\n⊢ partCurryAdd a b = partCurryAdd b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/Int/Binders.lean#L13"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "d49fff70e5997985d2253af11259720c6022e8d7d5f044b1deb9c62aebe8e558"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 20,
+        "start_column": 2,
+        "end_line": 20,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\npartCurryAdd' : Int → Int → Int := fun a => HAdd.hAdd a\n⊢ partCurryAdd' a b = partCurryAdd' b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/Int/Binders.lean#L20"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "ae8f35cef66801019c3979d1ec1acf481ff49b1a211261941596fa50f0319ad8"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "797ea277db2d91032a5bf997953917cc2e141f19",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 27,
+        "start_column": 2,
+        "end_line": 27,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\n⊢ mismatchNamesAdd a b = mismatchNamesAdd b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/797ea277db2d91032a5bf997953917cc2e141f19/Test/Int/Binders.lean#L27"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-15T21:39:22.281499+00:00"
+      },
+      "id": "fc2bded0cf3a055561cc9e8070b1fdd842329ec8e717b971c91d48e6e15a924c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Components.lean",
+        "start_line": 62,
+        "start_column": 9,
+        "end_line": 62,
+        "end_column": 14
+      },
+      "debug_info": {
+        "goal": "ι : Type\noSpec : OracleSpec ι\nStatement Witness ιₛᵢ : Type\nOStatement : ιₛᵢ → Type\ninst✝¹ : (i : ιₛᵢ) → OracleInterface (OStatement i)\nWitEquiv : Type\ninst✝ : OracleInterface WitEquiv\nequiv : Witness ≃ WitEquiv\n⊢ ∀ (i : ιₛᵢ ⊕ Unit),\n    (OStatement ⊕ᵥ fun x => WitEquiv) i =\n      match (⋯.mpr sorry) i with\n      | Sum.inl j => OStatement j\n      | Sum.inr j => (pSpec WitEquiv).Message j",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Components.lean#L62"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-24T11:52:07-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "0e97b74e5f5360c6aa3ec622974bcab452c34aeb47756d61bb41c219ca5e9431"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Components.lean",
+        "start_line": 80,
+        "start_column": 2,
+        "end_line": 80,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "ι : Type\noSpec : OracleSpec ι\nStatement Witness ιₛᵢ : Type\nOStatement : ιₛᵢ → Type\ninst✝² : (i : ιₛᵢ) → OracleInterface (OStatement i)\nWitEquiv : Type\ninst✝¹ : OracleInterface WitEquiv\nequiv : Witness ≃ WitEquiv\nrelIn : Statement × ((i : ιₛᵢ) → OStatement i) → Witness → Prop\ninst✝ : oSpec.FiniteRange\n⊢ OracleReduction.perfectCompleteness relIn (toRelOut Statement Witness OStatement WitEquiv equiv relIn)\n    (oracleReduction oSpec Statement Witness OStatement WitEquiv equiv)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Components.lean#L80"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-24T11:52:07-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "3c5f1f38c9d326ce9c6a0e7cb6a47c91ec566f1961ae13283503bc0b575faf26"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Components.lean",
+        "start_line": 141,
+        "start_column": 9,
+        "end_line": 141,
+        "end_column": 14
+      },
+      "debug_info": {
+        "goal": "ι : Type\noSpec : OracleSpec ι\nStatement ιₛᵢ : Type\ninst✝ : Unique ιₛᵢ\nOStatement : ιₛᵢ → Type\ninst : (i : ιₛᵢ) → OracleInterface (OStatement i)\nrel : Statement × ((i : ιₛᵢ) → OStatement i) → Prop\nrelComp : Statement → OracleComp [OStatement]ₒ Unit\n⊢ ∀ (i : ιₛᵢ ⊕ ιₛᵢ),\n    (OStatement ⊕ᵥ OStatement) i =\n      match sorry i with\n      | Sum.inl j => OStatement j\n      | Sum.inr j => (pSpec OStatement).Message j",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Components.lean#L141"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-24T11:52:07-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "0cc4f8c795c59bf412d2aa10b631df5ab32c1e5223c34127fa8ceee5d0c17012"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Components.lean",
+        "start_line": 167,
+        "start_column": 2,
+        "end_line": 167,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "ι : Type\noSpec : OracleSpec ι\nStatement ιₛᵢ : Type\ninst✝¹ : Unique ιₛᵢ\nOStatement : ιₛᵢ → Type\ninst : (i : ιₛᵢ) → OracleInterface (OStatement i)\nrel : Statement × ((i : ιₛᵢ) → OStatement i) → Prop\nrelComp : Statement → OracleComp [OStatement]ₒ Unit\ninst✝ : oSpec.FiniteRange\n⊢ OracleReduction.perfectCompleteness (fun x x_1 => rel x) (relOut OStatement)\n    (oracleReduction oSpec Statement OStatement relComp)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Components.lean#L167"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-24T11:52:07-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "990c4bc92782a343d2684165f3f5aca2086c32985947d1e1587b12f35d5010df"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Components.lean",
+        "start_line": 259,
+        "start_column": 2,
+        "end_line": 259,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "ι : Type\noSpec : OracleSpec ι\nOStatement : Type\ninst✝¹ : OracleInterface OStatement\ninst : VCVCompatible (Query OStatement)\ninst✝ : oSpec.FiniteRange\n⊢ OracleReduction.perfectCompleteness (relIn OStatement) (relOut OStatement) (oracleReduction oSpec OStatement)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Components.lean#L259"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-24T11:52:07-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "d16dad33e6e15b2203ac174f5fc72c58d2aa66719bcf1c7f248588d3ceb26c49"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Execution.lean",
+        "start_line": 185,
+        "start_column": 2,
+        "end_line": 185,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\nι : Type\npSpec : ProtocolSpec n\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut : Type\ninst✝ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\nstmt : StmtIn\nwit : WitIn\nreduction : Reduction pSpec oSpec StmtIn WitIn StmtOut WitOut\n⊢ (do\n      let a ← (simulateQ loggingOracle (Prover.runToRound (Fin.last n) stmt wit reduction.prover)).run\n      (fun a_1 => (reduction.prover.toProverOut.1 a.1.2, a_1.1, a.1.1)) <$>\n          (simulateQ loggingOracle (reduction.verifier.verify stmt a.1.1)).run.liftComp\n            (oSpec ++ₒ [pSpec.Challenge]ₒ)) =\n    do\n    let __discr ← Prover.run stmt wit reduction.prover\n    (fun a => ((__discr.1, __discr.2.1), a, __discr.2.2)) <$>\n        (reduction.verifier.verify stmt __discr.2.2).liftComp (oSpec ++ₒ [pSpec.Challenge]ₒ)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Execution.lean#L185"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "a42615c0dcd7f9c166625dd652f53d11a9b5048af22bf1b4a29da4ab1ea76b71"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Execution.lean",
+        "start_line": 278,
+        "start_column": 2,
+        "end_line": 278,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "ι : Type\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut : Type\npSpec : ProtocolSpec 1\ninst✝ : pSpec.ProverOnly\nstmt : StmtIn\nwit : WitIn\nreduction : Reduction pSpec oSpec StmtIn WitIn StmtOut WitOut\n⊢ (do\n      let __discr ←\n        (fun a =>\n              ((reduction.prover.toProverOut.1 a.2).1, (reduction.prover.toProverOut.1 a.2).2, fun i =>\n                match i with\n                | ⟨0, isLt⟩ => a.1)) <$>\n            (reduction.prover.sendMessage ⟨0, ⋯⟩ (reduction.prover.input stmt wit)).liftComp\n              (oSpec ++ₒ [pSpec.Challenge]ₒ)\n      ((fun a => ((__discr.1, __discr.2.1), a, __discr.2.2)) <$> reduction.verifier.verify stmt __discr.2.2).liftComp\n          (oSpec ++ₒ [pSpec.Challenge]ₒ)) =\n    do\n    let __discr ←\n      (reduction.prover.sendMessage ⟨0, ⋯⟩ (reduction.prover.input stmt wit)).liftComp (oSpec ++ₒ [pSpec.Challenge]ₒ)\n    ((fun a =>\n              (reduction.prover.toProverOut.1 __discr.2, a, fun i =>\n                match i with\n                | ⟨0, isLt⟩ => __discr.1)) <$>\n            reduction.verifier.verify stmt fun i =>\n              match i with\n              | ⟨0, isLt⟩ => __discr.1).liftComp\n        (oSpec ++ₒ [pSpec.Challenge]ₒ)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Execution.lean#L278"
+      },
+      "metadata": {
+        "blame_email_hash": "0c5d39c5ece3",
+        "blame_date": "2025-03-09T23:22:53-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "b4c5674e9013d00e94ad1261308b698acdadc5633dbcadd41e1689185fb49d06"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Equiv.lean",
+        "start_line": 66,
+        "start_column": 2,
+        "end_line": 66,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "⊢ (do\n      let _ ← liftM (query 0 ())\n      (fun a => (0, ↑a)) <$> liftM (query 1 ())) =\n    do\n    let y ← liftM (query 1 ())\n    (fun a => (0, ↑y)) <$> liftM (query 0 ())",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Equiv.lean#L66"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:31:31-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "75a385d6f706fb02cc0a2babcb4d8aa6282775594d2307d820f224c9e2a336ff"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Equiv.lean",
+        "start_line": 80,
+        "start_column": 4,
+        "end_line": 80,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case h.h.none\n⊢ (evalDist (OptionT.bind (liftM (query 1 ())) (OptionT.pure ∘ fun a => (0, ↑a)))) none =\n    ∑' (a : Fin 2), 2⁻¹ * (evalDist (OptionT.bind (liftM (query 0 ())) (OptionT.pure ∘ fun a_1 => (0, ↑a)))) none",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Equiv.lean#L80"
+      },
+      "metadata": {
+        "blame_email_hash": "d0850777cf0b",
+        "blame_date": "2025-04-16T18:04:04-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "79dd8a1bd367dfba2387e5aa2e7b20d978be035a6bdebbe50f8fbadc273ec1b7"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Equiv.lean",
+        "start_line": 85,
+        "start_column": 4,
+        "end_line": 85,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case h.h.some.mk\nx y : ℕ\n⊢ (Option.elimM ((PMF.uniformOfFintype (Fin 1)).bind fun a => PMF.pure (some a)) (PMF.pure none)\n        (OptionT.run ∘ evalDist ∘ fun x => OptionT.bind (liftM (query 1 ())) (OptionT.pure ∘ fun a => (0, ↑a))))\n      (some (x, y)) =\n    (Option.elimM ((PMF.uniformOfFintype (Fin 2)).bind fun a => PMF.pure (some a)) (PMF.pure none)\n        (OptionT.run ∘ evalDist ∘ fun y => OptionT.bind (liftM (query 0 ())) (OptionT.pure ∘ fun a => (0, ↑y))))\n      (some (x, y))",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Equiv.lean#L85"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:31:31-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "df22ffd586ea46bfd33290e432194bd17215da155bff3c76d2294f9eac2a874e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Equiv.lean",
+        "start_line": 102,
+        "start_column": 2,
+        "end_line": 102,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "f : (i : ℕ) → unifSpec.domain i → Fin (i + 1)\n⊢ (some (f 0 ()) >>=\n      simulateQ\n          {\n            impl := fun {α} x =>\n              match α, x with\n              | .(unifSpec.range i), query i t => some (f i t) } ∘\n        fun x => (fun a => (0, ↑a)) <$> lift (query 1 ())) =\n    some (f 1 ()) >>=\n      simulateQ\n          {\n            impl := fun {α} x =>\n              match α, x with\n              | .(unifSpec.range i), query i t => some (f i t) } ∘\n        fun y => (fun a => (0, ↑y)) <$> lift (query 0 ())",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Equiv.lean#L102"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:31:31-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "77a072791f6f153c5a6d55be29a9301741f75f93d74bcee42f711d54bc4f0a57"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/OracleInterface.lean",
+        "start_line": 312,
+        "start_column": 2,
+        "end_line": 312,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝⁵ : CommRing R\nd : ℕ\ninst✝⁴ : Fintype R\ninst✝³ : DecidableEq R\ninst✝² : IsDomain R\nσ : Type\ninst✝¹ : Fintype σ\ninst✝ : DecidableEq σ\na : R[X σ]\nha : ∀ (s : σ →₀ ℕ), ¬MvPolynomial.coeff s a = 0 → ∀ (i : σ), s i ≤ d\nb : R[X σ]\nhb : ∀ (s : σ →₀ ℕ), ¬MvPolynomial.coeff s b = 0 → ∀ (i : σ), s i ≤ d\nhNe : ¬a = b\n⊢ {q | (MvPolynomial.eval q) a = (MvPolynomial.eval q) b}.card ≤ Fintype.card σ * d",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/OracleInterface.lean#L312"
+      },
+      "metadata": {
+        "blame_email_hash": "0c5d39c5ece3",
+        "blame_date": "2025-03-09T23:22:53-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "115ecd67f7209e8e132a3f629821233c6b0e8db72a162454af2d950a50cdd1ce"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/OracleInterface.lean",
+        "start_line": 351,
+        "start_column": 2,
+        "end_line": 351,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "ι : Type\nspec : OracleSpec ι\nR : Type\ninst✝ : CommSemiring R\nm : ℕ\nD : Fin m ↪ R\np : R[X]\n⊢ ∃ x,\n    ((OptionT.run (mapM (fun i => liftM (query (Sum.inr ()) (D i))) (List.finRange m))).mapM fun {α} =>\n          (statelessOracle spec [fun x => R[X]]ₒ fun i q => oracle p q).impl) =\n        pure x ∧\n      x.getM = pure (List.map (fun i => eval (D i) p) (List.finRange m))",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/OracleInterface.lean#L351"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "08a00f0f13a1d94384832e345932c85176bdc4be5925ae4b9ee7292109451d1d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Transform/FiatShamir.lean",
+        "start_line": 130,
+        "start_column": 66,
+        "end_line": 130,
+        "end_column": 71
+      },
+      "debug_info": {
+        "goal": "n : ℕ\npSpec : ProtocolSpec n\nι : Type\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut : Type\ninst✝⁴ : VCVCompatible StmtIn\ninst✝³ : (i : Fin n) → VCVCompatible (pSpec i).2\ninst✝² : DecidableEq ι\ninst✝¹ : oSpec.FiniteRange\ninst✝ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\nrelIn : StmtIn → WitIn → Prop\nrelOut : StmtOut → WitOut → Prop\ncompletenessError : ℝ≥0\nR : Reduction pSpec oSpec StmtIn WitIn StmtOut WitOut\n⊢ Reduction.completeness relIn relOut R completenessError →\n    Reduction.completeness relIn relOut R.fiatShamir completenessError",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Transform/FiatShamir.lean#L130"
+      },
+      "metadata": {
+        "blame_email_hash": "d0850777cf0b",
+        "blame_date": "2025-05-06T23:33:56-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "4f5699711cc4a8036fb5349f0a1cf3fd6777de2d0d7e2e1b45a52b0495697506"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/CommitmentScheme/Fold.lean",
+        "start_line": 100,
+        "start_column": 2,
+        "end_line": 100,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : CommRing R\ninst✝ : Sampleable R\np : R[X]\n⊢ (splitEvenOdd p).1.natDegree ≤ p.natDegree / 2",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/CommitmentScheme/Fold.lean#L100"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-26T16:07:07-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "58e2f3cbc2815ecf46d44e0ecfb1498e8ab009099e3f8cf7afe6d1ada679b8ec"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/CommitmentScheme/Fold.lean",
+        "start_line": 104,
+        "start_column": 2,
+        "end_line": 104,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : CommRing R\ninst✝ : Sampleable R\np : R[X]\n⊢ (splitEvenOdd p).2.natDegree ≤ p.natDegree / 2",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/CommitmentScheme/Fold.lean#L104"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-26T16:07:07-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "7b1efeb6e97f94dbc94944ff62f55ae91ae27206a1762f621d49be473d529146"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/CommitmentScheme/Fold.lean",
+        "start_line": 116,
+        "start_column": 11,
+        "end_line": 116,
+        "end_column": 16
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : CommRing R\ninst✝ : Sampleable R\nn deg : ℕ\nζ : Rˣ\nhPrim : IsPrimitiveRoot ζ (2 ^ n)\np : ↥R⦃< 2 * n⦄[X]\npEven pOdd : R[X]\n⊢ pEven ∈ R⦃< n⦄[X]",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/CommitmentScheme/Fold.lean#L116"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-26T16:07:07-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "a17ec414d6bc07ca6842c2cb5aef53fa37bdd3925111a209586d89682c6a4545"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/CommitmentScheme/Fold.lean",
+        "start_line": 116,
+        "start_column": 26,
+        "end_line": 116,
+        "end_column": 31
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : CommRing R\ninst✝ : Sampleable R\nn deg : ℕ\nζ : Rˣ\nhPrim : IsPrimitiveRoot ζ (2 ^ n)\np : ↥R⦃< 2 * n⦄[X]\npEven pOdd : R[X]\n⊢ pOdd ∈ R⦃< n⦄[X]",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/CommitmentScheme/Fold.lean#L116"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-26T16:07:07-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "cd5c9919db030ec5557a5a59c8d228c111dbea978cdda14bcbb36d581ea4e45c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/CommitmentScheme/MerkleTree.lean",
+        "start_line": 219,
+        "start_column": 6,
+        "end_line": 219,
+        "end_column": 11
+      },
+      "debug_info": {
+        "goal": "case succ\nα : Type\ninst✝² : DecidableEq α\ninst✝¹ : Inhabited α\ninst✝ : Fintype α\nhash : α × α → α\nn : ℕ\nih :\n  ∀ (leaves : List.Vector α (2 ^ n)) (i : Fin (2 ^ n)),\n    (simulateQ (implement_with_function α hash)\n        (do\n          let cache ← buildMerkleTree α n leaves\n          let proof : List.Vector α n := generateProof α i cache\n          verifyProof α i leaves[i] (getRoot α cache) proof\n          pure PUnit.unit)\n        ()).neverFails\nleaves : List.Vector α (2 ^ (n + 1))\ni : Fin (2 ^ (n + 1))\n⊢ ((((Option.elimM (OptionT.run (buildMerkleTree α (n + 1) leaves)) (FreeMonad.pure none)\n              (OptionT.run ∘ fun cache =>\n                verifyProof α i (leaves.get i) (getRoot α cache) (generateProof α i cache))).mapM\n          fun {α_1} q =>\n          match α_1, q with\n          | .((spec α).range i), query i (left, right) => pure (hash (left, right))) >>=\n        fun __do_lift => __do_lift.getM)\n      ()).neverFails",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/CommitmentScheme/MerkleTree.lean#L219"
+      },
+      "metadata": {
+        "blame_email_hash": "ab200eba5736",
+        "blame_date": "2025-04-16T13:24:09-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "e2e660023e51de65fcc014dc486806cb27d53f5ba7a9ae176412e44d5d2ba860"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/AGM/Basic.lean",
+        "start_line": 160,
+        "start_column": 2,
+        "end_line": 160,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "p : ℕ\ninst✝² : Fact (Nat.Prime p)\nG₁ : Type u_2\ninst✝¹ : CommGroup G₁\ninst✝ : IsPrimeOrderWith G₁ p\nn : ℕ\ng : G₁\na : ZMod p\npoly : ↥(degreeLT (ZMod p) (n + 1))\n⊢ g ^ ∑ i, a.val ^ ↑i * ((degreeLTEquiv (ZMod p) (n + 1)) poly i).val =\n    g ^ (∑ x, (degreeLTEquiv (ZMod p) (n + 1)) poly x * a ^ ↑x).val",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/AGM/Basic.lean#L160"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-15T12:13:54+05:30",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "cd12116ba1935fa41ed2786c33f186e73a7b5e424edc52d2f1711ea52f1b1da0"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/AGM/Basic.lean",
+        "start_line": 171,
+        "start_column": 6,
+        "end_line": 171,
+        "end_column": 11
+      },
+      "debug_info": {
+        "goal": "G : Type u_1\ninst✝⁸ : CommGroup G\np : ℕ\ninst✝⁷ : Fact (Nat.Prime p)\nh : Nat.card G = p\ng : G\nG₁ : Type u_2\ninst✝⁶ : CommGroup G₁\ninst✝⁵ : IsPrimeOrderWith G₁ p\ng₁ : G₁\nG₂ : Type u_3\ninst✝⁴ : CommGroup G₂\ninst✝³ : IsPrimeOrderWith G₂ p\ng₂ : G₂\nGₜ : Type u_4\ninst✝² : CommGroup Gₜ\ninst✝¹ : IsPrimeOrderWith Gₜ p\npairing : Additive G₁ →ₗ[ℤ] Additive G₂ →ₗ[ℤ] Additive Gₜ\nn : ℕ\ninst✝ : Fact (Nat.Prime p)\nsrs : Vector G₁ (n + 1)\ncoeffs : Fin (n + 1) → ZMod p\nz : ZMod p\npoly : ↥(degreeLT (ZMod p) (n + 1)) := (degreeLTEquiv (ZMod p) (n + 1)).invFun coeffs\nthis : Field (ZMod p)\n⊢ ((↑poly - C (eval z ↑poly)) / (X - C z)).degree < ↑(n + 1)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/AGM/Basic.lean#L171"
+      },
+      "metadata": {
+        "blame_email_hash": "d0850777cf0b",
+        "blame_date": "2025-03-15T21:13:06-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "c534afb405ae3da111dc0eeaac82ed68f4c00f6b8db24373c6d8d28b5e3837cb"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/CodingTheory/Basic.lean",
+        "start_line": 186,
+        "start_column": 33,
+        "end_line": 186,
+        "end_column": 38
+      },
+      "debug_info": {
+        "goal": "n : Type u_1\ninst✝² : Fintype n\nR : Type u_2\ninst✝¹ : DecidableEq R\nC : Set (n → R)\ninst✝ : Fintype ↑C\nh : ¬Subsingleton ↑C\n⊢ ‖C‖₀' ≠ ⊤",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/CodingTheory/Basic.lean#L186"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-13T15:41:38-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "4e0fe4a92c4308e458f5c765d7bebd7884c340950f868c5e997e0fe2d6cf5fcf"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/CodingTheory/Basic.lean",
+        "start_line": 187,
+        "start_column": 4,
+        "end_line": 187,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case neg\nn : Type u_1\ninst✝² : Fintype n\nR : Type u_2\ninst✝¹ : DecidableEq R\nC : Set (n → R)\ninst✝ : Fintype ↑C\nh : ¬Subsingleton ↑C\nthis : ‖C‖₀' ≠ ⊤\n⊢ ENat.toNat (Finset.image (fun x => Δ₀(↑x.1, ↑x.2)) {p | ¬p.1 = p.2}).min =\n    sInf {d | ∃ u ∈ C, ∃ v ∈ C, ¬u = v ∧ Δ₀(u, v) ≤ d}",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/CodingTheory/Basic.lean#L187"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-13T15:41:38-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "4953ae420846c5a963357638ba4ff22c74eed5357af94057a53b76ef01de35af"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/CodingTheory/Basic.lean",
+        "start_line": 231,
+        "start_column": 4,
+        "end_line": 231,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case e_a.h.h₁.intro.intro.intro.intro.intro\nn : Type u_1\ninst✝² : Fintype n\nR : Type u_2\ninst✝¹ : DecidableEq R\ninst✝ : CommSemiring R\nC : Submodule R (n → R)\nd : ℕ\nu : n → R\nhu : u ∈ C\nv : n → R\nhv : v ∈ C\nhuv : ¬u = v\nhDist : Δ₀(u, v) ≤ d\n⊢ ∃ u ∈ C, ¬u = 0 ∧ ‖u‖₀ ≤ d",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/CodingTheory/Basic.lean#L231"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-13T15:41:38-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "364cc2fb21b2d0eb8edaa1c71f58a6bbcd5357ec942efc9afb69fed74c0ae6f2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/CodingTheory/Basic.lean",
+        "start_line": 234,
+        "start_column": 4,
+        "end_line": 234,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "case e_a.h.h₂.intro.intro.intro\nn : Type u_1\ninst✝² : Fintype n\nR : Type u_2\ninst✝¹ : DecidableEq R\ninst✝ : CommSemiring R\nC : Submodule R (n → R)\nd : ℕ\nu : n → R\nhu : u ∈ C\nhNorm : ¬u = 0\nhDist : ‖u‖₀ ≤ d\n⊢ ∃ u ∈ C, ∃ v ∈ C, ¬u = v ∧ Δ₀(u, v) ≤ d",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/CodingTheory/Basic.lean#L234"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-13T15:41:38-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "181e8ea19edf25c9b118deb37e9cf8c0c8db1b4189a98e9fd5ee224157d5f577"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/CodingTheory/Basic.lean",
+        "start_line": 269,
+        "start_column": 67,
+        "end_line": 269,
+        "end_column": 72
+      },
+      "debug_info": {
+        "goal": "n : Type u_1\ninst✝² : Fintype n\nR : Type u_2\ninst✝¹ : DecidableEq R\ninst✝ : Finite R\nC : Set (n → R)\n⊢ card ↑C ≤ card R ^ (card n - ‖C‖₀ + 1)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/CodingTheory/Basic.lean#L269"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-26T22:44:38-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "d1f35d0fd5e4bbe9b6dcdba9f5e5969023e47bb7cb56469b8598b47db849cfaf"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/CodingTheory/Basic.lean",
+        "start_line": 275,
+        "start_column": 65,
+        "end_line": 275,
+        "end_column": 70
+      },
+      "debug_info": {
+        "goal": "n : Type u_1\ninst✝³ : Fintype n\nR : Type u_2\ninst✝² : DecidableEq R\ninst✝¹ : Finite R\ninst✝ : DivisionRing R\nC : Submodule R (n → R)\n⊢ Module.finrank R ↥C ≤ card n - ‖C.carrier‖₀ + 1",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/CodingTheory/Basic.lean#L275"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-26T22:44:38-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "8e83cbf18089be1be66c1ec72fb32dd8ba45efa0aaf9df00f76f6619968b98c2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Probability/Notation.lean",
+        "start_line": 70,
+        "start_column": 76,
+        "end_line": 70,
+        "end_column": 81
+      },
+      "debug_info": {
+        "goal": "F : Type\ninst✝¹ : Nonempty F\ninst✝ : Fintype F\n⊢ ↑(do\n          let x ← $ᵖ F\n          let y ← $ᵖ F\n          let z ← $ᵖ (F × F)\n          Pure.pure (z = (x, y)))\n      True =\n    1 / ↑(Fintype.card (F × F))",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Probability/Notation.lean#L70"
+      },
+      "metadata": {
+        "blame_email_hash": "d0850777cf0b",
+        "blame_date": "2025-05-06T23:33:56-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "a755e809e85c646e7e042b8b120e28847188f1515e8d6b30900127ec434448f1"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Equiv.lean",
+        "start_line": 34,
+        "start_column": 14,
+        "end_line": 34,
+        "end_column": 19
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝ : CommSemiring R\nn : ℕ\n⊢ Function.LeftInverse ofSpec toSpec",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Equiv.lean#L34"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "799c38802508780dbca489cc1a9b11932df76cdd79b8a645cb96e51509e3058e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Equiv.lean",
+        "start_line": 35,
+        "start_column": 15,
+        "end_line": 35,
+        "end_column": 20
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝ : CommSemiring R\nn : ℕ\n⊢ Function.RightInverse ofSpec toSpec",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Equiv.lean#L35"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "793807be2326fa8d59d3cc10f9863cf2c93d626e464bb051e9211230e76ee662"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Equiv.lean",
+        "start_line": 43,
+        "start_column": 2,
+        "end_line": 43,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝ : CommSemiring R\nn : ℕ\np q : MlPoly R n\n⊢ (p + q).toSpec = p.toSpec + q.toSpec",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Equiv.lean#L43"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "f1c2376d810d87f1ca9828a233872a0bfe3cfcb74de08f7d3fbdca9dc9c309aa"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Equiv.lean",
+        "start_line": 47,
+        "start_column": 2,
+        "end_line": 47,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝¹ : CommSemiring R\nn : ℕ\nS : Type u_2\ninst✝ : CommSemiring S\nf : R →+* S\np : MlPoly R n\nx : Vector S n\n⊢ p.eval₂ f x = MvPolynomial.eval₂ f x.get ↑p.toSpec",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Equiv.lean#L47"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "b790270f4e48a5b5f3ed14737bc8fedb2d98f2d738dc057076c8999b48919cfb"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 77,
+        "start_column": 2,
+        "end_line": 77,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝¹ : Mul R\ninst✝ : AddCommMonoid R\nn : ℕ\na : R\nb : Vector R n\nc : R\nd : Vector R n\n⊢ List.foldl (fun x1 x2 => x1 + x2) (a * c) (List.zipWith (fun x1 x2 => x1 * x2) b.toList d.toList) =\n    a * c + Array.foldl (fun x1 x2 => x1 + x2) 0 (Array.zipWith (fun x1 x2 => x1 * x2) b.toArray d.toArray) 0 n",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L77"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-14T11:09:39-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "c83ede4483e7e7d270e9e86e6d0094e98b8dfde1bb326a695cc9b042e3b3e29e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 81,
+        "start_column": 2,
+        "end_line": 81,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝¹ : Mul R\ninst✝ : AddCommMonoid R\nn : ℕ\na : R\nb : Vector R n\nc : R\nd : Vector R n\n⊢ (cons a b).get ⬝ᵥ (cons c d).get = a * c + b.get ⬝ᵥ d.get",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L81"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-14T11:09:39-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "e579378544752d9f3fa49552ea8862e759f206dfaf9f698e3d1259a96d776fed"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 138,
+        "start_column": 20,
+        "end_line": 138,
+        "end_column": 25
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : AddCommMonoid R\n⊢ ∀ (a b c : MlPoly R n), a + b + c = a + (b + c)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L138"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "1e99ff98577db5cc8dad8a16795fdcf4ecc4adcc000433096088f786362a624f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 141,
+        "start_column": 19,
+        "end_line": 141,
+        "end_column": 24
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : AddCommMonoid R\n⊢ ∀ (a : MlPoly R n), 0 + a = a",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L141"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "6a46bc37afacff026a65d4a8dbc45afbc685125784e7408b03db64750783f0be"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 142,
+        "start_column": 19,
+        "end_line": 142,
+        "end_column": 24
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : AddCommMonoid R\n⊢ ∀ (a : MlPoly R n), a + 0 = a",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L142"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "6dbccdffac069339d8b20c8afda149ca2aba2c14ce77e635a5c818ecc35ae32a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 144,
+        "start_column": 21,
+        "end_line": 144,
+        "end_column": 26
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : AddCommMonoid R\n⊢ ∀ (x : MlPoly R n), nsmul 0 x = 0",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L144"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "4fa5b9982c61fb37efbaff65a949cef4097d3b701ff41551cc717309b1eaa101"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 145,
+        "start_column": 21,
+        "end_line": 145,
+        "end_column": 26
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : AddCommMonoid R\n⊢ ∀ (n_1 : ℕ) (x : MlPoly R n), nsmul (n_1 + 1) x = nsmul n_1 x + x",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L145"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "af9df26f0e9997359867268ac42245c665a531feaa1252345c98b412259a0353"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 139,
+        "start_column": 19,
+        "end_line": 139,
+        "end_column": 24
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : AddCommMonoid R\n⊢ ∀ (a b : MlPoly R n), a + b = b + a",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L139"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "16c1a45f9d7ab39d2ef952afe783e8991f45b10ab25862932d60bf044428afaa"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 151,
+        "start_column": 17,
+        "end_line": 151,
+        "end_column": 22
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : Semiring R\n⊢ ∀ (b : MlPoly R n), 1 • b = b",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L151"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "99fc705044f38a0801ef5565337943191eac358c6004ac3e3e40e34ad68c60db"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MlPoly/Basic.lean",
+        "start_line": 156,
+        "start_column": 18,
+        "end_line": 156,
+        "end_column": 23
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\nn : ℕ\ninst✝ : Semiring R\n⊢ ∀ (x : MlPoly R n), 0 • x = 0",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MlPoly/Basic.lean#L156"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-28T11:45:54-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "153d697a464740cd1dd077fd91ab60df9748ca2ca5eed9df9313026f032bfdbd"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Fin.lean",
+        "start_line": 374,
+        "start_column": 43,
+        "end_line": 374,
+        "end_column": 48
+      },
+      "debug_info": {
+        "goal": "n : ℕ\nα : Fin n → Sort u\nl : List ℕ\nn' : ℕ\nl' : List ℕ\nmotive : Fin (n' :: l').sum → Sort u_1\ncases : (n : ℕ) → (h : n ∈ n' :: l') → (i : Fin n) → motive (castSum (n' :: l') h i)\ni : Fin (n' + l'.sum)\nhi : ¬↑i < n'\n⊢ ↑i - n' < l'.sum",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Fin.lean#L374"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-07T14:25:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "b763335ccdfae76dd64e48af3c5413b46602355f7fce8be397edd69fa9e87e45"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Fin.lean",
+        "start_line": 402,
+        "start_column": 16,
+        "end_line": 402,
+        "end_column": 21
+      },
+      "debug_info": {
+        "goal": "case ind\nn✝ n : ℕ\nIH : ∀ m < n, ∀ {a : Fin m → ℕ}, (List.ofFn fun i => List.ofFn (ranges a i)) = (List.ofFn a).ranges\na : Fin n → ℕ\n⊢ (List.ofFn fun i => List.ofFn (ranges a i)) = (List.ofFn a).ranges",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Fin.lean#L402"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-11T17:39:02-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "72aca9aa998b4f08cd1005d31f321b24b7e10d07d8bbc906b72ba1389588f487"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Fin.lean",
+        "start_line": 497,
+        "start_column": 32,
+        "end_line": 497,
+        "end_column": 37
+      },
+      "debug_info": {
+        "goal": "⊢ True",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Fin.lean#L497"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-11T17:39:02-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "6b18ee8a776cc302a0b9b4d6573800db611fb069612beadf5544e86b7201771e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Fin.lean",
+        "start_line": 499,
+        "start_column": 35,
+        "end_line": 499,
+        "end_column": 40
+      },
+      "debug_info": {
+        "goal": "⊢ True",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Fin.lean#L499"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-11T17:39:02-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "63f6f0f6554b272faa64324f98dd411fbeaae23b905beb929fc59ac31ae89774"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Fin.lean",
+        "start_line": 501,
+        "start_column": 36,
+        "end_line": 501,
+        "end_column": 41
+      },
+      "debug_info": {
+        "goal": "⊢ True",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Fin.lean#L501"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-11T17:39:02-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "4b379ec1916bf01613a370b5ded5d94a28721301aa4d6d9c35bdc65d1727b76e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Fin.lean",
+        "start_line": 557,
+        "start_column": 4,
+        "end_line": 557,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "l : List ℕ\nj a : ℕ\nl' : List ℕ\nh : j < a + l'.sum\n⊢ ∃ n, (a :: l').findSum j = some n",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Fin.lean#L557"
+      },
+      "metadata": {
+        "blame_email_hash": "d0850777cf0b",
+        "blame_date": "2025-03-14T00:01:07-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "5eeadb9c80335500e7bc6565790970e1131e2e6c2ecf3c0623098a09ef1dda48"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Fin.lean",
+        "start_line": 569,
+        "start_column": 80,
+        "end_line": 569,
+        "end_column": 85
+      },
+      "debug_info": {
+        "goal": "α : Type u_1\ninst✝² : AddMonoid α\ninst✝¹ : Preorder α\ninst✝ : DecidableRel fun x1 x2 => x1 < x2\nl : List ℕ\nj : Fin l.sum\n⊢ l.findSumIdx ↑j < l.length",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Fin.lean#L569"
+      },
+      "metadata": {
+        "blame_email_hash": "d0850777cf0b",
+        "blame_date": "2025-03-14T00:01:07-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "dd28583fb9aa300dab781e4003ddb2340844828b1fcd1b53e9c097cbbe9f68fe"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Operations.lean",
+        "start_line": 155,
+        "start_column": 2,
+        "end_line": 155,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "α : Type u_1\nunit : α\nl l' : List α\nm n n' : ℕ\nh : n ≤ m\nh' : n' ≤ m\nhEq : rightpad n unit l = rightpad n' unit l'\nhLen : n ⊔ l.length = n' ⊔ l'.length\n⊢ l ++ replicate (n - l.length + (m - n' ⊔ l'.length)) unit =\n    l' ++ replicate (n' - l'.length + (m - n' ⊔ l'.length)) unit",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Operations.lean#L155"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-13T15:41:38-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "056b78789a71a5e470ccc90132db8e078c43f06bbabe0317e068b867363d1ae4"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Operations.lean",
+        "start_line": 209,
+        "start_column": 5,
+        "end_line": 209,
+        "end_column": 10
+      },
+      "debug_info": {
+        "goal": "α : Type u_1\nl₁ l₂ : List α\nunit : α\n⊢ (fun x =>\n        match x with\n        | (x, y) => x = y)\n      (l₁.matchSize l₂ unit) ↔\n    ∀ (i : ℕ), l₁.getD i unit = l₂.getD i unit",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Operations.lean#L209"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-14T17:35:17-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "18dfbfd0e628a00b47a2cfc5c6d2fac7f3f0476cda2033376678c89477c299fc"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Operations.lean",
+        "start_line": 257,
+        "start_column": 2,
+        "end_line": 257,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "α : Type u_1\na : Array α\nn : ℕ\nunit : α\ni : ℕ\nh✝ : i < (rightpad n unit a).size\nh : i < { toList := List.rightpad n unit a.toList }.size\n⊢ { toList := List.rightpad n unit a.toList }[i] = a.getD i unit",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Operations.lean#L257"
+      },
+      "metadata": {
+        "blame_email_hash": "0c5d39c5ece3",
+        "blame_date": "2025-03-09T23:22:53-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "e11132e3fccb44e59b2af9c79da10c880797988a0cf1b7c6d3a1ea903c5659ac"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/Math/Operations.lean",
+        "start_line": 391,
+        "start_column": 75,
+        "end_line": 391,
+        "end_column": 80
+      },
+      "debug_info": {
+        "goal": "α : Type u_1\np : α → Bool\nas : Array α\nh : (popWhile p as).size > 0\n⊢ ¬p ((popWhile p as).getLast h) = true",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/Math/Operations.lean#L391"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-14T17:35:17-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "3db198c4a1f03f981e6978465299bde86485a615a4a96a351fdb435181e17e7f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MvPolynomial/Sumcheck.lean",
+        "start_line": 75,
+        "start_column": 2,
+        "end_line": 75,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝ : CommSemiring R\nσ : Type u_3\nσ₁ : Type u_4\nσ₂ : Type u_5\nx : σ₁ → R\nf : σ → σ₁ ⊕ σ₂\np : R[X σ]\nb : σ₁ →₀ ℕ\nh : ¬coeff b ((sumToIter R σ₁ σ₂) ((rename f) p)) = 0\n⊢ (coeff b ((sumToIter R σ₁ σ₂) ((rename f) p))).degrees ≤ Multiset.filterMap Sum.getRight? (Multiset.map f p.degrees)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MvPolynomial/Sumcheck.lean#L75"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-16T12:52:41-06:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "475b2b602ae748f14ccdd19f0792c1b279050115a01faaad44522e02ba0c90f6"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MvPolynomial/Sumcheck.lean",
+        "start_line": 112,
+        "start_column": 2,
+        "end_line": 112,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type u_1\ninst✝ : CommSemiring R\nn : ℕ\nh : n > 0\nD : Fin (n - 1) → Finset R\np : R[X Fin n]\n⊢ ((sumExceptFirst' n h D) p).degree ≤ ↑(degreeOf ⟨0, h⟩ p)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MvPolynomial/Sumcheck.lean#L112"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-09-13T15:50:48-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "fcd58141b72b31e708d9b85c95a2e0a8d328d687bfdab10345feafeb5bf8f5c7"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MvPolynomial/Interpolation.lean",
+        "start_line": 69,
+        "start_column": 58,
+        "end_line": 69,
+        "end_column": 63
+      },
+      "debug_info": {
+        "goal": "σ : Type u_1\ninst✝⁴ : DecidableEq σ\ninst✝³ : Fintype σ\nR : Type u_2\ninst✝² : CommRing R\ninst✝¹ : IsDomain R\ninst✝ : DecidableEq R\np : R[X σ]\nhp : p ≠ 0\nS : σ → Finset R\n⊢ ↑(#({x ∈ p.vars.pi S | (eval (extendDomain x)) p = 0})) / ∏ i ∈ p.vars, ↑(#(S i)) ≤\n    ∑ i ∈ p.vars, ↑(degreeOf i p) / ↑(#(S i))",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MvPolynomial/Interpolation.lean#L69"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-30T15:40:43-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "0a066c79ee675d2faa880a11f66b7bbc753420bf174f0e585c9e3bc2da7ef6e3"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/MvPolynomial/Interpolation.lean",
+        "start_line": 171,
+        "start_column": 76,
+        "end_line": 171,
+        "end_column": 81
+      },
+      "debug_info": {
+        "goal": "σ : Type u_1\ninst✝³ : DecidableEq σ\ninst✝² : Fintype σ\nR : Type u_2\ninst✝¹ : CommRing R\ninst✝ : IsDomain R\np q : R[X σ]\nS : σ → Finset R\nhDegree : ∀ (i : σ), degreeOf i p < #(S i)\nhEval : ∀ x ∈ piFinset fun i => S i, (eval x) p = (eval x) q\n⊢ p = q",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/MvPolynomial/Interpolation.lean#L171"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-10-30T15:40:43-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "470a5645a1664c3b35bd414f6bee1eb28fb0db92da4584a285124b28f3b8aadf"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/UniPoly/Basic.lean",
+        "start_line": 571,
+        "start_column": 2,
+        "end_line": 571,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "Q : Type u_2\ninst✝ : Ring Q\np q : UniPoly Q\ni : ℕ\nhi : i < Array.size (p.add_raw q)\n⊢ (p ++ mkArray (Array.size q - Array.size p) 0)[i] + (q ++ mkArray (Array.size p - Array.size q) 0)[i] =\n    p[i]?.getD 0 + q[i]?.getD 0",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/UniPoly/Basic.lean#L571"
+      },
+      "metadata": {
+        "blame_email_hash": "0c5d39c5ece3",
+        "blame_date": "2025-03-09T23:22:53-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "0b845d2293c434d0994775bc927235869d83cdda430ad0eacf1b71550c906029"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/UniPoly/Basic.lean",
+        "start_line": 899,
+        "start_column": 4,
+        "end_line": 899,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "Q : Type u_2\ninst✝ : Ring Q\np q r : UniPoly Q\nhpq : p ++ mkArray (Array.size q - Array.size p) 0 = q ++ mkArray (Array.size p - Array.size q) 0\nhqr : q ++ mkArray (Array.size r - Array.size q) 0 = r ++ mkArray (Array.size q - Array.size r) 0\n⊢ p ++ mkArray (Array.size r - Array.size p) 0 = r ++ mkArray (Array.size p - Array.size r) 0",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/UniPoly/Basic.lean#L899"
+      },
+      "metadata": {
+        "blame_email_hash": "0c5d39c5ece3",
+        "blame_date": "2025-03-09T23:22:53-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "733480bf5c2c870e60fe387dccdfdde981e5d91a5446b6d1ec8a50e84ad950ae"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/UniPoly/Basic.lean",
+        "start_line": 975,
+        "start_column": 6,
+        "end_line": 975,
+        "end_column": 11
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : Ring R\ninst✝ : BEq R\np : UniPoly R\n⊢ (p.toPoly, Tropical.trop (OrderDual.toDual p.degreeBound)) ∈ TropicallyBoundPoly R",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/UniPoly/Basic.lean#L975"
+      },
+      "metadata": {
+        "blame_email_hash": "ab200eba5736",
+        "blame_date": "2025-03-12T19:59:09-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "61bc8ca15479394304457e84e855bf48693dd0a10a1ac6a44b4d0a255400412d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/UniPoly/Basic.lean",
+        "start_line": 1005,
+        "start_column": 22,
+        "end_line": 1005,
+        "end_column": 27
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : BEq R\ninst✝ : Ring R\n⊢ Function.RightInverse TropicallyBoundPolynomial.toUniPoly UniPoly.toTropicallyBoundPolynomial",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/UniPoly/Basic.lean#L1005"
+      },
+      "metadata": {
+        "blame_email_hash": "94b4cc0e139f",
+        "blame_date": "2024-05-31T16:31:08-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "111e9542047e25b1ed5b9f718bb223a31a6b5055299c902a3f3b17083e84dbbd"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/UniPoly/Basic.lean",
+        "start_line": 1006,
+        "start_column": 21,
+        "end_line": 1006,
+        "end_column": 26
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : BEq R\ninst✝ : Ring R\n⊢ ∀ (x y : UniPoly R),\n    { toFun := UniPoly.toTropicallyBoundPolynomial, invFun := TropicallyBoundPolynomial.toUniPoly, left_inv := ⋯,\n            right_inv := ⋯ }.toFun\n        (x * y) =\n      { toFun := UniPoly.toTropicallyBoundPolynomial, invFun := TropicallyBoundPolynomial.toUniPoly, left_inv := ⋯,\n              right_inv := ⋯ }.toFun\n          x *\n        { toFun := UniPoly.toTropicallyBoundPolynomial, invFun := TropicallyBoundPolynomial.toUniPoly, left_inv := ⋯,\n              right_inv := ⋯ }.toFun\n          y",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/UniPoly/Basic.lean#L1006"
+      },
+      "metadata": {
+        "blame_email_hash": "94b4cc0e139f",
+        "blame_date": "2024-05-31T16:31:08-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "77563b11762c76231d5c79dfcf0e68d7f8fb78f0369bd0069ca5fe850dc4c3e4"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/Data/UniPoly/Basic.lean",
+        "start_line": 1007,
+        "start_column": 21,
+        "end_line": 1007,
+        "end_column": 26
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : BEq R\ninst✝ : Ring R\n⊢ ∀ (x y : UniPoly R),\n    { toFun := UniPoly.toTropicallyBoundPolynomial, invFun := TropicallyBoundPolynomial.toUniPoly, left_inv := ⋯,\n            right_inv := ⋯ }.toFun\n        (x + y) =\n      { toFun := UniPoly.toTropicallyBoundPolynomial, invFun := TropicallyBoundPolynomial.toUniPoly, left_inv := ⋯,\n              right_inv := ⋯ }.toFun\n          x +\n        { toFun := UniPoly.toTropicallyBoundPolynomial, invFun := TropicallyBoundPolynomial.toUniPoly, left_inv := ⋯,\n              right_inv := ⋯ }.toFun\n          y",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/Data/UniPoly/Basic.lean#L1007"
+      },
+      "metadata": {
+        "blame_email_hash": "94b4cc0e139f",
+        "blame_date": "2024-05-31T16:31:08-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "ae839a34336096365d4f0c55ebf4a1afe6cc750370b997db50d1e8bebd9f2c4b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Sequential.lean",
+        "start_line": 254,
+        "start_column": 2,
+        "end_line": 254,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "case h\nm n : ℕ\npSpec₁ : ProtocolSpec m\npSpec₂ : ProtocolSpec n\nT : pSpec₁.FullTranscript\nT' : pSpec₂.FullTranscript\ni : Fin m\n⊢ _root_.cast ⋯ (T i) = (⋯ ▸ T) i",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Sequential.lean#L254"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-07T12:49:22-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "af1a7bba5ec787dbbbaf6e981b8ba5c8e98cd9706e9f9fa09cea71347aefd312"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Sequential.lean",
+        "start_line": 559,
+        "start_column": 55,
+        "end_line": 559,
+        "end_column": 60
+      },
+      "debug_info": {
+        "goal": "n : ℕ\npSpec : ProtocolSpec n\n⊢ (compose 0 (fun x => n) fun x => pSpec) = pSpec",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Sequential.lean#L559"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-18T18:57:31+07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "743b134e1168b80238bb9ec5f21f4ed0b775307bf76b5f2b9bf381a9483544a1"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Sequential.lean",
+        "start_line": 575,
+        "start_column": 2,
+        "end_line": 575,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "m : ℕ\nn : Fin (m + 1) → ℕ\npSpec : (i : Fin (m + 1)) → ProtocolSpec (n i)\ni : Fin m\n⊢ compose (↑i + 1) (Fin.take (↑i + 2) ⋯ n) (Fin.take (↑i + 2) ⋯ pSpec) =\n    cast ⋯ (compose (↑i) (Fin.take (↑i + 1) ⋯ n) (Fin.take (↑i + 1) ⋯ pSpec) ++ₚ pSpec i.succ)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Sequential.lean#L575"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-12-06T19:22:58-03:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "51b05cbd8dc06ee8e51d9373edd4f8964c15e685f8f66daa73b2677a6cf5318c"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Sequential.lean",
+        "start_line": 702,
+        "start_column": 2,
+        "end_line": 702,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "m n : ℕ\npSpec₁ : ProtocolSpec m\npSpec₂ : ProtocolSpec n\nι : Type\ninst✝³ : DecidableEq ι\noSpec : OracleSpec ι\nStmt₁ Wit₁ Stmt₂ Wit₂ Stmt₃ Wit₃ : Type\nOₘ₁ : (i : pSpec₁.MessageIdx) → OracleInterface (pSpec₁.Message i)\nOₘ₂ : (i : pSpec₂.MessageIdx) → OracleInterface (pSpec₂.Message i)\ninst✝² : (i : pSpec₁.ChallengeIdx) → Sampleable (pSpec₁.Challenge i)\ninst✝¹ : (i : pSpec₂.ChallengeIdx) → Sampleable (pSpec₂.Challenge i)\ninst✝ : oSpec.DecidableEq\nP₁ : Prover pSpec₁ oSpec Stmt₁ Wit₁ Stmt₂ Wit₂\nP₂ : Prover pSpec₂ oSpec Stmt₂ Wit₂ Stmt₃ Wit₃\nstmt : Stmt₁\nwit : Wit₁\n⊢ run stmt wit (P₁.append P₂) = do\n    let __discr ← liftM (run stmt wit P₁)\n    match __discr with\n      | (stmt₂, wit₂, transcript₁) => do\n        let __discr ← liftM (run stmt₂ wit₂ P₂)\n        match __discr with\n          | (stmt₃, wit₃, transcript₂) => pure (stmt₃, wit₃, transcript₁ ++ₜ transcript₂)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Sequential.lean#L702"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-12-28T16:03:02+07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "5c18bac053097eddc36755afc0d2970e52ae5a1ce395c579782532f80a606fa4"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Sequential.lean",
+        "start_line": 728,
+        "start_column": 89,
+        "end_line": 728,
+        "end_column": 94
+      },
+      "debug_info": {
+        "goal": "m n : ℕ\nι : Type\ninst✝⁴ : DecidableEq ι\noSpec : OracleSpec ι\npSpec₁ : ProtocolSpec m\npSpec₂ : ProtocolSpec n\ninst✝³ : (i : pSpec₁.ChallengeIdx) → Sampleable (pSpec₁.Challenge i)\ninst✝² : (i : pSpec₂.ChallengeIdx) → Sampleable (pSpec₂.Challenge i)\nStmt₁ Wit₁ Stmt₂ Wit₂ Stmt₃ Wit₃ : Type\nrel₁ : Stmt₁ → Wit₁ → Prop\nrel₂ : Stmt₂ → Wit₂ → Prop\nrel₃ : Stmt₃ → Wit₃ → Prop\ninst✝¹ : oSpec.DecidableEq\ninst✝ : oSpec.FiniteRange\nR₁ : Reduction pSpec₁ oSpec Stmt₁ Wit₁ Stmt₂ Wit₂\nR₂ : Reduction pSpec₂ oSpec Stmt₂ Wit₂ Stmt₃ Wit₃\ncompletenessError₁ completenessError₂ : ℝ≥0\nh₁ : completeness rel₁ rel₂ R₁ completenessError₁\nh₂ : completeness rel₂ rel₃ R₂ completenessError₂\n⊢ completeness rel₁ rel₃ (R₁.append R₂) (completenessError₁ + completenessError₂)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Sequential.lean#L728"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-12-01T17:09:18-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "e0acdcd5d4132d63220a538bfc9cb2a52e0793e76890e562b89b0b861dae4be2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Sequential.lean",
+        "start_line": 755,
+        "start_column": 38,
+        "end_line": 755,
+        "end_column": 43
+      },
+      "debug_info": {
+        "goal": "ι : Type\ninst✝³ : DecidableEq ι\noSpec : OracleSpec ι\nm : ℕ\nn : Fin (m + 1) → ℕ\npSpec : (i : Fin (m + 1)) → ProtocolSpec (n i)\ninst✝² : (i : Fin (m + 1)) → (j : (pSpec i).ChallengeIdx) → Sampleable ((pSpec i).Challenge j)\nStmt Wit : Fin (m + 2) → Type\nrel : (i : Fin (m + 2)) → Stmt i → Wit i → Prop\ninst✝¹ : oSpec.DecidableEq\ninst✝ : oSpec.FiniteRange\nR : (i : Fin (m + 1)) → Reduction (pSpec i) oSpec (Stmt i.castSucc) (Wit i.castSucc) (Stmt i.succ) (Wit i.succ)\ncompletenessError : Fin (m + 1) → ℝ≥0\nh : ∀ (i : Fin (m + 1)), completeness (rel i.castSucc) (rel i.succ) (R i) (completenessError i)\n⊢ completeness (rel 0) (rel (Fin.last (m + 1))) (compose m n pSpec Stmt Wit R) (∑ i, completenessError i)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Sequential.lean#L755"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-12-06T19:22:58-03:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "17325c090f53afc7942fa2844c667765e34120c3dafe95d7729f92c8d4b77c58"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Virtual.lean",
+        "start_line": 151,
+        "start_column": 2,
+        "end_line": 151,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\npSpec : ProtocolSpec n\nι : Type\ninst✝² : DecidableEq ι\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut' : Type\ninst✝¹ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\ninst✝ : oSpec.FiniteRange\ndata : TransportData StmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut'\nstmtIn : StmtIn\nwitIn : WitIn\nP : Prover pSpec oSpec StmtIn' WitIn' StmtOut' WitOut'\n⊢ (fun a =>\n        (data.fStmtOut (a.2.2.1, (P.toProverOut.1 a.2.1).1), data.fWitOut (a.2.2.2, (P.toProverOut.1 a.2.1).2),\n          a.1)) <$>\n      Fin.induction (pure (default, P.input (data.fStmtIn stmtIn) (data.fWitIn witIn), stmtIn, witIn))\n        (fun j ih => do\n          let __discr ← ih\n          match hDir : (pSpec j).1 with\n            | Direction.V_to_P =>\n              (fun a => (Transcript.snoc a __discr.1, P.receiveChallenge ⟨j, hDir⟩ __discr.2.1 a, __discr.2.2)) <$>\n                liftM (query (Sum.inr ⟨j, hDir⟩) ())\n            | Direction.P_to_V =>\n              (fun a => (Transcript.snoc a.1 __discr.1, a.2, __discr.2.2)) <$>\n                (P.sendMessage ⟨j, hDir⟩ __discr.2.1).liftComp (oSpec ++ₒ [pSpec.Challenge]ₒ))\n        (Fin.last n) =\n    (fun a => (data.fStmtOut (stmtIn, (P.toProverOut.1 a.2).1), data.fWitOut (witIn, (P.toProverOut.1 a.2).2), a.1)) <$>\n      Fin.induction (pure (default, P.input (data.fStmtIn stmtIn) (data.fWitIn witIn)))\n        (fun j ih => do\n          let __discr ← ih\n          match hDir : (pSpec j).1 with\n            | Direction.V_to_P =>\n              (fun a => (Transcript.snoc a __discr.1, P.receiveChallenge ⟨j, hDir⟩ __discr.2 a)) <$>\n                liftM (query (Sum.inr ⟨j, hDir⟩) ())\n            | Direction.P_to_V =>\n              (fun a => (Transcript.snoc a.1 __discr.1, a.2)) <$>\n                (P.sendMessage ⟨j, hDir⟩ __discr.2).liftComp (oSpec ++ₒ [pSpec.Challenge]ₒ))\n        (Fin.last n)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Virtual.lean#L151"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "2b4820efa935cf34960acf8447117b31ee2cba85305f62b20a6a2dff3b0ae56e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Virtual.lean",
+        "start_line": 164,
+        "start_column": 2,
+        "end_line": 164,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\npSpec : ProtocolSpec n\nι : Type\ninst✝² : DecidableEq ι\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut' : Type\ninst✝¹ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\ninst✝ : oSpec.FiniteRange\ndata : TransportData StmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut'\nstmtIn : StmtIn\nwitIn : WitIn\nR : Reduction pSpec oSpec StmtIn' WitIn' StmtOut' WitOut'\n⊢ (do\n      let a ← Prover.run (data.fStmtIn stmtIn) (data.fWitIn witIn) R.prover\n      (fun a_1 => ((data.fStmtOut (stmtIn, a.1), data.fWitOut (witIn, a.2.1)), a_1, a.2.2)) <$>\n          (Verifier.run stmtIn a.2.2\n                {\n                  verify := fun stmtIn transcript =>\n                    (fun a => data.fStmtOut (stmtIn, a)) <$>\n                      R.verifier.verify (data.fStmtIn stmtIn) transcript }).liftComp\n            (oSpec ++ₒ [pSpec.Challenge]ₒ)) =\n    do\n    let a ← Prover.run (data.fStmtIn stmtIn) (data.fWitIn witIn) R.prover\n    (fun a_1 => ((data.fStmtOut (stmtIn, a.1), data.fWitOut (witIn, a.2.1)), data.fStmtOut (stmtIn, a_1), a.2.2)) <$>\n        (Verifier.run (data.fStmtIn stmtIn) a.2.2 R.verifier).liftComp (oSpec ++ₒ [pSpec.Challenge]ₒ)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Virtual.lean#L164"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "3e924d1ac4edb29a694c9448457f768d4f43e37e819f7501ed6ef1799facf541"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Virtual.lean",
+        "start_line": 177,
+        "start_column": 2,
+        "end_line": 177,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\npSpec : ProtocolSpec n\nι : Type\ninst✝² : DecidableEq ι\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut' : Type\ninst✝¹ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\ninst✝ : oSpec.FiniteRange\ndata : TransportData StmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut'\nstmtIn : StmtIn\nwitIn : WitIn\nR : Reduction pSpec oSpec StmtIn' WitIn' StmtOut' WitOut'\n⊢ (do\n      let __discr ← Prover.runWithLog stmtIn witIn (Prover.transport data R.prover)\n      (fun a => ((__discr.1, __discr.2.1), a.1, __discr.2.2.1, __discr.2.2.2, a.2)) <$>\n          (simulateQ loggingOracle\n                  (Verifier.run stmtIn __discr.2.2.1\n                    {\n                      verify := fun stmtIn transcript =>\n                        (fun a => data.fStmtOut (stmtIn, a)) <$>\n                          R.verifier.verify (data.fStmtIn stmtIn) transcript })).run.liftComp\n            (oSpec ++ₒ [pSpec.Challenge]ₒ)) =\n    do\n    let a ← Prover.runWithLog (data.fStmtIn stmtIn) (data.fWitIn witIn) R.prover\n    (fun a_1 =>\n          ((data.fStmtOut (stmtIn, a.1), data.fWitOut (witIn, a.2.1)), data.fStmtOut (stmtIn, a_1.1), a.2.2.1, a.2.2.2,\n            a_1.2)) <$>\n        (simulateQ loggingOracle (Verifier.run (data.fStmtIn stmtIn) a.2.2.1 R.verifier)).run.liftComp\n          (oSpec ++ₒ [pSpec.Challenge]ₒ)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Virtual.lean#L177"
+      },
+      "metadata": {
+        "blame_email_hash": "0c5d39c5ece3",
+        "blame_date": "2025-03-09T23:22:53-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "ea58b9adc2f12c1acee92b75886772c346da57a25183e6d9add5e9fa8654598b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Virtual.lean",
+        "start_line": 201,
+        "start_column": 2,
+        "end_line": 201,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\npSpec : ProtocolSpec n\nι : Type\ninst✝² : DecidableEq ι\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut' : Type\ninst✝¹ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\ninst✝ : oSpec.FiniteRange\nrelIn : StmtIn → WitIn → Prop\nrelOut : StmtOut → WitOut → Prop\nrelIn' : StmtIn' → WitIn' → Prop\nrelOut' : StmtOut' → WitOut' → Prop\ncompletenessError : ℝ≥0\ndata : TransportDataComplete StmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut' relIn relIn' relOut relOut'\nR : Reduction pSpec oSpec StmtIn' WitIn' StmtOut' WitOut'\nh :\n  ∀ (stmtIn : StmtIn') (witIn : WitIn'),\n    relIn' stmtIn witIn →\n      [fun x =>\n          match x with\n          | ((prvStmtOut, witOut), stmtOut, snd) => relOut' stmtOut witOut ∧ prvStmtOut = stmtOut|run stmtIn witIn R] ≥\n        1 - ↑completenessError\nstmtIn : StmtIn\nwitIn : WitIn\nhRelIn : relIn stmtIn witIn\nhR :\n  [fun x =>\n      match x with\n      | ((prvStmtOut, witOut), stmtOut, snd) =>\n        relOut' stmtOut witOut ∧ prvStmtOut = stmtOut|run (data.fStmtIn stmtIn) (data.fWitIn witIn) R] ≥\n    1 - ↑completenessError\nx✝ : (StmtOut' × WitOut') × StmtOut' × pSpec.FullTranscript\na✝ : x✝ ∈ (run (data.fStmtIn stmtIn) (data.fWitIn witIn) R).support\nhRelOut' : relOut' x✝.2.1 x✝.1.2 ∧ x✝.1.1 = x✝.2.1\n⊢ ((fun x => relOut x.2.1 x.1.2 ∧ x.1.1 = x.2.1) ∘ fun a =>\n      ((data.fStmtOut (stmtIn, a.1.1), data.fWitOut (witIn, a.1.2)), data.fStmtOut (stmtIn, a.2.1), a.2.2))\n    x✝",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Virtual.lean#L201"
+      },
+      "metadata": {
+        "blame_email_hash": "d0850777cf0b",
+        "blame_date": "2025-04-22T09:32:10-04:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "c91fa6120e786ce22c2034aba2ef8db85bc075f48e0098ddd6d9199dcc640a38"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Virtual.lean",
+        "start_line": 215,
+        "start_column": 2,
+        "end_line": 215,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\npSpec : ProtocolSpec n\nι : Type\ninst✝² : DecidableEq ι\noSpec : OracleSpec ι\nStmtIn StmtOut StmtIn' StmtOut' : Type\ninst✝¹ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\ninst✝ : oSpec.FiniteRange\nlangIn : Set StmtIn\nlangOut : Set StmtOut\nlangIn' : Set StmtIn'\nlangOut' : Set StmtOut'\nsoundnessError : ℝ≥0\ndata : TransportDataSound StmtIn StmtOut StmtIn' StmtOut' langIn langOut langIn' langOut'\nV : Verifier pSpec oSpec StmtIn' StmtOut'\nh :\n  ∀ (WitIn WitOut : Type) (witIn : WitIn) (prover : Prover pSpec oSpec StmtIn' WitIn StmtOut' WitOut),\n    ∀ stmtIn ∉ langIn',\n      [fun x =>\n          match x with\n          | (fst, stmtOut, snd) => stmtOut ∉ langOut'|run stmtIn witIn { prover := prover, verifier := V }] ≤\n        ↑soundnessError\nstmtIn hStmtIn : Type\nWitIn : stmtIn\nWitOut : Prover pSpec oSpec StmtIn stmtIn StmtOut hStmtIn\nwitIn : StmtIn\nprover : witIn ∉ langIn\n⊢ [fun x =>\n      match x with\n      | (fst, stmtOut, snd) =>\n        stmtOut ∉\n          langOut|run witIn WitIn { prover := WitOut, verifier := Verifier.transport data.toTransportStatement V }] ≤\n    ↑soundnessError",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Virtual.lean#L215"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "1a07a6db1274471dac33cb8ce5b04db9434409105a6afc8e1e60019c82f9dc83"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Virtual.lean",
+        "start_line": 229,
+        "start_column": 2,
+        "end_line": 234,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "case intro\nn : ℕ\npSpec : ProtocolSpec n\nι : Type\ninst✝² : DecidableEq ι\noSpec : OracleSpec ι\nStmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut' : Type\ninst✝¹ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\ninst✝ : oSpec.FiniteRange\nrelIn : StmtIn → WitIn → Prop\nrelOut : StmtOut → WitOut → Prop\nrelIn' : StmtIn' → WitIn' → Prop\nrelOut' : StmtOut' → WitOut' → Prop\nsoundnessError : ℝ≥0\ndata :\n  TransportDataKnowledgeSound StmtIn WitIn StmtOut WitOut StmtIn' WitIn' StmtOut' WitOut' relIn relIn' relOut relOut'\nV : Verifier pSpec oSpec StmtIn' StmtOut'\nE : StraightlineExtractor\nh' :\n  ∀ (stmtIn : StmtIn') (witIn : WitIn') (prover : Prover pSpec oSpec StmtIn' WitIn' StmtOut' WitOut'),\n    [fun x =>\n        match x with\n        | ((fst, witOut), stmtOut, transcript, proveQueryLog, snd) =>\n          ¬relIn' stmtIn (E stmtIn stmtOut witOut transcript proveQueryLog) ∧\n            relOut' stmtOut witOut|runWithLog stmtIn witIn { prover := prover, verifier := V }] ≤\n      ↑soundnessError\n⊢ ∃ extractor,\n    ∀ (stmtIn : StmtIn) (witIn : WitIn) (prover : Prover pSpec oSpec StmtIn WitIn StmtOut WitOut),\n      [fun x =>\n          match x with\n          | ((fst, witOut), stmtOut, transcript, proveQueryLog, snd) =>\n            ¬relIn stmtIn (extractor stmtIn stmtOut witOut transcript proveQueryLog) ∧\n              relOut stmtOut\n                witOut|runWithLog stmtIn witIn\n            { prover := prover, verifier := Verifier.transport data.toTransportStatement V }] ≤\n        ↑soundnessError",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Virtual.lean#L229"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "f3f48c5d00e8ad842a0bb86e1a87e39d2dc6e8e10955f9628a971ec0c6453642"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Composition/Virtual.lean",
+        "start_line": 278,
+        "start_column": 4,
+        "end_line": 278,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "x✝³ : StmtIn\nx✝² : Unit\nx✝¹ : StmtOut'\nx✝ : Unit\np q : ℤ[X]\nt : ℤ\nf : ℤ[X]\nt' r : ℤ\nhRelOut' : eval r f = t'\nhRelIn : eval 0 p * eval 0 q + eval 1 p * eval 1 q = t\n⊢ eval r p * eval r q = t'",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Composition/Virtual.lean#L278"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:31:31-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "3e46132cc143af09834e39849a14b785ad61a17316af145d2b1edd4f8e1859f2"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Security/Basic.lean",
+        "start_line": 389,
+        "start_column": 2,
+        "end_line": 389,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\nι : Type\npSpec : ProtocolSpec n\noSpec : OracleSpec ι\ninst✝¹ : oSpec.FiniteRange\ninst✝ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\nStmtIn WitIn StmtOut WitOut : Type\nrelIn : StmtIn → WitIn → Prop\nrelOut : StmtOut → WitOut → Prop\nverifier : Verifier pSpec oSpec StmtIn StmtOut\nknowledgeError : ℝ≥0\nhLt : knowledgeError < 1\nextractor : StraightlineExtractor\nhKS :\n  ∀ (stmtIn : StmtIn) (witIn : WitIn) (prover : Prover pSpec oSpec StmtIn WitIn StmtOut WitOut),\n    [fun x =>\n        ¬relIn stmtIn (extractor stmtIn x.2.1 x.1.2 x.2.2.1 x.2.2.2.1) ∧\n          relOut x.2.1 x.1.2|runWithLog stmtIn witIn { prover := prover, verifier := verifier }] ≤\n      ↑knowledgeError\nWitIn' WitOut' : Type\nwitIn' : WitIn'\nprover : Prover pSpec oSpec StmtIn WitIn' StmtOut WitOut'\nstmtIn : StmtIn\nhStmtIn : ∀ (x : WitIn), ¬relIn stmtIn x\n⊢ [fun x => ∀ (x_1 : WitOut), ¬relOut x.2.1 x_1|run stmtIn witIn' { prover := prover, verifier := verifier }] ≤\n    ↑knowledgeError",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Security/Basic.lean#L389"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "ede022bf07ffd3e782a209be375fc836ac46a632ec8f1d83b6a51b654de418a1"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Security/Basic.lean",
+        "start_line": 409,
+        "start_column": 75,
+        "end_line": 409,
+        "end_column": 80
+      },
+      "debug_info": {
+        "goal": "n : ℕ\nι : Type\npSpec : ProtocolSpec n\noSpec : OracleSpec ι\ninst✝¹ : oSpec.FiniteRange\ninst✝ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\nStmtIn StmtOut : Type\nlangIn : Set StmtIn\nlangOut : Set StmtOut\nverifier : Verifier pSpec oSpec StmtIn StmtOut\nrbrSoundnessError : pSpec.ChallengeIdx → ℝ≥0\n⊢ rbrSoundness langIn langOut verifier rbrSoundnessError → soundness langIn langOut verifier (∑ i, rbrSoundnessError i)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Security/Basic.lean#L409"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-28T13:43:25-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "a01f69f624cb674c5511285d8ab957ba78715f5933cb374363ff8b4a301c482d"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Security/Basic.lean",
+        "start_line": 419,
+        "start_column": 2,
+        "end_line": 419,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "n : ℕ\nι : Type\npSpec : ProtocolSpec n\noSpec : OracleSpec ι\ninst✝¹ : oSpec.FiniteRange\ninst✝ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\nStmtIn WitIn StmtOut WitOut : Type\nrelIn : StmtIn → WitIn → Prop\nrelOut : StmtOut → WitOut → Prop\nverifier : Verifier pSpec oSpec StmtIn StmtOut\nrbrKnowledgeError : pSpec.ChallengeIdx → ℝ≥0\n⊢ rbrKnowledgeSoundness relIn relOut verifier rbrKnowledgeError →\n    rbrSoundness (Function.language relIn) (Function.language relOut) verifier rbrKnowledgeError",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Security/Basic.lean#L419"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-28T13:43:25-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "653c0647e257920724ba1ab8e6d5d17d70c123bbd91123cbe241db6937df03ec"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/OracleReduction/Security/Basic.lean",
+        "start_line": 428,
+        "start_column": 82,
+        "end_line": 428,
+        "end_column": 87
+      },
+      "debug_info": {
+        "goal": "n : ℕ\nι : Type\npSpec : ProtocolSpec n\noSpec : OracleSpec ι\ninst✝¹ : oSpec.FiniteRange\ninst✝ : (i : pSpec.ChallengeIdx) → VCVCompatible (pSpec.Challenge i)\nStmtIn WitIn StmtOut WitOut : Type\nrelIn : StmtIn → WitIn → Prop\nrelOut : StmtOut → WitOut → Prop\nverifier : Verifier pSpec oSpec StmtIn StmtOut\nrbrKnowledgeError : pSpec.ChallengeIdx → ℝ≥0\n⊢ rbrKnowledgeSoundness relIn relOut verifier rbrKnowledgeError →\n    knowledgeSoundness relIn relOut verifier (∑ i, rbrKnowledgeError i)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/OracleReduction/Security/Basic.lean#L428"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2024-11-28T13:43:25-07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "1bab6bebfe9d333ea39f458df068e9f99cbd99fd0357df66c6eb3422b47e3a6b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Sumcheck/Basic.lean",
+        "start_line": 495,
+        "start_column": 2,
+        "end_line": 495,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : CommSemiring R\ninst✝ : VCVCompatible R\nn deg m : ℕ\nD : Fin m ↪ R\nι : Type\noSpec : OracleSpec ι\ni : Fin (n + 1)\nstmt : Statement R n i.castSucc × ((i : Fin 1) → OracleStatement R n deg i)\ntranscript : FullTranscript ![(Direction.P_to_V, ↥R⦃≤ ↑deg⦄[X]), (Direction.V_to_P, R)]\nx : (pSpec R deg).getType 0\nhp_i : ↑(transcript 0) ∈ R⦃≤ ↑deg⦄[X]\nhEq : transcript 0 = ⟨↑(transcript 0), hp_i⟩\n⊢ (do\n      let a ←\n        ((OptionT.run (mapM (fun i => liftM (query (Sum.inr (Sum.inr ⟨0, ⋯⟩)) (D i))) (List.finRange m))).bind\n                fun __do_lift =>\n                __do_lift.elim (FreeMonad.pure none)\n                  (OptionT.run ∘ fun evals => do\n                    if evals.sum = stmt.1.target then pure () else failure\n                    (fun a => { target := a, challenges := Fin.snoc stmt.1.challenges (transcript 1) }) <$>\n                        liftM (query (Sum.inr (Sum.inr ⟨0, ⋯⟩)) (transcript 1)))).mapM\n            fun {α} => (OracleInterface.simOracle2 oSpec stmt.2 transcript.messages).impl\n      (fun a => (a, fun i_1 => stmt.2 i_1)) <$> a.getM) =\n    (fun a =>\n        ({ target := Polynomial.eval (transcript 1) ↑(transcript 0),\n            challenges := Fin.snoc stmt.1.challenges (transcript 1) },\n          stmt.2)) <$>\n      if ∑ x, Polynomial.eval (D x) ↑(transcript 0) = stmt.1.target then pure () else failure",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Sumcheck/Basic.lean#L495"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-18T19:07:20+07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "698b8a383775fe427016188f3fc14db6ead71e12afb724da03e17c8890335162"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Sumcheck/Basic.lean",
+        "start_line": 513,
+        "start_column": 57,
+        "end_line": 513,
+        "end_column": 62
+      },
+      "debug_info": {
+        "goal": "case left\nR : Type\ninst✝³ : CommSemiring R\ninst✝² : VCVCompatible R\nn deg m : ℕ\nD : Fin m ↪ R\nι : Type\noSpec : OracleSpec ι\ni : Fin (n + 1)\ninst✝¹ : DecidableEq ι\ninst✝ : oSpec.FiniteRange\ntarget : R\nchallenge : Fin ↑i.castSucc → R\noStmt : (i : Fin 1) → OracleStatement R n deg i\nwitIn✝ : Unit\nhValid :\n  ∑ x ∈ Fintype.piFinset fun i => Finset.map D univ,\n      (MvPolynomial.eval (Fin.append challenge x ∘ Fin.cast ⋯)) ↑(oStmt 0) =\n    target\n⊢ (do\n      let x ←\n        ({ prover := prover R n deg D oSpec i,\n                        verifier := oracleVerifier R n deg D oSpec i }.toReduction.prover.sendMessage\n                ⟨0, ⋯⟩\n                ({ prover := prover R n deg D oSpec i,\n                          verifier := oracleVerifier R n deg D oSpec i }.toReduction.prover.input\n                  ({ target := target, challenges := challenge }, oStmt) witIn✝)).liftComp\n            (oSpec ++ₒ [(pSpec R deg).Challenge]ₒ)\n      let a ← liftM (query (Sum.inr ⟨1, ⋯⟩) ())\n      (fun a_1 =>\n            ({ prover := prover R n deg D oSpec i,\n                          verifier := oracleVerifier R n deg D oSpec i }.toReduction.prover.toProverOut.1\n                ({ prover := prover R n deg D oSpec i,\n                          verifier := oracleVerifier R n deg D oSpec i }.toReduction.prover.receiveChallenge\n                  ⟨1, ⋯⟩ x.2 a),\n              a_1, Transcript.snoc a (Transcript.snoc x.1 default))) <$>\n          (Verifier.run ({ target := target, challenges := challenge }, oStmt)\n                (Transcript.snoc a (Transcript.snoc x.1 default))\n                { prover := prover R n deg D oSpec i,\n                      verifier := oracleVerifier R n deg D oSpec i }.toReduction.verifier).liftComp\n            (oSpec ++ₒ [(pSpec R deg).Challenge]ₒ)).neverFails",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Sumcheck/Basic.lean#L513"
+      },
+      "metadata": {
+        "blame_email_hash": "0c5d39c5ece3",
+        "blame_date": "2025-03-09T23:22:53-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "238f7e9a813334be76fd76f1e39ff378eae5aeba3c184b7e0867eb631671aec7"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Sumcheck/Basic.lean",
+        "start_line": 522,
+        "start_column": 2,
+        "end_line": 522,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "case right\nR : Type\ninst✝³ : CommSemiring R\ninst✝² : VCVCompatible R\nn deg m : ℕ\nD : Fin m ↪ R\nι : Type\noSpec : OracleSpec ι\ni : Fin (n + 1)\ninst✝¹ : DecidableEq ι\ninst✝ : oSpec.FiniteRange\ntarget : R\nchallenge : Fin ↑i.castSucc → R\noStmt : (i : Fin 1) → OracleStatement R n deg i\nwitIn✝ : Unit\nhValid :\n  ∑ x ∈ Fintype.piFinset fun i => Finset.map D univ,\n      (MvPolynomial.eval (Fin.append challenge x ∘ Fin.cast ⋯)) ↑(oStmt 0) =\n    target\n⊢ ∀ (a : Statement R n i.succ) (b : (i : Fin 1) → OracleStatement R n deg i) (b_1 : Unit) (a_1 : Statement R n i.succ)\n    (b_2 : (i : Fin 1) → OracleStatement R n deg i) (b_3 : (pSpec R deg).FullTranscript),\n    (((a, b), b_1), (a_1, b_2), b_3) ∈\n        (run ({ target := target, challenges := challenge }, oStmt) witIn✝\n            { prover := prover R n deg D oSpec i, verifier := oracleVerifier R n deg D oSpec i }.toReduction).support →\n      (match (a_1, b_2) with\n        | ({ target := target, challenges := challenges }, oStmt) =>\n          match oStmt 0 with\n          | ⟨poly, property⟩ =>\n            ∑ x ∈ Fintype.piFinset fun i => Finset.map D univ,\n                (MvPolynomial.eval (Fin.append challenges x ∘ Fin.cast ⋯)) poly =\n              target) ∧\n        (a, b) = (a_1, b_2)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Sumcheck/Basic.lean#L522"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-01-18T19:07:20+07:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "ad33836642d286bf0c50a7d5adf9fe688a0a4ce8d78d638933f60368e4412138"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Sumcheck/Basic.lean",
+        "start_line": 571,
+        "start_column": 4,
+        "end_line": 571,
+        "end_column": 9
+      },
+      "debug_info": {
+        "goal": "R✝ : Type\ninst✝⁵ : CommSemiring R✝\nn✝ deg✝ m✝ : ℕ\nD✝ : Fin m✝ ↪ R✝\nι✝ : Type\noSpec✝ : OracleSpec ι✝\ninst✝⁴ : VCVCompatible R✝\nR : Type\ninst✝³ : CommSemiring R\ninst✝² : VCVCompatible R\nn deg m : ℕ\nD : Fin m ↪ R\nι : Type\noSpec : OracleSpec ι\ni✝ : Fin (n + 1)\ninst✝¹ : DecidableEq ι\ninst✝ : oSpec.FiniteRange\ni : Fin (n + 1)\nstmt : Statement R n i.castSucc × ((i : Fin 1) → OracleStatement R n deg i)\ntr : Transcript (Fin.last 2) (pSpec R deg)\nhFalse :\n  ¬relation R n deg D i.succ ({ target := stmt.1.target, challenges := Fin.snoc stmt.1.challenges (tr 1) }, stmt.2) ()\n⊢ ∀ (a : Statement R n i.succ) (b : (i : Fin 1) → OracleStatement R n deg i),\n    (a, b) ∈ (Verifier.run stmt tr (verifier R n deg D oSpec i)).support →\n      ∀ (x : Unit), ¬relation R n deg D i.succ (a, b) x",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Sumcheck/Basic.lean#L571"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-06T20:02:30-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "9c2ea5effc267935efd2a27e832b3105fc54cd0208c36004d934e2bf2803ce6a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/Verified-zkEVM/ZKLib",
+        "branch": "main",
+        "commit": "0ec8b2bbd257791ecf9ba7c0941595933611e2eb",
+        "lean_version": "v4.18.0"
+      },
+      "location": {
+        "path": "ArkLib/ProofSystem/Sumcheck/Basic.lean",
+        "start_line": 646,
+        "start_column": 42,
+        "end_line": 646,
+        "end_column": 47
+      },
+      "debug_info": {
+        "goal": "R : Type\ninst✝¹ : CommSemiring R\nn deg m : ℕ\nD : Fin m ↪ R\ninst✝ : VCVCompatible R\n⊢ OracleReduction.perfectCompleteness (relIn R n deg D) (relOut R n deg) (reduction R n deg)",
+        "url": "https://github.com/Verified-zkEVM/ZKLib/blob/0ec8b2bbd257791ecf9ba7c0941595933611e2eb/ArkLib/ProofSystem/Sumcheck/Basic.lean#L646"
+      },
+      "metadata": {
+        "blame_email_hash": "f335a4ba1b88",
+        "blame_date": "2025-02-24T11:52:07-05:00",
+        "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
+      },
+      "id": "ee0c0726a10b98eea0f4ba97dc36202d96f1a1adccd3ffd73aa13de65cdcbdcc"
     }
   ]
 }
