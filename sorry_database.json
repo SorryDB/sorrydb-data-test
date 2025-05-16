@@ -32,8 +32,8 @@
     },
     {
       "remote_url": "https://github.com/dwrensha/compfiles",
-      "last_time_visited": "2025-05-15T21:17:54.301939+00:00",
-      "remote_heads_hash": "a7c812644485"
+      "last_time_visited": "2025-05-16T21:05:06.472562+00:00",
+      "remote_heads_hash": "e9f9a7b9bbcb"
     },
     {
       "remote_url": "https://github.com/emilyriehl/infinity-cosmos",
@@ -57,13 +57,13 @@
     },
     {
       "remote_url": "https://github.com/FormalizedFormalLogic/Foundation",
-      "last_time_visited": "2025-05-15T21:17:59.053100+00:00",
-      "remote_heads_hash": "cfd08bfc1208"
+      "last_time_visited": "2025-05-16T21:05:09.034531+00:00",
+      "remote_heads_hash": "6b79a99391f5"
     },
     {
       "remote_url": "https://github.com/fpvandoorn/carleson",
-      "last_time_visited": "2025-05-15T21:37:19.604375+00:00",
-      "remote_heads_hash": "ce49e3d48f94"
+      "last_time_visited": "2025-05-16T21:23:46.051933+00:00",
+      "remote_heads_hash": "3b186550419e"
     },
     {
       "remote_url": "https://github.com/frenzymath/jixia",
@@ -77,8 +77,8 @@
     },
     {
       "remote_url": "https://github.com/HEPLean/PhysLean",
-      "last_time_visited": "2025-05-15T21:37:23.509808+00:00",
-      "remote_heads_hash": "f1e22e209b4a"
+      "last_time_visited": "2025-05-16T21:23:49.337804+00:00",
+      "remote_heads_hash": "19c56147567f"
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/formalising-mathematics-2024",
@@ -87,8 +87,8 @@
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/FLT",
-      "last_time_visited": "2025-05-15T21:37:25.792428+00:00",
-      "remote_heads_hash": "146b6099ac33"
+      "last_time_visited": "2025-05-16T21:23:51.978753+00:00",
+      "remote_heads_hash": "daa54e9cb1e6"
     },
     {
       "remote_url": "https://github.com/JamesGallicchio/LeanColls",
@@ -162,13 +162,13 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/flt-regular",
-      "last_time_visited": "2025-05-15T21:38:31.394912+00:00",
-      "remote_heads_hash": "04da5dc020c0"
+      "last_time_visited": "2025-05-16T21:23:59.399933+00:00",
+      "remote_heads_hash": "82409be7c3a2"
     },
     {
       "remote_url": "https://github.com/leanprover-community/duper",
-      "last_time_visited": "2025-05-15T21:38:32.770170+00:00",
-      "remote_heads_hash": "0c4a3ddacf4b"
+      "last_time_visited": "2025-05-16T21:24:00.896167+00:00",
+      "remote_heads_hash": "27552fbe1b6c"
     },
     {
       "remote_url": "https://github.com/leanprover-community/con-nf",
@@ -177,13 +177,13 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/batteries",
-      "last_time_visited": "2025-05-15T21:38:34.827657+00:00",
-      "remote_heads_hash": "5be31c1163d5"
+      "last_time_visited": "2025-05-16T21:24:03.940965+00:00",
+      "remote_heads_hash": "c77102047c58"
     },
     {
       "remote_url": "https://github.com/leanprover-community/lean-auto",
-      "last_time_visited": "2025-05-15T21:38:46.475412+00:00",
-      "remote_heads_hash": "f65c3b281893"
+      "last_time_visited": "2025-05-16T21:24:16.810561+00:00",
+      "remote_heads_hash": "0b3676c5bea5"
     },
     {
       "remote_url": "https://github.com/leanprover-community/aesop",
@@ -192,13 +192,13 @@
     },
     {
       "remote_url": "https://github.com/leanprover/verso",
-      "last_time_visited": "2025-05-15T21:38:51.288715+00:00",
-      "remote_heads_hash": "385cf80aabd5"
+      "last_time_visited": "2025-05-16T21:24:19.722740+00:00",
+      "remote_heads_hash": "a509bf22caf5"
     },
     {
       "remote_url": "https://github.com/leanprover/reference-manual",
-      "last_time_visited": "2025-05-15T21:38:53.014055+00:00",
-      "remote_heads_hash": "a46bd919adb5"
+      "last_time_visited": "2025-05-16T21:24:21.361588+00:00",
+      "remote_heads_hash": "7789a0271e9d"
     },
     {
       "remote_url": "https://github.com/leanprover/doc-gen4",
@@ -297,8 +297,8 @@
     },
     {
       "remote_url": "https://github.com/teorth/equational_theories",
-      "last_time_visited": "2025-05-15T21:39:08.761255+00:00",
-      "remote_heads_hash": "85d3bf46687b"
+      "last_time_visited": "2025-05-16T21:24:36.840876+00:00",
+      "remote_heads_hash": "2fce94febb0c"
     },
     {
       "remote_url": "https://github.com/Timeroot/ComputableReal",
