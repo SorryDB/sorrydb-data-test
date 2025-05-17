@@ -32,8 +32,8 @@
     },
     {
       "remote_url": "https://github.com/dwrensha/compfiles",
-      "last_time_visited": "2025-05-16T21:05:06.472562+00:00",
-      "remote_heads_hash": "e9f9a7b9bbcb"
+      "last_time_visited": "2025-05-17T21:05:05.145031+00:00",
+      "remote_heads_hash": "fab17258feab"
     },
     {
       "remote_url": "https://github.com/emilyriehl/infinity-cosmos",
@@ -57,8 +57,8 @@
     },
     {
       "remote_url": "https://github.com/FormalizedFormalLogic/Foundation",
-      "last_time_visited": "2025-05-16T21:05:09.034531+00:00",
-      "remote_heads_hash": "6b79a99391f5"
+      "last_time_visited": "2025-05-17T21:05:07.400075+00:00",
+      "remote_heads_hash": "627ace4425e9"
     },
     {
       "remote_url": "https://github.com/fpvandoorn/carleson",
@@ -77,8 +77,8 @@
     },
     {
       "remote_url": "https://github.com/HEPLean/PhysLean",
-      "last_time_visited": "2025-05-16T21:23:49.337804+00:00",
-      "remote_heads_hash": "19c56147567f"
+      "last_time_visited": "2025-05-17T21:05:10.672256+00:00",
+      "remote_heads_hash": "bab073910098"
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/formalising-mathematics-2024",
@@ -87,8 +87,8 @@
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/FLT",
-      "last_time_visited": "2025-05-16T21:23:51.978753+00:00",
-      "remote_heads_hash": "daa54e9cb1e6"
+      "last_time_visited": "2025-05-17T21:05:12.895909+00:00",
+      "remote_heads_hash": "692c3c17c2fe"
     },
     {
       "remote_url": "https://github.com/JamesGallicchio/LeanColls",
@@ -177,8 +177,8 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/batteries",
-      "last_time_visited": "2025-05-16T21:24:03.940965+00:00",
-      "remote_heads_hash": "c77102047c58"
+      "last_time_visited": "2025-05-17T21:05:19.840415+00:00",
+      "remote_heads_hash": "52332458671e"
     },
     {
       "remote_url": "https://github.com/leanprover-community/lean-auto",
@@ -297,8 +297,8 @@
     },
     {
       "remote_url": "https://github.com/teorth/equational_theories",
-      "last_time_visited": "2025-05-16T21:24:36.840876+00:00",
-      "remote_heads_hash": "2fce94febb0c"
+      "last_time_visited": "2025-05-17T21:05:31.733276+00:00",
+      "remote_heads_hash": "a17325e58869"
     },
     {
       "remote_url": "https://github.com/Timeroot/ComputableReal",
@@ -312,8 +312,8 @@
     },
     {
       "remote_url": "https://github.com/ufmg-smite/lean-smt",
-      "last_time_visited": "2025-05-15T21:39:21.865699+00:00",
-      "remote_heads_hash": "cf0101a25df7"
+      "last_time_visited": "2025-05-17T21:05:45.747086+00:00",
+      "remote_heads_hash": "9467c05f4139"
     },
     {
       "remote_url": "https://github.com/verified-optimization/CvxLean",
@@ -6921,6 +6921,256 @@
         "inclusion_date": "2025-05-15T21:42:17.749878+00:00"
       },
       "id": "ee0c0726a10b98eea0f4ba97dc36202d96f1a1adccd3ffd73aa13de65cdcbdcc"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Smt/Reconstruct/BitVec/Bitblast.lean",
+        "start_line": 37,
+        "start_column": 2,
+        "end_line": 37,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "w : Nat\nx y : BitVec w\n⊢ (x = y) = (BitVec.beq w x y = true)",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Smt/Reconstruct/BitVec/Bitblast.lean#L37"
+      },
+      "metadata": {
+        "blame_email_hash": "a29bc6f92c6c",
+        "blame_date": "2024-05-08T17:36:04-07:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "06903fb617edab65a9480d78f688920ee401e63324fbd0215080108f9415717e"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/Shift.lean",
+        "start_line": 8,
+        "start_column": 2,
+        "end_line": 8,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec 2\n⊢ x ++ y = zeroExtend 4 x <<< 2#2 ||| zeroExtend 4 y",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/BitVec/Shift.lean#L8"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-08-05T17:11:15+02:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "10966eb3e5e3ab574d4d8098887b6d4905ac78eac95d16e1bd2d3e94afbafbfb"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/Shift.lean",
+        "start_line": 13,
+        "start_column": 2,
+        "end_line": 13,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec 3\n⊢ x ++ y = zeroExtend 6 x <<< 3#2 ||| zeroExtend 6 y",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/BitVec/Shift.lean#L13"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-08-05T17:11:15+02:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "af1c238a9c4a4867f4aac73b8df81f7800516e0e37fcb9d0d31c93d503972fff"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/XorComm.lean",
+        "start_line": 5,
+        "start_column": 2,
+        "end_line": 5,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec 2\n⊢ x ^^^ y = y ^^^ x",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/BitVec/XorComm.lean#L5"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "0fdae338de0f47f0a2a025dfc4c918ea4db52c7681734343316e257737edebc0"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/BitVec/XorComm.lean",
+        "start_line": 9,
+        "start_column": 2,
+        "end_line": 9,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "x y : BitVec (4 + 4)\n⊢ x ^^^ y = y ^^^ x",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/BitVec/XorComm.lean#L9"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "d3457d2e5b75a9849b2e40aa258c7a298792a74d0797661c455499ab22a2885a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/DefineSort.lean",
+        "start_line": 8,
+        "start_column": 2,
+        "end_line": 8,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : MyInt\n⊢ MyInt.add a b = MyInt.add b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/Int/DefineSort.lean#L8"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "0d9944a0ca335cee494beb1bb7ce91fc4fcb01f4e5ba50725acc2abcbec6f495"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 7,
+        "start_column": 2,
+        "end_line": 7,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\n⊢ curryAdd a b = curryAdd b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/Int/Binders.lean#L7"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "c3816f311a06b056280607cf44d7e694128a49d46908a9142cf27a506696e93b"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 13,
+        "start_column": 2,
+        "end_line": 13,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\n⊢ partCurryAdd a b = partCurryAdd b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/Int/Binders.lean#L13"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "428f82440944a46de6f9d4428e03dc90a566488748b2621d6c9b9c1b4eb67a6f"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 20,
+        "start_column": 2,
+        "end_line": 20,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\npartCurryAdd' : Int → Int → Int := fun a => HAdd.hAdd a\n⊢ partCurryAdd' a b = partCurryAdd' b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/Int/Binders.lean#L20"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "2f0e20ce24530f5768780759413afb347c84455200e92d0223d6b03297b7ad0a"
+    },
+    {
+      "repo": {
+        "remote": "https://github.com/ufmg-smite/lean-smt",
+        "branch": "main",
+        "commit": "e994ff05c81214b3397f8b59aaeca4c302bd41dc",
+        "lean_version": "v4.19.0"
+      },
+      "location": {
+        "path": "Test/Int/Binders.lean",
+        "start_line": 27,
+        "start_column": 2,
+        "end_line": 27,
+        "end_column": 7
+      },
+      "debug_info": {
+        "goal": "a b : Int\n⊢ mismatchNamesAdd a b = mismatchNamesAdd b a",
+        "url": "https://github.com/ufmg-smite/lean-smt/blob/e994ff05c81214b3397f8b59aaeca4c302bd41dc/Test/Int/Binders.lean#L27"
+      },
+      "metadata": {
+        "blame_email_hash": "2d71a621927f",
+        "blame_date": "2022-07-14T12:41:05-04:00",
+        "inclusion_date": "2025-05-17T21:05:46.142719+00:00"
+      },
+      "id": "ac9133a1fe234f6c3ac92487eb1756784d8c4fc5bb11aa42e4000d948e148a4c"
     }
   ]
 }
