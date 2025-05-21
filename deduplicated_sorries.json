@@ -1,0 +1,377 @@
+[
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/EasyDirection.lean",
+      "start_line": 24,
+      "start_column": 20,
+      "end_line": 24,
+      "end_column": 25
+    },
+    "debug_info": {
+      "goal": "case cographic\n\u03b1 : Type\ninst\u271d : DecidableEq \u03b1\nM M\u271d : Matroid \u03b1\nhM : M\u271d.IsCographic\n\u22a2 M\u271d.IsRegular",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/EasyDirection.lean#L24"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-05-17T15:49:08+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "223fd08fe10a8100304cccfa5c897cb6b00f81ef9a59ee21883fbb738c9997db"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/HardDirection.lean",
+      "start_line": 8,
+      "start_column": 2,
+      "end_line": 8,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d : DecidableEq \u03b1\nM : Matroid \u03b1\nhM : M.IsRegular\n\u22a2 M.IsGood",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/HardDirection.lean#L8"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-02-13T12:19:44+01:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "ec9b6ac25089d2564cf8885e684c3d1b58e1932bf0f96bd030e7cb59f2ac9376"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum1.lean",
+      "start_line": 60,
+      "start_column": 6,
+      "end_line": 60,
+      "end_column": 11
+    },
+    "debug_info": {
+      "goal": "case h.mp\n\u03b1 : Type\ninst\u271d : DecidableEq \u03b1\nS\u2097 S\u1d63 : StandardRepr \u03b1 Z2\nhXY : S\u2097.X \u2ad7 S\u1d63.Y\nhYX : S\u2097.Y \u2ad7 S\u1d63.X\nvalid : (standardRepr1sumComposition hXY hYX).2\nI : Set \u03b1\nhI : I \u2286 (standardRepr1sumComposition hXY hYX).1.toMatroid.E\nlinearlyI :\n  I \u2286 (standardRepr1sumComposition hXY hYX).1.X \u222a (standardRepr1sumComposition hXY hYX).1.Y \u2227\n    LinearIndepOn Z2 (Matrix.transpose fun x => (1 \u25eb (standardRepr1sumComposition hXY hYX).1.B) x \u2218 Subtype.toSum)\n      (Subtype.val \u207b\u00b9' I)\n\u22a2 (True \u2227\n      LinearIndepOn Z2 (Matrix.transpose fun x => (1 \u25eb S\u2097.B) x \u2218 Subtype.toSum) (Subtype.val \u207b\u00b9' (I \u2229 (S\u2097.X \u222a S\u2097.Y)))) \u2227\n    (True \u2227\n        LinearIndepOn Z2 (Matrix.transpose fun x => (1 \u25eb S\u1d63.B) x \u2218 Subtype.toSum)\n          (Subtype.val \u207b\u00b9' (I \u2229 (S\u1d63.X \u222a S\u1d63.Y)))) \u2227\n      I \u2286 S\u2097.X \u222a S\u2097.Y \u222a (S\u1d63.X \u222a S\u1d63.Y)",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum1.lean#L60"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-02-15T17:08:53+01:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "ea52ba487b7db52399ac852426cfe81d6b4d4a46b441c93a2de81151674ab353"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum1.lean",
+      "start_line": 62,
+      "start_column": 6,
+      "end_line": 62,
+      "end_column": 11
+    },
+    "debug_info": {
+      "goal": "case right\n\u03b1 : Type\ninst\u271d : DecidableEq \u03b1\nS\u2097 S\u1d63 : StandardRepr \u03b1 Z2\nhXY : S\u2097.X \u2ad7 S\u1d63.Y\nhYX : S\u2097.Y \u2ad7 S\u1d63.X\nvalid : (standardRepr1sumComposition hXY hYX).2\nI : Set \u03b1\nhI : I \u2286 (standardRepr1sumComposition hXY hYX).1.toMatroid.E\nlinearlyI :\n  (True \u2227\n      LinearIndepOn Z2 (Matrix.transpose fun x => (1 \u25eb S\u2097.B) x \u2218 Subtype.toSum) (Subtype.val \u207b\u00b9' (I \u2229 (S\u2097.X \u222a S\u2097.Y)))) \u2227\n    (True \u2227\n        LinearIndepOn Z2 (Matrix.transpose fun x => (1 \u25eb S\u1d63.B) x \u2218 Subtype.toSum)\n          (Subtype.val \u207b\u00b9' (I \u2229 (S\u1d63.X \u222a S\u1d63.Y)))) \u2227\n      I \u2286 S\u2097.X \u222a S\u2097.Y \u222a (S\u1d63.X \u222a S\u1d63.Y)\n\u22a2 LinearIndepOn Z2 (Matrix.transpose fun x => (1 \u25eb (standardRepr1sumComposition hXY hYX).1.B) x \u2218 Subtype.toSum)\n    (Subtype.val \u207b\u00b9' I)",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum1.lean#L62"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-02-15T17:08:53+01:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "b68fc1c4c207b9274f9de69f09136b896d354a76d8cc5674d1a95f05ce083284"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum3.lean",
+      "start_line": 446,
+      "start_column": 2,
+      "end_line": 446,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d : DecidableEq \u03b1\nX Y : Set \u03b1\nQ : Matrix \u2191X \u2191Y \u211a\nx' y\u2080 y\u2081 : \u03b1\nhQ : Q.IsTotallyUnimodular\nhx' : x' \u2208 X\nhy\u2080 : y\u2080 \u2208 Y\nhy\u2081 : y\u2081 \u2208 Y\nhyy : y\u2080 \u2260 y\u2081\nhQy\u2080 : Q \u27e8x', hx'\u27e9 \u27e8y\u2080, hy\u2080\u27e9 = 1\nhQy\u2081 : Q \u27e8x', hx'\u27e9 \u27e8y\u2081, hy\u2081\u27e9 = 1\nhQy : \u2200 (y : \u2191Y), \u2191y \u2260 y\u2080 \u2227 \u2191y \u2260 y\u2081 \u2192 Q \u27e8x', hx'\u27e9 y = 0\n\u22a2 let c\u2080 := fun j => Q (\u22ef.elem j) \u27e8y\u2080, hy\u2080\u27e9;\n  let c\u2081 := fun j => Q (\u22ef.elem j) \u27e8y\u2081, hy\u2081\u27e9;\n  let Q' := Q.submatrix \u22ef.elem \u22ef.elem;\n  (Q' \u25eb \u25aec\u2080 \u25eb \u25aec\u2081 \u25eb \u25ae(c\u2080 - c\u2081)).IsTotallyUnimodular",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum3.lean#L446"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-05-20T12:58:38+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "429799f4e3b1e04f23af2a35557b3f848631a0652a62d962dd8d31502554ff90"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum3.lean",
+      "start_line": 640,
+      "start_column": 2,
+      "end_line": 640,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u2074 : DecidableEq \u03b1\nX\u2097 Y\u2097 X\u1d63 Y\u1d63 : Set \u03b1\nx\u2080 x\u2081 x' y\u2080 y\u2081 y' : \u03b1\ninst\u271d\u00b3 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u2097 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b2 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b9 : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\ninst\u271d : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u1d63 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\nB\u2097' : Matrix \u2191X\u2097 \u2191Y\u2097 \u211a\nB\u1d63' : Matrix \u2191X\u1d63 \u2191Y\u1d63 \u211a\nhB\u2097'\u271d : B\u2097'.IsTotallyUnimodular\nhB\u1d63'\u271d : B\u1d63'.IsTotallyUnimodular\nhXX : X\u2097 \u2229 X\u1d63 = x\u2080 \u1543 x\u2081 \u1543 {x'}\nhYY : Y\u2097 \u2229 Y\u1d63 = y\u2080 \u1543 y\u2081 \u1543 {y'}\nhB\u2097' :\n  (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\nhB\u1d63' :\n  (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\n\u22a2 let x\u2080\u2097 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2080\u1d63 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2081\u2097 := \u27e8x\u2081, \u22ef\u27e9;\n  let x\u2081\u1d63 := \u27e8x\u2081, \u22ef\u27e9;\n  let x'\u2097 := \u27e8x', \u22ef\u27e9;\n  let x'\u1d63 := \u27e8x', \u22ef\u27e9;\n  let y\u2080\u2097 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2080\u1d63 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2081\u2097 := \u27e8y\u2081, \u22ef\u27e9;\n  let y\u2081\u1d63 := \u27e8y\u2081, \u22ef\u27e9;\n  let y'\u2097 := \u27e8y', \u22ef\u27e9;\n  let y'\u1d63 := \u27e8y', \u22ef\u27e9;\n  let B\u2097 := Matrix.toCanonicalSigning B\u2097' x\u2080\u2097 x\u2081\u2097 x'\u2097 y\u2080\u2097 y\u2081\u2097 y'\u2097;\n  let B\u1d63 := Matrix.toCanonicalSigning B\u1d63' x\u2080\u1d63 x\u2081\u1d63 x'\u1d63 y\u2080\u1d63 y\u2081\u1d63 y'\u1d63;\n  let A\u2097 := B\u2097.submatrix \u22ef.elem \u22ef.elem;\n  let A\u1d63 := B\u1d63.submatrix \u22ef.elem \u22ef.elem;\n  let D\u2080\u2097 := !![B\u2097 x\u2080\u2097 y\u2080\u2097, B\u2097 x\u2080\u2097 y\u2081\u2097; B\u2097 x\u2081\u2097 y\u2080\u2097, B\u2097 x\u2081\u2097 y\u2081\u2097];\n  let D\u2080\u1d63 := !![B\u1d63 x\u2080\u1d63 y\u2080\u1d63, B\u1d63 x\u2080\u1d63 y\u2081\u1d63; B\u1d63 x\u2081\u1d63 y\u2080\u1d63, B\u1d63 x\u2081\u1d63 y\u2081\u1d63];\n  let D\u2097 := ![B\u2097 x\u2080\u2097 \u2218 \u22ef.elem, B\u2097 x\u2081\u2097 \u2218 \u22ef.elem];\n  let D\u1d63 := Matrix.of fun i => ![B\u1d63 (\u22ef.elem i) y\u2080\u1d63, B\u1d63 (\u22ef.elem i) y\u2081\u1d63];\n  let D\u2097\u1d63 := D\u1d63 * D\u2080\u2097\u207b\u00b9 * D\u2097;\n  let D' := \u229e D\u2097 D\u2080\u2097 D\u2097\u1d63 D\u1d63;\n  let f\u1d63 := fun i =>\n    if hi\u2080 : \u2191i = x\u2080 then \u25e90\n    else if hi\u2081 : \u2191i = x\u2081 then \u25e91 else if hi : \u2191i \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}) then \u25ea\u27e8\u2191i, hi\u27e9 else \u22ef.elim;\n  let f\u2097 := fun j =>\n    if hj\u2080 : \u2191j = y\u2080 then \u25ea0\n    else if hj\u2081 : \u2191j = y\u2081 then \u25ea1 else if hj : \u2191j \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}) then \u25e9\u27e8\u2191j, hj\u27e9 else \u22ef.elim;\n  let D := D'.submatrix f\u1d63 f\u2097;\n  let c\u2080 := fun j => B\u1d63 (\u22ef.elem j) y\u2080\u1d63;\n  let c\u2081 := fun j => B\u1d63 (\u22ef.elem j) y\u2081\u1d63;\n  let d\u2080 := fun i => B\u2097 x\u2080\u2097 (\u22ef.elem i);\n  let d\u2081 := fun i => B\u2097 x\u2081\u2097 (\u22ef.elem i);\n  let D\u2080' := (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs;\n  let r\u2080 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 - d\u2081 else \u22ef.elim;\n  let r\u2081 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then -d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2081 else \u22ef.elim;\n  let r\u2082 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 - d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 else \u22ef.elim;\n  D =\n    (fun {X Y \u03b1} [Mul \u03b1] c r => Matrix.of fun i j => c i * r j) c\u2080 r\u2080 +\n      (fun {X Y \u03b1} [Mul \u03b1] c r => Matrix.of fun i j => c i * r j) c\u2081 r\u2081",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum3.lean#L640"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-05-20T12:58:38+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "690c78822fa6e7ef8386935e976ac323da917650b794d0aaa94461617fa2700f"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum3.lean",
+      "start_line": 729,
+      "start_column": 2,
+      "end_line": 729,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u2074 : DecidableEq \u03b1\nX\u2097 Y\u2097 X\u1d63 Y\u1d63 : Set \u03b1\nx\u2080 x\u2081 x' y\u2080 y\u2081 y' : \u03b1\ninst\u271d\u00b3 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u2097 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b2 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b9 : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\ninst\u271d : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u1d63 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\nB\u2097' : Matrix \u2191X\u2097 \u2191Y\u2097 \u211a\nB\u1d63' : Matrix \u2191X\u1d63 \u2191Y\u1d63 \u211a\nhB\u2097'\u271d : B\u2097'.IsTotallyUnimodular\nhB\u1d63'\u271d : B\u1d63'.IsTotallyUnimodular\nhXX : X\u2097 \u2229 X\u1d63 = x\u2080 \u1543 x\u2081 \u1543 {x'}\nhYY : Y\u2097 \u2229 Y\u1d63 = y\u2080 \u1543 y\u2081 \u1543 {y'}\nhB\u2097' :\n  (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\nhB\u1d63' :\n  (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\n\u22a2 let x\u2080\u2097 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2080\u1d63 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2081\u2097 := \u27e8x\u2081, \u22ef\u27e9;\n  let x\u2081\u1d63 := \u27e8x\u2081, \u22ef\u27e9;\n  let x'\u2097 := \u27e8x', \u22ef\u27e9;\n  let x'\u1d63 := \u27e8x', \u22ef\u27e9;\n  let y\u2080\u2097 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2080\u1d63 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2081\u2097 := \u27e8y\u2081, \u22ef\u27e9;\n  let y\u2081\u1d63 := \u27e8y\u2081, \u22ef\u27e9;\n  let y'\u2097 := \u27e8y', \u22ef\u27e9;\n  let y'\u1d63 := \u27e8y', \u22ef\u27e9;\n  let B\u2097 := Matrix.toCanonicalSigning B\u2097' x\u2080\u2097 x\u2081\u2097 x'\u2097 y\u2080\u2097 y\u2081\u2097 y'\u2097;\n  let B\u1d63 := Matrix.toCanonicalSigning B\u1d63' x\u2080\u1d63 x\u2081\u1d63 x'\u1d63 y\u2080\u1d63 y\u2081\u1d63 y'\u1d63;\n  let A\u2097 := B\u2097.submatrix \u22ef.elem \u22ef.elem;\n  let A\u1d63 := B\u1d63.submatrix \u22ef.elem \u22ef.elem;\n  let D\u2080\u2097 := !![B\u2097 x\u2080\u2097 y\u2080\u2097, B\u2097 x\u2080\u2097 y\u2081\u2097; B\u2097 x\u2081\u2097 y\u2080\u2097, B\u2097 x\u2081\u2097 y\u2081\u2097];\n  let D\u2080\u1d63 := !![B\u1d63 x\u2080\u1d63 y\u2080\u1d63, B\u1d63 x\u2080\u1d63 y\u2081\u1d63; B\u1d63 x\u2081\u1d63 y\u2080\u1d63, B\u1d63 x\u2081\u1d63 y\u2081\u1d63];\n  let D\u2097 := ![B\u2097 x\u2080\u2097 \u2218 \u22ef.elem, B\u2097 x\u2081\u2097 \u2218 \u22ef.elem];\n  let D\u1d63 := Matrix.of fun i => ![B\u1d63 (\u22ef.elem i) y\u2080\u1d63, B\u1d63 (\u22ef.elem i) y\u2081\u1d63];\n  let D\u2097\u1d63 := D\u1d63 * D\u2080\u2097\u207b\u00b9 * D\u2097;\n  let D' := \u229e D\u2097 D\u2080\u2097 D\u2097\u1d63 D\u1d63;\n  let f\u1d63 := fun i =>\n    if hi\u2080 : \u2191i = x\u2080 then \u25e90\n    else if hi\u2081 : \u2191i = x\u2081 then \u25e91 else if hi : \u2191i \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}) then \u25ea\u27e8\u2191i, hi\u27e9 else \u22ef.elim;\n  let f\u2097 := fun j =>\n    if hj\u2080 : \u2191j = y\u2080 then \u25ea0\n    else if hj\u2081 : \u2191j = y\u2081 then \u25ea1 else if hj : \u2191j \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}) then \u25e9\u27e8\u2191j, hj\u27e9 else \u22ef.elim;\n  let D := D'.submatrix f\u1d63 f\u2097;\n  let c\u2080 := fun j => B\u1d63 (\u22ef.elem j) y\u2080\u1d63;\n  let c\u2081 := fun j => B\u1d63 (\u22ef.elem j) y\u2081\u1d63;\n  let d\u2080 := fun i => B\u2097 x\u2080\u2097 (\u22ef.elem i);\n  let d\u2081 := fun i => B\u2097 x\u2081\u2097 (\u22ef.elem i);\n  let D\u2080' := (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs;\n  let r\u2080 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 - d\u2081 else \u22ef.elim;\n  let r\u2081 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then -d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2081 else \u22ef.elim;\n  let r\u2082 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 - d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 else \u22ef.elim;\n  \u2200 (i : \u2191(X\u1d63 \\ {x'})), D i = r\u2080 \u2228 D i = -r\u2080 \u2228 D i = r\u2081 \u2228 D i = -r\u2081 \u2228 D i = r\u2082 \u2228 D i = -r\u2082 \u2228 D i = 0",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum3.lean#L729"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-05-20T12:58:38+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "cb2584c0dd84e62d560f3a126bd33b3129dd4ff1f51f0382dc5b61f970b87067"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum3.lean",
+      "start_line": 818,
+      "start_column": 2,
+      "end_line": 818,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u2074 : DecidableEq \u03b1\nX\u2097 Y\u2097 X\u1d63 Y\u1d63 : Set \u03b1\nx\u2080 x\u2081 x' y\u2080 y\u2081 y' : \u03b1\ninst\u271d\u00b3 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u2097 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b2 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b9 : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\ninst\u271d : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u1d63 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\nB\u2097' : Matrix \u2191X\u2097 \u2191Y\u2097 \u211a\nB\u1d63' : Matrix \u2191X\u1d63 \u2191Y\u1d63 \u211a\nhB\u2097'\u271d : B\u2097'.IsTotallyUnimodular\nhB\u1d63'\u271d : B\u1d63'.IsTotallyUnimodular\nhXX : X\u2097 \u2229 X\u1d63 = x\u2080 \u1543 x\u2081 \u1543 {x'}\nhYY : Y\u2097 \u2229 Y\u1d63 = y\u2080 \u1543 y\u2081 \u1543 {y'}\nhB\u2097' :\n  (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\nhB\u1d63' :\n  (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\n\u22a2 let x\u2080\u2097 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2080\u1d63 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2081\u2097 := \u27e8x\u2081, \u22ef\u27e9;\n  let x\u2081\u1d63 := \u27e8x\u2081, \u22ef\u27e9;\n  let x'\u2097 := \u27e8x', \u22ef\u27e9;\n  let x'\u1d63 := \u27e8x', \u22ef\u27e9;\n  let y\u2080\u2097 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2080\u1d63 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2081\u2097 := \u27e8y\u2081, \u22ef\u27e9;\n  let y\u2081\u1d63 := \u27e8y\u2081, \u22ef\u27e9;\n  let y'\u2097 := \u27e8y', \u22ef\u27e9;\n  let y'\u1d63 := \u27e8y', \u22ef\u27e9;\n  let B\u2097 := Matrix.toCanonicalSigning B\u2097' x\u2080\u2097 x\u2081\u2097 x'\u2097 y\u2080\u2097 y\u2081\u2097 y'\u2097;\n  let B\u1d63 := Matrix.toCanonicalSigning B\u1d63' x\u2080\u1d63 x\u2081\u1d63 x'\u1d63 y\u2080\u1d63 y\u2081\u1d63 y'\u1d63;\n  let A\u2097 := B\u2097.submatrix \u22ef.elem \u22ef.elem;\n  let A\u1d63 := B\u1d63.submatrix \u22ef.elem \u22ef.elem;\n  let D\u2080\u2097 := !![B\u2097 x\u2080\u2097 y\u2080\u2097, B\u2097 x\u2080\u2097 y\u2081\u2097; B\u2097 x\u2081\u2097 y\u2080\u2097, B\u2097 x\u2081\u2097 y\u2081\u2097];\n  let D\u2080\u1d63 := !![B\u1d63 x\u2080\u1d63 y\u2080\u1d63, B\u1d63 x\u2080\u1d63 y\u2081\u1d63; B\u1d63 x\u2081\u1d63 y\u2080\u1d63, B\u1d63 x\u2081\u1d63 y\u2081\u1d63];\n  let D\u2097 := ![B\u2097 x\u2080\u2097 \u2218 \u22ef.elem, B\u2097 x\u2081\u2097 \u2218 \u22ef.elem];\n  let D\u1d63 := Matrix.of fun i => ![B\u1d63 (\u22ef.elem i) y\u2080\u1d63, B\u1d63 (\u22ef.elem i) y\u2081\u1d63];\n  let D\u2097\u1d63 := D\u1d63 * D\u2080\u2097\u207b\u00b9 * D\u2097;\n  let D' := \u229e D\u2097 D\u2080\u2097 D\u2097\u1d63 D\u1d63;\n  let f\u1d63 := fun i =>\n    if hi\u2080 : \u2191i = x\u2080 then \u25e90\n    else if hi\u2081 : \u2191i = x\u2081 then \u25e91 else if hi : \u2191i \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}) then \u25ea\u27e8\u2191i, hi\u27e9 else \u22ef.elim;\n  let f\u2097 := fun j =>\n    if hj\u2080 : \u2191j = y\u2080 then \u25ea0\n    else if hj\u2081 : \u2191j = y\u2081 then \u25ea1 else if hj : \u2191j \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}) then \u25e9\u27e8\u2191j, hj\u27e9 else \u22ef.elim;\n  let D := D'.submatrix f\u1d63 f\u2097;\n  let c\u2080 := fun j => B\u1d63 (\u22ef.elem j) y\u2080\u1d63;\n  let c\u2081 := fun j => B\u1d63 (\u22ef.elem j) y\u2081\u1d63;\n  let d\u2080 := fun i => B\u2097 x\u2080\u2097 (\u22ef.elem i);\n  let d\u2081 := fun i => B\u2097 x\u2081\u2097 (\u22ef.elem i);\n  let D\u2080' := (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs;\n  let r\u2080 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 - d\u2081 else \u22ef.elim;\n  let r\u2081 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then -d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2081 else \u22ef.elim;\n  let r\u2082 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 - d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 else \u22ef.elim;\n  \u2200 (j : \u2191(Y\u2097 \\ {y'})),\n    (fun x => D x j) = c\u2080 \u2228\n      (fun x => D x j) = -c\u2080 \u2228\n        (fun x => D x j) = c\u2081 \u2228\n          (fun x => D x j) = -c\u2081 \u2228 (fun x => D x j) = c\u2080 - c\u2081 \u2228 (fun x => D x j) = c\u2081 - c\u2080 \u2228 (fun x => D x j) = 0",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum3.lean#L818"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-05-20T12:58:38+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "e3f51d8945dabb8fbd0a5e82a7aae928c7ddf8c1c547392dc82a6c40bd9cad23"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum3.lean",
+      "start_line": 907,
+      "start_column": 2,
+      "end_line": 907,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u2074 : DecidableEq \u03b1\nX\u2097 Y\u2097 X\u1d63 Y\u1d63 : Set \u03b1\nx\u2080 x\u2081 x' y\u2080 y\u2081 y' : \u03b1\ninst\u271d\u00b3 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u2097 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b2 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b9 : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\ninst\u271d : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u1d63 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\nB\u2097' : Matrix \u2191X\u2097 \u2191Y\u2097 \u211a\nB\u1d63' : Matrix \u2191X\u1d63 \u2191Y\u1d63 \u211a\nhB\u2097'\u271d : B\u2097'.IsTotallyUnimodular\nhB\u1d63'\u271d : B\u1d63'.IsTotallyUnimodular\nhXX : X\u2097 \u2229 X\u1d63 = x\u2080 \u1543 x\u2081 \u1543 {x'}\nhYY : Y\u2097 \u2229 Y\u1d63 = y\u2080 \u1543 y\u2081 \u1543 {y'}\nhB\u2097' :\n  (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\nhB\u1d63' :\n  (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\n\u22a2 let x\u2080\u2097 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2080\u1d63 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2081\u2097 := \u27e8x\u2081, \u22ef\u27e9;\n  let x\u2081\u1d63 := \u27e8x\u2081, \u22ef\u27e9;\n  let x'\u2097 := \u27e8x', \u22ef\u27e9;\n  let x'\u1d63 := \u27e8x', \u22ef\u27e9;\n  let y\u2080\u2097 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2080\u1d63 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2081\u2097 := \u27e8y\u2081, \u22ef\u27e9;\n  let y\u2081\u1d63 := \u27e8y\u2081, \u22ef\u27e9;\n  let y'\u2097 := \u27e8y', \u22ef\u27e9;\n  let y'\u1d63 := \u27e8y', \u22ef\u27e9;\n  let B\u2097 := Matrix.toCanonicalSigning B\u2097' x\u2080\u2097 x\u2081\u2097 x'\u2097 y\u2080\u2097 y\u2081\u2097 y'\u2097;\n  let B\u1d63 := Matrix.toCanonicalSigning B\u1d63' x\u2080\u1d63 x\u2081\u1d63 x'\u1d63 y\u2080\u1d63 y\u2081\u1d63 y'\u1d63;\n  let A\u2097 := B\u2097.submatrix \u22ef.elem \u22ef.elem;\n  let A\u1d63 := B\u1d63.submatrix \u22ef.elem \u22ef.elem;\n  let D\u2080\u2097 := !![B\u2097 x\u2080\u2097 y\u2080\u2097, B\u2097 x\u2080\u2097 y\u2081\u2097; B\u2097 x\u2081\u2097 y\u2080\u2097, B\u2097 x\u2081\u2097 y\u2081\u2097];\n  let D\u2080\u1d63 := !![B\u1d63 x\u2080\u1d63 y\u2080\u1d63, B\u1d63 x\u2080\u1d63 y\u2081\u1d63; B\u1d63 x\u2081\u1d63 y\u2080\u1d63, B\u1d63 x\u2081\u1d63 y\u2081\u1d63];\n  let D\u2097 := ![B\u2097 x\u2080\u2097 \u2218 \u22ef.elem, B\u2097 x\u2081\u2097 \u2218 \u22ef.elem];\n  let D\u1d63 := Matrix.of fun i => ![B\u1d63 (\u22ef.elem i) y\u2080\u1d63, B\u1d63 (\u22ef.elem i) y\u2081\u1d63];\n  let D\u2097\u1d63 := D\u1d63 * D\u2080\u2097\u207b\u00b9 * D\u2097;\n  let D' := \u229e D\u2097 D\u2080\u2097 D\u2097\u1d63 D\u1d63;\n  let f\u1d63 := fun i =>\n    if hi\u2080 : \u2191i = x\u2080 then \u25e90\n    else if hi\u2081 : \u2191i = x\u2081 then \u25e91 else if hi : \u2191i \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}) then \u25ea\u27e8\u2191i, hi\u27e9 else \u22ef.elim;\n  let f\u2097 := fun j =>\n    if hj\u2080 : \u2191j = y\u2080 then \u25ea0\n    else if hj\u2081 : \u2191j = y\u2081 then \u25ea1 else if hj : \u2191j \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}) then \u25e9\u27e8\u2191j, hj\u27e9 else \u22ef.elim;\n  let D := D'.submatrix f\u1d63 f\u2097;\n  let c\u2080 := fun j => B\u1d63 (\u22ef.elem j) y\u2080\u1d63;\n  let c\u2081 := fun j => B\u1d63 (\u22ef.elem j) y\u2081\u1d63;\n  let d\u2080 := fun i => B\u2097 x\u2080\u2097 (\u22ef.elem i);\n  let d\u2081 := fun i => B\u2097 x\u2081\u2097 (\u22ef.elem i);\n  let D\u2080' := (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs;\n  let r\u2080 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 - d\u2081 else \u22ef.elim;\n  let r\u2081 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then -d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2081 else \u22ef.elim;\n  let r\u2082 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 - d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 else \u22ef.elim;\n  (A\u1d63 \u25eb D).IsTotallyUnimodular",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum3.lean#L907"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-05-20T12:58:38+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "1f0883d9f106b8938e9f6e43961f0a7249dce894331d4961a6c8c4ea3c9864a5"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum3.lean",
+      "start_line": 996,
+      "start_column": 2,
+      "end_line": 996,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u2074 : DecidableEq \u03b1\nX\u2097 Y\u2097 X\u1d63 Y\u1d63 : Set \u03b1\nx\u2080 x\u2081 x' y\u2080 y\u2081 y' : \u03b1\ninst\u271d\u00b3 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u2097 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b2 : (x : \u03b1) \u2192 Decidable (x \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}))\ninst\u271d\u00b9 : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\ninst\u271d : (y : \u03b1) \u2192 Decidable (y \u2208 Y\u1d63 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}))\nB\u2097' : Matrix \u2191X\u2097 \u2191Y\u2097 \u211a\nB\u1d63' : Matrix \u2191X\u1d63 \u2191Y\u1d63 \u211a\nhB\u2097'\u271d : B\u2097'.IsTotallyUnimodular\nhB\u1d63'\u271d : B\u1d63'.IsTotallyUnimodular\nhXX : X\u2097 \u2229 X\u1d63 = x\u2080 \u1543 x\u2081 \u1543 {x'}\nhYY : Y\u2097 \u2229 Y\u1d63 = y\u2080 \u1543 y\u2081 \u1543 {y'}\nhB\u2097' :\n  (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\nhB\u1d63' :\n  (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2080 \u2228\n    (Matrix.submatrix3x3mems B\u1d63' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs = matrix3x3unsigned\u2081\n\u22a2 let x\u2080\u2097 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2080\u1d63 := \u27e8x\u2080, \u22ef\u27e9;\n  let x\u2081\u2097 := \u27e8x\u2081, \u22ef\u27e9;\n  let x\u2081\u1d63 := \u27e8x\u2081, \u22ef\u27e9;\n  let x'\u2097 := \u27e8x', \u22ef\u27e9;\n  let x'\u1d63 := \u27e8x', \u22ef\u27e9;\n  let y\u2080\u2097 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2080\u1d63 := \u27e8y\u2080, \u22ef\u27e9;\n  let y\u2081\u2097 := \u27e8y\u2081, \u22ef\u27e9;\n  let y\u2081\u1d63 := \u27e8y\u2081, \u22ef\u27e9;\n  let y'\u2097 := \u27e8y', \u22ef\u27e9;\n  let y'\u1d63 := \u27e8y', \u22ef\u27e9;\n  let B\u2097 := Matrix.toCanonicalSigning B\u2097' x\u2080\u2097 x\u2081\u2097 x'\u2097 y\u2080\u2097 y\u2081\u2097 y'\u2097;\n  let B\u1d63 := Matrix.toCanonicalSigning B\u1d63' x\u2080\u1d63 x\u2081\u1d63 x'\u1d63 y\u2080\u1d63 y\u2081\u1d63 y'\u1d63;\n  let A\u2097 := B\u2097.submatrix \u22ef.elem \u22ef.elem;\n  let A\u1d63 := B\u1d63.submatrix \u22ef.elem \u22ef.elem;\n  let D\u2080\u2097 := !![B\u2097 x\u2080\u2097 y\u2080\u2097, B\u2097 x\u2080\u2097 y\u2081\u2097; B\u2097 x\u2081\u2097 y\u2080\u2097, B\u2097 x\u2081\u2097 y\u2081\u2097];\n  let D\u2080\u1d63 := !![B\u1d63 x\u2080\u1d63 y\u2080\u1d63, B\u1d63 x\u2080\u1d63 y\u2081\u1d63; B\u1d63 x\u2081\u1d63 y\u2080\u1d63, B\u1d63 x\u2081\u1d63 y\u2081\u1d63];\n  let D\u2097 := ![B\u2097 x\u2080\u2097 \u2218 \u22ef.elem, B\u2097 x\u2081\u2097 \u2218 \u22ef.elem];\n  let D\u1d63 := Matrix.of fun i => ![B\u1d63 (\u22ef.elem i) y\u2080\u1d63, B\u1d63 (\u22ef.elem i) y\u2081\u1d63];\n  let D\u2097\u1d63 := D\u1d63 * D\u2080\u2097\u207b\u00b9 * D\u2097;\n  let D' := \u229e D\u2097 D\u2080\u2097 D\u2097\u1d63 D\u1d63;\n  let f\u1d63 := fun i =>\n    if hi\u2080 : \u2191i = x\u2080 then \u25e90\n    else if hi\u2081 : \u2191i = x\u2081 then \u25e91 else if hi : \u2191i \u2208 X\u1d63 \\ (x\u2080 \u1543 x\u2081 \u1543 {x'}) then \u25ea\u27e8\u2191i, hi\u27e9 else \u22ef.elim;\n  let f\u2097 := fun j =>\n    if hj\u2080 : \u2191j = y\u2080 then \u25ea0\n    else if hj\u2081 : \u2191j = y\u2081 then \u25ea1 else if hj : \u2191j \u2208 Y\u2097 \\ (y\u2080 \u1543 y\u2081 \u1543 {y'}) then \u25e9\u27e8\u2191j, hj\u27e9 else \u22ef.elim;\n  let D := D'.submatrix f\u1d63 f\u2097;\n  let c\u2080 := fun j => B\u1d63 (\u22ef.elem j) y\u2080\u1d63;\n  let c\u2081 := fun j => B\u1d63 (\u22ef.elem j) y\u2081\u1d63;\n  let d\u2080 := fun i => B\u2097 x\u2080\u2097 (\u22ef.elem i);\n  let d\u2081 := fun i => B\u2097 x\u2081\u2097 (\u22ef.elem i);\n  let D\u2080' := (Matrix.submatrix3x3mems B\u2097' \u22ef \u22ef \u22ef \u22ef \u22ef \u22ef).abs;\n  let r\u2080 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 - d\u2081 else \u22ef.elim;\n  let r\u2081 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then -d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2081 else \u22ef.elim;\n  let r\u2082 := if hD\u2080\u2080 : D\u2080' = matrix3x3unsigned\u2080 then d\u2080 - d\u2081 else if hD\u2080\u2081 : D\u2080' = matrix3x3unsigned\u2081 then d\u2080 else \u22ef.elim;\n  (A\u2097 \u229f D).IsTotallyUnimodular",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum3.lean#L996"
+    },
+    "metadata": {
+      "blame_email_hash": "a853c166ca8e",
+      "blame_date": "2025-05-20T12:58:38+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "116de01ff2b0257b395c9b107da9c556ee9ecd3a8428f071b5672fbdfa04e823"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/Ivan-Sergeyev/seymour",
+      "branch": "main",
+      "commit": "74640d8a57a6c95bc7e7007559554a1ec7835267",
+      "lean_version": "v4.18.0"
+    },
+    "location": {
+      "path": "Seymour/Matroid/Operations/Sum3.lean",
+      "start_line": 1060,
+      "start_column": 2,
+      "end_line": 1060,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "case intro.intro.intro.intro\n\u03b1 : Type\ninst\u271d : DecidableEq \u03b1\nS\u2097 S\u1d63 : StandardRepr \u03b1 Z2\nx\u2080 x\u2081 x' y\u2080 y\u2081 y' : \u03b1\nhXX : S\u2097.X \u2229 S\u1d63.X = x\u2080 \u1543 x\u2081 \u1543 {x'}\nhYY : S\u2097.Y \u2229 S\u1d63.Y = y\u2080 \u1543 y\u2081 \u1543 {y'}\nhXY : S\u2097.X \u2ad7 S\u1d63.Y\nhYX : S\u2097.Y \u2ad7 S\u1d63.X\nB\u2097 : Matrix \u2191S\u2097.X \u2191S\u2097.Y \u211a\nhB\u2097 : B\u2097.IsTotallyUnimodular\nhBB\u2097 : B\u2097.IsSigningOf S\u2097.B\nB\u1d63 : Matrix \u2191S\u1d63.X \u2191S\u1d63.Y \u211a\nhB\u1d63 : B\u1d63.IsTotallyUnimodular\nhBB\u1d63 : B\u1d63.IsSigningOf S\u1d63.B\n\u22a2 (standardRepr3sumComposition_standard hXX hYY hXY hYX).1.B.HasTuSigning",
+      "url": "https://github.com/Ivan-Sergeyev/seymour/blob/74640d8a57a6c95bc7e7007559554a1ec7835267/Seymour/Matroid/Operations/Sum3.lean#L1060"
+    },
+    "metadata": {
+      "blame_email_hash": "1f3d9a693291",
+      "blame_date": "2025-04-10T17:54:51+02:00",
+      "inclusion_date": "2025-05-21T05:06:30.038457+00:00"
+    },
+    "id": "bcc918ff93ca21eafc49ff7367831aa26042190cd694b3309b259ba5c3c3cd44"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/katydid/regex-deriv-lean",
+      "branch": "main",
+      "commit": "1e788736f206c0c111682f566380c757a6ec0c77",
+      "lean_version": "v4.14.0"
+    },
+    "location": {
+      "path": "Katydid/Regex/Smart/SmartPropOr.lean",
+      "start_line": 341,
+      "start_column": 2,
+      "end_line": 341,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type u_1\no : Ord \u03b1\nd : DecidableEq \u03b1\nx y : \u03b1\nneq : x \u2260 y\n\u22a2 x < y \u2228 x > y",
+      "url": "https://github.com/katydid/regex-deriv-lean/blob/1e788736f206c0c111682f566380c757a6ec0c77/Katydid/Regex/Smart/SmartPropOr.lean#L341"
+    },
+    "metadata": {
+      "blame_email_hash": "e3e649d9026a",
+      "blame_date": "2025-05-19T15:53:17+02:00",
+      "inclusion_date": "2025-05-21T05:20:22.105045+00:00"
+    },
+    "id": "f5aa64966ef657cc819e5e3a94eaf73206e25eac52c6211b69539007e9af7d6b"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/katydid/regex-deriv-lean",
+      "branch": "main",
+      "commit": "1e788736f206c0c111682f566380c757a6ec0c77",
+      "lean_version": "v4.14.0"
+    },
+    "location": {
+      "path": "Katydid/Regex/Smart/SmartPropOr.lean",
+      "start_line": 389,
+      "start_column": 2,
+      "end_line": 389,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u00b9 : Ord \u03b1\ninst\u271d : DecidableEq \u03b1\nx y : Regex \u03b1\nhx : OrIsSmart x\nhy : Regex.notOr y\n\u22a2 OrIsSmart (insertOr x y)",
+      "url": "https://github.com/katydid/regex-deriv-lean/blob/1e788736f206c0c111682f566380c757a6ec0c77/Katydid/Regex/Smart/SmartPropOr.lean#L389"
+    },
+    "metadata": {
+      "blame_email_hash": "e3e649d9026a",
+      "blame_date": "2025-05-19T15:53:17+02:00",
+      "inclusion_date": "2025-05-21T05:20:22.105045+00:00"
+    },
+    "id": "556213af6d62a5dc3a2c50222b82a8c4361c5452f114946c826a99a30d7e2e83"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/katydid/regex-deriv-lean",
+      "branch": "main",
+      "commit": "1e788736f206c0c111682f566380c757a6ec0c77",
+      "lean_version": "v4.14.0"
+    },
+    "location": {
+      "path": "Katydid/Regex/Smart/SmartPropOr.lean",
+      "start_line": 394,
+      "start_column": 2,
+      "end_line": 394,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u00b9 : Ord \u03b1\ninst\u271d : DecidableEq \u03b1\nx y : Regex \u03b1\nhx : OrIsSmart x\nhy : OrIsSmart y\n\u22a2 OrIsSmart (mergeOr x y)",
+      "url": "https://github.com/katydid/regex-deriv-lean/blob/1e788736f206c0c111682f566380c757a6ec0c77/Katydid/Regex/Smart/SmartPropOr.lean#L394"
+    },
+    "metadata": {
+      "blame_email_hash": "e3e649d9026a",
+      "blame_date": "2025-05-15T15:28:17+02:00",
+      "inclusion_date": "2025-05-21T05:20:22.105045+00:00"
+    },
+    "id": "d03824fe8e5542a27c2ef5fdcce8ffaca864d633f564122920b4432eaa85c82b"
+  },
+  {
+    "repo": {
+      "remote": "https://github.com/katydid/regex-deriv-lean",
+      "branch": "main",
+      "commit": "1e788736f206c0c111682f566380c757a6ec0c77",
+      "lean_version": "v4.14.0"
+    },
+    "location": {
+      "path": "Katydid/Regex/Smart/SmartPropOr.lean",
+      "start_line": 399,
+      "start_column": 2,
+      "end_line": 399,
+      "end_column": 7
+    },
+    "debug_info": {
+      "goal": "\u03b1 : Type\ninst\u271d\u00b9 : Ord \u03b1\ninst\u271d : DecidableEq \u03b1\nx y : Regex \u03b1\nhx : OrIsSmart x\nhy : OrIsSmart y\n\u22a2 OrIsSmart (smartOr x y)",
+      "url": "https://github.com/katydid/regex-deriv-lean/blob/1e788736f206c0c111682f566380c757a6ec0c77/Katydid/Regex/Smart/SmartPropOr.lean#L399"
+    },
+    "metadata": {
+      "blame_email_hash": "e3e649d9026a",
+      "blame_date": "2025-05-15T15:28:17+02:00",
+      "inclusion_date": "2025-05-21T05:20:22.105045+00:00"
+    },
+    "id": "38e3014f89189364f6ecdfc2980c13019738ee80663f7bf782b6d46b6cb19937"
+  }
+]
