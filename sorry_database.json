@@ -12,8 +12,8 @@
     },
     {
       "remote_url": "https://github.com/a2435191/lean-logic-formalization",
-      "last_time_visited": "2025-05-21T05:00:08.774164+00:00",
-      "remote_heads_hash": "3bdda06ba617"
+      "last_time_visited": "2025-05-22T05:00:02.756010+00:00",
+      "remote_heads_hash": "a69a33e6c3ea"
     },
     {
       "remote_url": "https://github.com/abdoo8080/lean-cvc5",
@@ -177,8 +177,8 @@
     },
     {
       "remote_url": "https://github.com/apnelson1/Matroid",
-      "last_time_visited": "2025-05-21T05:00:26.237418+00:00",
-      "remote_heads_hash": "d0612c0a8aaa"
+      "last_time_visited": "2025-05-22T05:01:51.756035+00:00",
+      "remote_heads_hash": "7a06b709c2d5"
     },
     {
       "remote_url": "https://github.com/arademaker/delphin",
@@ -437,8 +437,8 @@
     },
     {
       "remote_url": "https://github.com/Deducteam/lean2dk",
-      "last_time_visited": "2025-05-21T05:00:54.306111+00:00",
-      "remote_heads_hash": "cbfec8c813d4"
+      "last_time_visited": "2025-05-22T05:02:02.260941+00:00",
+      "remote_heads_hash": "bba277b049d3"
     },
     {
       "remote_url": "https://github.com/djvelleman/HTPILeanPackage",
@@ -482,8 +482,8 @@
     },
     {
       "remote_url": "https://github.com/dwrensha/compfiles",
-      "last_time_visited": "2025-05-21T05:00:59.345296+00:00",
-      "remote_heads_hash": "d6acc9cc794c"
+      "last_time_visited": "2025-05-22T05:02:19.692442+00:00",
+      "remote_heads_hash": "f20a1f5087e9"
     },
     {
       "remote_url": "https://github.com/dwrensha/Chess.lean",
@@ -512,8 +512,8 @@
     },
     {
       "remote_url": "https://github.com/fgdorais/lean4-unicode-basic",
-      "last_time_visited": "2025-05-21T05:01:04.540249+00:00",
-      "remote_heads_hash": "f694a64a8340"
+      "last_time_visited": "2025-05-22T05:02:22.361281+00:00",
+      "remote_heads_hash": "feba0ee076c4"
     },
     {
       "remote_url": "https://github.com/fgdorais/lean4-parser",
@@ -587,8 +587,8 @@
     },
     {
       "remote_url": "https://github.com/fpvandoorn/carleson",
-      "last_time_visited": "2025-05-21T05:05:30.464149+00:00",
-      "remote_heads_hash": "70f2585abcd3"
+      "last_time_visited": "2025-05-22T05:02:29.629247+00:00",
+      "remote_heads_hash": "20fb093d4a06"
     },
     {
       "remote_url": "https://github.com/fpvandoorn/BonnAnalysis",
@@ -727,8 +727,8 @@
     },
     {
       "remote_url": "https://github.com/HEPLean/PhysLean",
-      "last_time_visited": "2025-05-21T05:05:46.284757+00:00",
-      "remote_heads_hash": "8632bd4cbc14"
+      "last_time_visited": "2025-05-22T05:02:36.882124+00:00",
+      "remote_heads_hash": "5affb619a21a"
     },
     {
       "remote_url": "https://github.com/HEPLean/PhysLean_notes",
@@ -787,13 +787,13 @@
     },
     {
       "remote_url": "https://github.com/ImperialCollegeLondon/FLT",
-      "last_time_visited": "2025-05-21T05:06:25.640080+00:00",
-      "remote_heads_hash": "048397d32f7c"
+      "last_time_visited": "2025-05-22T05:02:40.977750+00:00",
+      "remote_heads_hash": "f504932846e8"
     },
     {
       "remote_url": "https://github.com/Ivan-Sergeyev/seymour",
-      "last_time_visited": "2025-05-21T05:06:29.430330+00:00",
-      "remote_heads_hash": "ca6f2d2826f4"
+      "last_time_visited": "2025-05-22T05:02:44.935303+00:00",
+      "remote_heads_hash": "f9185faad13e"
     },
     {
       "remote_url": "https://github.com/ivankobe/FactorizationSystems",
@@ -817,8 +817,8 @@
     },
     {
       "remote_url": "https://github.com/JadAbouHawili/KnightsAndKnaves-Lean4Game",
-      "last_time_visited": "2025-05-21T05:18:02.889756+00:00",
-      "remote_heads_hash": "e32cf36a0b46"
+      "last_time_visited": "2025-05-22T05:03:02.038454+00:00",
+      "remote_heads_hash": "5290ac3c0a04"
     },
     {
       "remote_url": "https://github.com/JamesGallicchio/LeanColls",
@@ -902,8 +902,8 @@
     },
     {
       "remote_url": "https://github.com/kebekus/ProjectVD",
-      "last_time_visited": "2025-05-21T05:22:37.934753+00:00",
-      "remote_heads_hash": "98b0ef088d06"
+      "last_time_visited": "2025-05-22T05:03:13.665206+00:00",
+      "remote_heads_hash": "c1c5a58f43f5"
     },
     {
       "remote_url": "https://github.com/keilambda/ttfpi",
@@ -967,8 +967,8 @@
     },
     {
       "remote_url": "https://github.com/knowsys/CertifyingDatalog",
-      "last_time_visited": "2025-05-21T05:22:45.880431+00:00",
-      "remote_heads_hash": "2f7b9d1e9249"
+      "last_time_visited": "2025-05-22T05:03:16.496175+00:00",
+      "remote_heads_hash": "0bf8f156ea86"
     },
     {
       "remote_url": "https://github.com/kovach/etch",
@@ -1037,8 +1037,8 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/mathlib4",
-      "last_time_visited": "2025-05-21T05:23:14.002189+00:00",
-      "remote_heads_hash": "4e182026938e"
+      "last_time_visited": "2025-05-22T05:03:27.125197+00:00",
+      "remote_heads_hash": "00f2788f4bbf"
     },
     {
       "remote_url": "https://github.com/leanprover-community/llm",
@@ -1077,8 +1077,8 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/duper",
-      "last_time_visited": "2025-05-21T05:28:55.266848+00:00",
-      "remote_heads_hash": "046d5f2753ea"
+      "last_time_visited": "2025-05-22T05:04:14.053045+00:00",
+      "remote_heads_hash": "ca23f951c168"
     },
     {
       "remote_url": "https://github.com/leanprover-community/con-nf",
@@ -1087,28 +1087,28 @@
     },
     {
       "remote_url": "https://github.com/leanprover-community/batteries",
-      "last_time_visited": "2025-05-21T05:28:59.398716+00:00",
-      "remote_heads_hash": "977e4dbcfb8c"
+      "last_time_visited": "2025-05-22T05:04:15.828466+00:00",
+      "remote_heads_hash": "b3cb35788be5"
     },
     {
       "remote_url": "https://github.com/leanprover-community/lean-auto",
-      "last_time_visited": "2025-05-21T05:29:16.255005+00:00",
-      "remote_heads_hash": "a59340922839"
+      "last_time_visited": "2025-05-22T05:04:26.681947+00:00",
+      "remote_heads_hash": "6abeba7e0359"
     },
     {
       "remote_url": "https://github.com/leanprover-community/aesop",
-      "last_time_visited": "2025-05-21T05:29:17.965871+00:00",
-      "remote_heads_hash": "499f1f50c838"
+      "last_time_visited": "2025-05-22T05:04:28.318514+00:00",
+      "remote_heads_hash": "13108c2d40c6"
     },
     {
       "remote_url": "https://github.com/leanprover/verso",
-      "last_time_visited": "2025-05-21T05:29:19.112180+00:00",
-      "remote_heads_hash": "6677b45c954a"
+      "last_time_visited": "2025-05-22T05:04:31.297323+00:00",
+      "remote_heads_hash": "66fdc2e14b67"
     },
     {
       "remote_url": "https://github.com/leanprover/reference-manual",
-      "last_time_visited": "2025-05-21T05:29:20.730114+00:00",
-      "remote_heads_hash": "7789a0271e9d"
+      "last_time_visited": "2025-05-22T05:04:32.748333+00:00",
+      "remote_heads_hash": "2b1f9a1b682f"
     },
     {
       "remote_url": "https://github.com/leanprover/TensorLib",
@@ -1122,8 +1122,8 @@
     },
     {
       "remote_url": "https://github.com/leanprover/subverso",
-      "last_time_visited": "2025-05-21T05:33:35.776980+00:00",
-      "remote_heads_hash": "00cfc840f8e5"
+      "last_time_visited": "2025-05-22T05:04:43.467236+00:00",
+      "remote_heads_hash": "9157f3c36e51"
     },
     {
       "remote_url": "https://github.com/leanprover/SHerLOC",
@@ -1167,8 +1167,8 @@
     },
     {
       "remote_url": "https://github.com/leanprover/KLR",
-      "last_time_visited": "2025-05-21T05:34:08.957424+00:00",
-      "remote_heads_hash": "d1b7c9dc622d"
+      "last_time_visited": "2025-05-22T05:04:45.827303+00:00",
+      "remote_heads_hash": "8dac662026a7"
     },
     {
       "remote_url": "https://github.com/leanprover/doc-gen4",
@@ -1217,13 +1217,13 @@
     },
     {
       "remote_url": "https://github.com/lindy-labs/corelib_verification",
-      "last_time_visited": "2025-05-21T05:39:18.411281+00:00",
-      "remote_heads_hash": "a62263d53756"
+      "last_time_visited": "2025-05-22T05:05:04.862033+00:00",
+      "remote_heads_hash": "83f886095639"
     },
     {
       "remote_url": "https://github.com/lindy-labs/aegis",
-      "last_time_visited": "2025-05-21T05:39:19.646902+00:00",
-      "remote_heads_hash": "c0fd53be8b92"
+      "last_time_visited": "2025-05-22T05:05:06.160261+00:00",
+      "remote_heads_hash": "4097ecd84e67"
     },
     {
       "remote_url": "https://github.com/loganrjmurphy/LeanEuclid",
@@ -1232,8 +1232,8 @@
     },
     {
       "remote_url": "https://github.com/m4lvin/lean4-pdl",
-      "last_time_visited": "2025-05-21T05:39:21.039106+00:00",
-      "remote_heads_hash": "9c5bdbd7d88a"
+      "last_time_visited": "2025-05-22T05:05:07.170250+00:00",
+      "remote_heads_hash": "c40969c13cb6"
     },
     {
       "remote_url": "https://github.com/madvorak/vcsp",
@@ -1282,8 +1282,8 @@
     },
     {
       "remote_url": "https://github.com/marcusrossel/lean-egg",
-      "last_time_visited": "2025-05-21T05:41:27.336600+00:00",
-      "remote_heads_hash": "0b20dc625576"
+      "last_time_visited": "2025-05-22T05:06:55.760207+00:00",
+      "remote_heads_hash": "5d9b102a881f"
     },
     {
       "remote_url": "https://github.com/matematiflo/SumsOfSquares",
@@ -1387,8 +1387,8 @@
     },
     {
       "remote_url": "https://github.com/opencompl/lean-mlir",
-      "last_time_visited": "2025-05-21T05:44:15.132637+00:00",
-      "remote_heads_hash": "1ff962db9b30"
+      "last_time_visited": "2025-05-22T05:07:01.756732+00:00",
+      "remote_heads_hash": "c261501ceb40"
     },
     {
       "remote_url": "https://github.com/optimisticexquisite/lean-rsa-project",
@@ -1587,8 +1587,8 @@
     },
     {
       "remote_url": "https://github.com/Seasawher/mathlib4-help",
-      "last_time_visited": "2025-05-21T05:49:21.590194+00:00",
-      "remote_heads_hash": "4cfe312800cc"
+      "last_time_visited": "2025-05-22T05:07:26.732690+00:00",
+      "remote_heads_hash": "b85d8eb724e6"
     },
     {
       "remote_url": "https://github.com/Seasawher/lean-book",
@@ -1637,8 +1637,8 @@
     },
     {
       "remote_url": "https://github.com/siddhartha-gadgil/LeanAide",
-      "last_time_visited": "2025-05-21T05:49:27.609215+00:00",
-      "remote_heads_hash": "c429cfe66bba"
+      "last_time_visited": "2025-05-22T05:07:29.605433+00:00",
+      "remote_heads_hash": "c28a9321634d"
     },
     {
       "remote_url": "https://github.com/siddhartha-gadgil/lean-loris",
@@ -1702,13 +1702,13 @@
     },
     {
       "remote_url": "https://github.com/teorth/equational_theories",
-      "last_time_visited": "2025-05-21T05:50:05.527337+00:00",
-      "remote_heads_hash": "dfe5cc9a2989"
+      "last_time_visited": "2025-05-22T05:08:01.479259+00:00",
+      "remote_heads_hash": "79031af0cdeb"
     },
     {
       "remote_url": "https://github.com/Timeroot/Lean-QuantumInfo",
-      "last_time_visited": "2025-05-21T05:50:17.715949+00:00",
-      "remote_heads_hash": "1683f1dc6aa8"
+      "last_time_visited": "2025-05-22T05:08:06.499362+00:00",
+      "remote_heads_hash": "969931139512"
     },
     {
       "remote_url": "https://github.com/Timeroot/ComputableReal",
@@ -1782,8 +1782,8 @@
     },
     {
       "remote_url": "https://github.com/VCA-EPFL/dataflow-rewriter",
-      "last_time_visited": "2025-05-21T05:50:26.960524+00:00",
-      "remote_heads_hash": "813fada35f32"
+      "last_time_visited": "2025-05-22T05:08:09.979186+00:00",
+      "remote_heads_hash": "ec5c168a7d59"
     },
     {
       "remote_url": "https://github.com/verified-optimization/CvxLean",
@@ -1797,8 +1797,8 @@
     },
     {
       "remote_url": "https://github.com/Verified-zkEVM/ArkLib",
-      "last_time_visited": "2025-05-21T05:52:46.914638+00:00",
-      "remote_heads_hash": "9a86ca71bade"
+      "last_time_visited": "2025-05-22T05:08:11.925352+00:00",
+      "remote_heads_hash": "5ec6fa0be1da"
     },
     {
       "remote_url": "https://github.com/verse-lab/veil",
@@ -1852,8 +1852,8 @@
     },
     {
       "remote_url": "https://github.com/YaelDillies/Toric",
-      "last_time_visited": "2025-05-21T05:54:15.442045+00:00",
-      "remote_heads_hash": "a2f79486964e"
+      "last_time_visited": "2025-05-22T05:08:31.588119+00:00",
+      "remote_heads_hash": "14b1020ab08e"
     },
     {
       "remote_url": "https://github.com/YaelDillies/LeanCamCombi",
